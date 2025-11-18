@@ -1,0 +1,6 @@
+.DS_Store
+/dist/
+node_modules/
+yarn-error.log
+src/data/311_Service.csv
+src/data/311_clean.csv
