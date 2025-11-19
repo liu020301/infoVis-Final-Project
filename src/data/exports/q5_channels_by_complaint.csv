@@ -1,0 +1,2021 @@
+complaint_type,channel_group,count
+APPLIANCE,Phone,137340
+APPLIANCE,Web,38478
+APPLIANCE,Other,31850
+APPLIANCE,Mobile,0
+Abandoned Bike,Web,4578
+Abandoned Bike,Phone,2077
+Abandoned Bike,Other,28
+Abandoned Bike,Mobile,0
+Abandoned Vehicle,Web,115851
+Abandoned Vehicle,Phone,98908
+Abandoned Vehicle,Mobile,85426
+Abandoned Vehicle,Other,164
+Air Quality,Web,53131
+Air Quality,Phone,48838
+Air Quality,Other,19610
+Air Quality,Mobile,0
+Animal in a Park,Web,11327
+Animal in a Park,Phone,11088
+Animal in a Park,Other,4197
+Animal in a Park,Mobile,0
+Animal-Abuse,Web,22939
+Animal-Abuse,Phone,19796
+Animal-Abuse,Other,14
+Animal-Abuse,Mobile,0
+Asbestos,Phone,17996
+Asbestos,Other,4667
+Asbestos,Web,4007
+Asbestos,Mobile,1
+Bench,Phone,23
+Bench,Web,17
+Bench,Mobile,0
+Bench,Other,0
+Bike Rack,Web,93
+Bike Rack,Phone,46
+Bike Rack,Mobile,0
+Bike Rack,Other,0
+Bike/Roller/Skate,Mobile,0
+Bike/Roller/Skate,Other,0
+Bike/Roller/Skate,Phone,0
+Bike/Roller/Skate,Web,0
+Blocked Driveway,Phone,1009936
+Blocked Driveway,Web,372424
+Blocked Driveway,Mobile,296585
+Blocked Driveway,Other,542
+Boilers,Other,32791
+Boilers,Web,162
+Boilers,Mobile,0
+Boilers,Phone,0
+Broken Parking Meter,Phone,59029
+Broken Parking Meter,Mobile,6521
+Broken Parking Meter,Web,3740
+Broken Parking Meter,Other,19
+Building/Use,Other,353963
+Building/Use,Web,3801
+Building/Use,Mobile,0
+Building/Use,Phone,0
+Bus Stop Shelter Complaint,Phone,12189
+Bus Stop Shelter Complaint,Web,5795
+Bus Stop Shelter Complaint,Other,53
+Bus Stop Shelter Complaint,Mobile,0
+Cannabis Retailer,Mobile,0
+Cannabis Retailer,Other,0
+Cannabis Retailer,Phone,0
+Cannabis Retailer,Web,0
+Commercial Disposal Complaint,Web,6505
+Commercial Disposal Complaint,Phone,2374
+Commercial Disposal Complaint,Other,89
+Commercial Disposal Complaint,Mobile,0
+Construction Lead Dust,Phone,2526
+Construction Lead Dust,Web,2038
+Construction Lead Dust,Other,2
+Construction Lead Dust,Mobile,0
+Consumer Complaint,Phone,204189
+Consumer Complaint,Web,75406
+Consumer Complaint,Other,34
+Consumer Complaint,Mobile,0
+Curb Condition,Phone,28805
+Curb Condition,Web,27918
+Curb Condition,Mobile,13487
+Curb Condition,Other,4275
+DOOR/WINDOW,Phone,300269
+DOOR/WINDOW,Web,97029
+DOOR/WINDOW,Mobile,0
+DOOR/WINDOW,Other,0
+Damaged Tree,Phone,269493
+Damaged Tree,Other,110866
+Damaged Tree,Mobile,50584
+Damaged Tree,Web,34698
+Day Care,Phone,6269
+Day Care,Web,3137
+Day Care,Other,24
+Day Care,Mobile,0
+Dead Animal,Phone,21386
+Dead Animal,Web,9789
+Dead Animal,Other,449
+Dead Animal,Mobile,0
+Dead/Dying Tree,Phone,48619
+Dead/Dying Tree,Other,24193
+Dead/Dying Tree,Web,17204
+Dead/Dying Tree,Mobile,0
+Derelict Vehicles,Phone,320445
+Derelict Vehicles,Web,50421
+Derelict Vehicles,Mobile,39798
+Derelict Vehicles,Other,566
+Dirty Condition,Mobile,66221
+Dirty Condition,Web,62169
+Dirty Condition,Phone,33299
+Dirty Condition,Other,474
+Disorderly Youth,Phone,4813
+Disorderly Youth,Web,1277
+Disorderly Youth,Other,7
+Disorderly Youth,Mobile,0
+Drinking,Web,16059
+Drinking,Phone,14721
+Drinking,Other,10
+Drinking,Mobile,0
+Drinking Water,Phone,2038
+Drinking Water,Web,516
+Drinking Water,Other,6
+Drinking Water,Mobile,0
+Drug Activity,Web,54563
+Drug Activity,Phone,11349
+Drug Activity,Other,10
+Drug Activity,Mobile,0
+Dumpster Complaint,Web,3718
+Dumpster Complaint,Phone,2072
+Dumpster Complaint,Other,21
+Dumpster Complaint,Mobile,0
+E-Scooter,Phone,966
+E-Scooter,Web,400
+E-Scooter,Other,2
+E-Scooter,Mobile,0
+ELECTRIC,Phone,265367
+ELECTRIC,Other,93442
+ELECTRIC,Web,71127
+ELECTRIC,Mobile,0
+ELEVATOR,Web,8776
+ELEVATOR,Phone,6133
+ELEVATOR,Mobile,0
+ELEVATOR,Other,0
+Electrical,Other,45491
+Electrical,Web,205
+Electrical,Mobile,0
+Electrical,Phone,0
+Elevator,Other,188089
+Elevator,Web,145
+Elevator,Mobile,0
+Elevator,Phone,0
+Emergency Response Team (ERT),Other,54316
+Emergency Response Team (ERT),Web,105
+Emergency Response Team (ERT),Mobile,0
+Emergency Response Team (ERT),Phone,0
+Encampment,Mobile,73209
+Encampment,Web,48847
+Encampment,Phone,22157
+Encampment,Other,31
+FLOORING/STAIRS,Phone,192796
+FLOORING/STAIRS,Web,57862
+FLOORING/STAIRS,Mobile,0
+FLOORING/STAIRS,Other,0
+Ferry Complaint,Phone,20
+Ferry Complaint,Mobile,0
+Ferry Complaint,Other,0
+Ferry Complaint,Web,0
+Ferry Inquiry,Phone,25
+Ferry Inquiry,Mobile,0
+Ferry Inquiry,Other,0
+Ferry Inquiry,Web,0
+Food Establishment,Phone,66285
+Food Establishment,Web,46647
+Food Establishment,Mobile,20456
+Food Establishment,Other,1425
+Food Poisoning,Phone,26690
+Food Poisoning,Web,15200
+Food Poisoning,Other,302
+Food Poisoning,Mobile,0
+For Hire Vehicle Complaint,Web,102117
+For Hire Vehicle Complaint,Phone,18272
+For Hire Vehicle Complaint,Mobile,9089
+For Hire Vehicle Complaint,Other,886
+For Hire Vehicle Report,Web,2387
+For Hire Vehicle Report,Phone,1699
+For Hire Vehicle Report,Other,8
+For Hire Vehicle Report,Mobile,0
+Found Property,Web,2359
+Found Property,Phone,1420
+Found Property,Other,90
+Found Property,Mobile,0
+GENERAL,Phone,193442
+GENERAL,Web,90654
+GENERAL,Other,3
+GENERAL,Mobile,0
+General Construction/Plumbing,Other,514023
+General Construction/Plumbing,Web,2688
+General Construction/Plumbing,Mobile,0
+General Construction/Plumbing,Phone,0
+Graffiti,Other,220351
+Graffiti,Web,9008
+Graffiti,Phone,4442
+Graffiti,Mobile,0
+Green Taxi Complaint,Web,907
+Green Taxi Complaint,Phone,395
+Green Taxi Complaint,Mobile,108
+Green Taxi Complaint,Other,23
+Green Taxi Report,Web,74
+Green Taxi Report,Phone,65
+Green Taxi Report,Other,1
+Green Taxi Report,Mobile,0
+HEAT/HOT WATER,Phone,1097072
+HEAT/HOT WATER,Web,906589
+HEAT/HOT WATER,Mobile,348762
+HEAT/HOT WATER,Other,0
+Harboring Bees/Wasps,Phone,2420
+Harboring Bees/Wasps,Web,1416
+Harboring Bees/Wasps,Other,4
+Harboring Bees/Wasps,Mobile,0
+Hazardous Materials,Phone,21190
+Hazardous Materials,Other,9309
+Hazardous Materials,Web,5558
+Hazardous Materials,Mobile,0
+Highway Condition,Phone,31398
+Highway Condition,Other,126
+Highway Condition,Web,1
+Highway Condition,Mobile,0
+Highway Sign - Damaged,Phone,286
+Highway Sign - Damaged,Other,2
+Highway Sign - Damaged,Mobile,0
+Highway Sign - Damaged,Web,0
+Homeless Person Assistance,Mobile,199298
+Homeless Person Assistance,Phone,50763
+Homeless Person Assistance,Web,41340
+Homeless Person Assistance,Other,16
+Illegal Animal Kept as Pet,Web,2215
+Illegal Animal Kept as Pet,Phone,1960
+Illegal Animal Kept as Pet,Other,753
+Illegal Animal Kept as Pet,Mobile,0
+Illegal Dumping,Web,39509
+Illegal Dumping,Phone,37874
+Illegal Dumping,Mobile,28333
+Illegal Dumping,Other,2057
+Illegal Fireworks,Web,89415
+Illegal Fireworks,Phone,13128
+Illegal Fireworks,Other,11
+Illegal Fireworks,Mobile,0
+Illegal Parking,Mobile,1130450
+Illegal Parking,Web,882597
+Illegal Parking,Phone,779967
+Illegal Parking,Other,247
+Illegal Posting,Web,10691
+Illegal Posting,Phone,908
+Illegal Posting,Other,27
+Illegal Posting,Mobile,0
+Illegal Tree Damage,Mobile,17137
+Illegal Tree Damage,Phone,16487
+Illegal Tree Damage,Other,7837
+Illegal Tree Damage,Web,3527
+Indoor Air Quality,Phone,58406
+Indoor Air Quality,Web,17290
+Indoor Air Quality,Other,351
+Indoor Air Quality,Mobile,2
+Indoor Sewage,Phone,11358
+Indoor Sewage,Web,1823
+Indoor Sewage,Other,51
+Indoor Sewage,Mobile,0
+Industrial Waste,Phone,8190
+Industrial Waste,Other,7376
+Industrial Waste,Web,2118
+Industrial Waste,Mobile,1
+Investigations and Discipline (IAD),Other,12418
+Investigations and Discipline (IAD),Web,181
+Investigations and Discipline (IAD),Mobile,0
+Investigations and Discipline (IAD),Phone,0
+Lead,Web,91168
+Lead,Phone,16806
+Lead,Other,12097
+Lead,Mobile,0
+LinkNYC,Web,839
+LinkNYC,Phone,347
+LinkNYC,Other,12
+LinkNYC,Mobile,0
+Litter Basket Complaint,Web,3290
+Litter Basket Complaint,Phone,1228
+Litter Basket Complaint,Other,293
+Litter Basket Complaint,Mobile,0
+Litter Basket Request,Web,6846
+Litter Basket Request,Phone,4023
+Litter Basket Request,Other,441
+Litter Basket Request,Mobile,0
+Lost Property,Phone,16109
+Lost Property,Other,11526
+Lost Property,Web,7506
+Lost Property,Mobile,436
+Lot Condition,Phone,3318
+Lot Condition,Web,2749
+Lot Condition,Other,126
+Lot Condition,Mobile,0
+Maintenance or Facility,Phone,71497
+Maintenance or Facility,Web,40387
+Maintenance or Facility,Mobile,19224
+Maintenance or Facility,Other,6207
+Missed Collection,Web,155588
+Missed Collection,Phone,21514
+Missed Collection,Other,81
+Missed Collection,Mobile,0
+Mobile Food Vendor,Mobile,8552
+Mobile Food Vendor,Web,8311
+Mobile Food Vendor,Phone,5107
+Mobile Food Vendor,Other,28
+Mold,Phone,3153
+Mold,Web,1665
+Mold,Other,40
+Mold,Mobile,0
+New Tree Request,Other,128997
+New Tree Request,Phone,58900
+New Tree Request,Mobile,47573
+New Tree Request,Web,9744
+Noise,Web,375128
+Noise,Phone,253763
+Noise,Other,86320
+Noise,Mobile,0
+Noise - Commercial,Web,264688
+Noise - Commercial,Mobile,198870
+Noise - Commercial,Phone,178993
+Noise - Commercial,Other,11
+Noise - Helicopter,Web,154573
+Noise - Helicopter,Phone,7771
+Noise - Helicopter,Mobile,0
+Noise - Helicopter,Other,0
+Noise - House of Worship,Phone,8276
+Noise - House of Worship,Web,8233
+Noise - House of Worship,Mobile,0
+Noise - House of Worship,Other,0
+Noise - Park,Web,42525
+Noise - Park,Phone,32948
+Noise - Park,Other,4
+Noise - Park,Mobile,0
+Noise - Residential,Web,1609481
+Noise - Residential,Phone,1234555
+Noise - Residential,Mobile,779514
+Noise - Residential,Other,226
+Noise - Street/Sidewalk,Mobile,551981
+Noise - Street/Sidewalk,Web,509700
+Noise - Street/Sidewalk,Phone,254341
+Noise - Street/Sidewalk,Other,73
+Noise - Vehicle,Web,248079
+Noise - Vehicle,Phone,175075
+Noise - Vehicle,Mobile,119037
+Noise - Vehicle,Other,30
+Non-Emergency Police Matter,Web,130867
+Non-Emergency Police Matter,Phone,101161
+Non-Emergency Police Matter,Other,101
+Non-Emergency Police Matter,Mobile,0
+Non-Residential Heat,Web,8327
+Non-Residential Heat,Phone,7793
+Non-Residential Heat,Other,20
+Non-Residential Heat,Mobile,0
+OUTSIDE BUILDING,Phone,8758
+OUTSIDE BUILDING,Web,2917
+OUTSIDE BUILDING,Mobile,0
+OUTSIDE BUILDING,Other,0
+Obstruction,Web,29913
+Obstruction,Phone,20173
+Obstruction,Other,262
+Obstruction,Mobile,0
+Outdoor Dining,Web,17904
+Outdoor Dining,Phone,8189
+Outdoor Dining,Other,86
+Outdoor Dining,Mobile,0
+Overgrown Tree/Branches,Phone,170847
+Overgrown Tree/Branches,Other,33926
+Overgrown Tree/Branches,Web,33369
+Overgrown Tree/Branches,Mobile,0
+PAINT/PLASTER,Phone,483609
+PAINT/PLASTER,Web,122352
+PAINT/PLASTER,Other,1
+PAINT/PLASTER,Mobile,0
+PLUMBING,Phone,572024
+PLUMBING,Other,269783
+PLUMBING,Web,139469
+PLUMBING,Mobile,0
+Panhandling,Mobile,23785
+Panhandling,Web,9851
+Panhandling,Phone,2070
+Panhandling,Other,0
+Pet Sale,Mobile,0
+Pet Sale,Other,0
+Pet Sale,Phone,0
+Pet Sale,Web,0
+Plumbing,Other,63967
+Plumbing,Web,1100
+Plumbing,Phone,1097
+Plumbing,Mobile,0
+Posting Advertisement,Web,2131
+Posting Advertisement,Phone,1442
+Posting Advertisement,Mobile,0
+Posting Advertisement,Other,0
+Real Time Enforcement,Other,22846
+Real Time Enforcement,Mobile,0
+Real Time Enforcement,Phone,0
+Real Time Enforcement,Web,0
+Residential Disposal Complaint,Web,23155
+Residential Disposal Complaint,Phone,11863
+Residential Disposal Complaint,Other,191
+Residential Disposal Complaint,Mobile,0
+Rodent,Phone,245564
+Rodent,Mobile,114673
+Rodent,Web,94324
+Rodent,Other,3090
+Root/Sewer/Sidewalk Condition,Phone,97097
+Root/Sewer/Sidewalk Condition,Other,27768
+Root/Sewer/Sidewalk Condition,Web,11578
+Root/Sewer/Sidewalk Condition,Mobile,0
+SAFETY,Phone,55829
+SAFETY,Web,47480
+SAFETY,Mobile,0
+SAFETY,Other,0
+Sanitation Worker or Vehicle Complaint,Phone,6751
+Sanitation Worker or Vehicle Complaint,Web,2690
+Sanitation Worker or Vehicle Complaint,Other,84
+Sanitation Worker or Vehicle Complaint,Mobile,0
+Scaffold Safety,Other,3290
+Scaffold Safety,Web,19
+Scaffold Safety,Mobile,0
+Scaffold Safety,Phone,0
+Sewer,Phone,270730
+Sewer,Other,144571
+Sewer,Web,79251
+Sewer,Mobile,24
+Sidewalk Condition,Phone,222589
+Sidewalk Condition,Web,84230
+Sidewalk Condition,Mobile,58008
+Sidewalk Condition,Other,5892
+Smoking or Vaping,Web,2161
+Smoking or Vaping,Phone,1596
+Smoking or Vaping,Mobile,0
+Smoking or Vaping,Other,0
+Special Projects Inspection Team (SPIT),Other,55978
+Special Projects Inspection Team (SPIT),Web,722
+Special Projects Inspection Team (SPIT),Mobile,0
+Special Projects Inspection Team (SPIT),Phone,0
+Street Condition,Other,763008
+Street Condition,Phone,285603
+Street Condition,Web,128807
+Street Condition,Mobile,0
+Street Light Condition,Other,717682
+Street Light Condition,Mobile,0
+Street Light Condition,Phone,0
+Street Light Condition,Web,0
+Street Sign - Damaged,Web,36520
+Street Sign - Damaged,Phone,34425
+Street Sign - Damaged,Mobile,24657
+Street Sign - Damaged,Other,557
+Street Sign - Dangling,Phone,22863
+Street Sign - Dangling,Web,10317
+Street Sign - Dangling,Mobile,6749
+Street Sign - Dangling,Other,919
+Street Sign - Missing,Phone,27868
+Street Sign - Missing,Mobile,20265
+Street Sign - Missing,Web,19640
+Street Sign - Missing,Other,651
+Street Sweeping Complaint,Phone,12721
+Street Sweeping Complaint,Web,12089
+Street Sweeping Complaint,Other,140
+Street Sweeping Complaint,Mobile,0
+Taxi Complaint,Web,110946
+Taxi Complaint,Phone,68764
+Taxi Complaint,Mobile,5949
+Taxi Complaint,Other,1409
+Taxi Compliment,Web,369
+Taxi Compliment,Phone,112
+Taxi Compliment,Mobile,0
+Taxi Compliment,Other,0
+Taxi Report,Web,11640
+Taxi Report,Phone,2890
+Taxi Report,Other,16
+Taxi Report,Mobile,0
+Tobacco or Non-Tobacco Sale,Phone,4
+Tobacco or Non-Tobacco Sale,Web,3
+Tobacco or Non-Tobacco Sale,Mobile,0
+Tobacco or Non-Tobacco Sale,Other,0
+Traffic,Phone,46290
+Traffic,Web,20494
+Traffic,Other,6
+Traffic,Mobile,0
+Traffic Signal Condition,Other,408601
+Traffic Signal Condition,Phone,1
+Traffic Signal Condition,Mobile,0
+Traffic Signal Condition,Web,0
+UNSANITARY CONDITION,Phone,653377
+UNSANITARY CONDITION,Web,283008
+UNSANITARY CONDITION,Mobile,0
+UNSANITARY CONDITION,Other,0
+Unleashed Dog,Phone,7634
+Unleashed Dog,Web,5678
+Unleashed Dog,Other,780
+Unleashed Dog,Mobile,0
+Unsanitary Animal Pvt Property,Phone,18636
+Unsanitary Animal Pvt Property,Web,9765
+Unsanitary Animal Pvt Property,Other,3868
+Unsanitary Animal Pvt Property,Mobile,0
+Unsanitary Pigeon Condition,Phone,7121
+Unsanitary Pigeon Condition,Web,4224
+Unsanitary Pigeon Condition,Other,50
+Unsanitary Pigeon Condition,Mobile,0
+Urinating in Public,Phone,6568
+Urinating in Public,Web,3177
+Urinating in Public,Other,3
+Urinating in Public,Mobile,0
+Vendor Enforcement,Web,28295
+Vendor Enforcement,Phone,11344
+Vendor Enforcement,Other,42
+Vendor Enforcement,Mobile,0
+Violation of Park Rules,Other,11991
+Violation of Park Rules,Web,9879
+Violation of Park Rules,Phone,7515
+Violation of Park Rules,Mobile,0
+WATER LEAK,Phone,270692
+WATER LEAK,Web,104095
+WATER LEAK,Mobile,0
+WATER LEAK,Other,0
+Water Conservation,Phone,36867
+Water Conservation,Web,10192
+Water Conservation,Other,9860
+Water Conservation,Mobile,0
+Water Quality,Phone,12605
+Water Quality,Web,5708
+Water Quality,Other,2926
+Water Quality,Mobile,0
+Water System,Phone,507848
+Water System,Other,215225
+Water System,Web,144766
+Water System,Mobile,45873
+Wood Pile Remaining,Web,1289
+Wood Pile Remaining,Phone,803
+Wood Pile Remaining,Other,449
+Wood Pile Remaining,Mobile,0
+BEST/Site Safety,Other,21236
+BEST/Site Safety,Web,29
+BEST/Site Safety,Mobile,0
+BEST/Site Safety,Phone,0
+Beach/Pool/Sauna Complaint,Phone,1629
+Beach/Pool/Sauna Complaint,Web,1049
+Beach/Pool/Sauna Complaint,Other,20
+Beach/Pool/Sauna Complaint,Mobile,0
+Bridge Condition,Phone,3646
+Bridge Condition,Other,7
+Bridge Condition,Mobile,0
+Bridge Condition,Web,0
+Bus Stop Shelter Placement,Phone,1694
+Bus Stop Shelter Placement,Web,1445
+Bus Stop Shelter Placement,Other,8
+Bus Stop Shelter Placement,Mobile,0
+Highway Sign - Dangling,Phone,79
+Highway Sign - Dangling,Mobile,0
+Highway Sign - Dangling,Other,0
+Highway Sign - Dangling,Web,0
+School Maintenance,Phone,16557
+School Maintenance,Web,6509
+School Maintenance,Other,2
+School Maintenance,Mobile,0
+Window Guard,Phone,2605
+Window Guard,Web,215
+Window Guard,Other,7
+Window Guard,Mobile,0
+Bike/Roller/Skate Chronic,Web,11828
+Bike/Roller/Skate Chronic,Phone,6431
+Bike/Roller/Skate Chronic,Other,6
+Bike/Roller/Skate Chronic,Mobile,0
+Uprooted Stump,Web,1179
+Uprooted Stump,Phone,911
+Uprooted Stump,Other,4
+Uprooted Stump,Mobile,0
+Building Drinking Water Tank,Phone,78
+Building Drinking Water Tank,Web,71
+Building Drinking Water Tank,Mobile,0
+Building Drinking Water Tank,Other,0
+Snow or Ice,Web,4935
+Snow or Ice,Phone,3376
+Snow or Ice,Mobile,2669
+Snow or Ice,Other,12
+Tattooing,Web,930
+Tattooing,Phone,895
+Tattooing,Other,22
+Tattooing,Mobile,0
+Calorie Labeling,Web,99
+Calorie Labeling,Phone,88
+Calorie Labeling,Other,3
+Calorie Labeling,Mobile,0
+Recycling Basket Complaint,Web,201
+Recycling Basket Complaint,Phone,52
+Recycling Basket Complaint,Mobile,0
+Recycling Basket Complaint,Other,0
+Cranes and Derricks,Other,3426
+Cranes and Derricks,Web,8
+Cranes and Derricks,Mobile,0
+Cranes and Derricks,Phone,0
+Illegal Animal Sold,Web,405
+Illegal Animal Sold,Phone,302
+Illegal Animal Sold,Other,168
+Illegal Animal Sold,Mobile,0
+Institution Disposal Complaint,Web,122
+Institution Disposal Complaint,Phone,66
+Institution Disposal Complaint,Mobile,0
+Institution Disposal Complaint,Other,0
+Lifeguard,Web,145
+Lifeguard,Phone,140
+Lifeguard,Other,1
+Lifeguard,Mobile,0
+Plant,Phone,1185
+Plant,Web,1085
+Plant,Other,696
+Plant,Mobile,0
+Special Natural Area District (SNAD),Other,1008
+Special Natural Area District (SNAD),Web,4
+Special Natural Area District (SNAD),Mobile,0
+Special Natural Area District (SNAD),Phone,0
+Unsanitary Animal Facility,Phone,560
+Unsanitary Animal Facility,Web,522
+Unsanitary Animal Facility,Other,194
+Unsanitary Animal Facility,Mobile,0
+Animal Facility - No Permit,Web,539
+Animal Facility - No Permit,Phone,500
+Animal Facility - No Permit,Other,58
+Animal Facility - No Permit,Mobile,0
+Public Toilet,Phone,458
+Public Toilet,Web,141
+Public Toilet,Mobile,0
+Public Toilet,Other,0
+Wayfinding,Web,11
+Wayfinding,Phone,2
+Wayfinding,Mobile,0
+Wayfinding,Other,0
+Standing Water,Phone,19239
+Standing Water,Web,8767
+Standing Water,Other,30
+Standing Water,Mobile,1
+Cooling Tower,Web,107
+Cooling Tower,Phone,89
+Cooling Tower,Other,5
+Cooling Tower,Mobile,0
+Taxi Licensee Complaint,Phone,48
+Taxi Licensee Complaint,Other,3
+Taxi Licensee Complaint,Mobile,0
+Taxi Licensee Complaint,Web,0
+AHV Inspection Unit,Other,720
+AHV Inspection Unit,Mobile,0
+AHV Inspection Unit,Phone,0
+AHV Inspection Unit,Web,0
+Mosquitoes,Phone,3230
+Mosquitoes,Web,1445
+Mosquitoes,Other,9
+Mosquitoes,Mobile,0
+Municipal Parking Facility,Phone,763
+Municipal Parking Facility,Web,16
+Municipal Parking Facility,Mobile,0
+Municipal Parking Facility,Other,0
+Squeegee,Web,216
+Squeegee,Phone,56
+Squeegee,Mobile,0
+Squeegee,Other,0
+Tunnel Condition,Phone,1
+Tunnel Condition,Mobile,0
+Tunnel Condition,Other,0
+Tunnel Condition,Web,0
+Poison Ivy,Phone,1427
+Poison Ivy,Web,625
+Poison Ivy,Other,3
+Poison Ivy,Mobile,0
+Borough Office,Other,8058
+Borough Office,Mobile,0
+Borough Office,Phone,0
+Borough Office,Web,0
+Highway Sign - Missing,Phone,159
+Highway Sign - Missing,Other,1
+Highway Sign - Missing,Mobile,0
+Highway Sign - Missing,Web,0
+Dept of Investigations,Other,163
+Dept of Investigations,Mobile,0
+Dept of Investigations,Phone,0
+Dept of Investigations,Web,0
+DEP Street Condition,Other,863
+DEP Street Condition,Phone,54
+DEP Street Condition,Mobile,0
+DEP Street Condition,Web,0
+Transfer Station Complaint,Phone,29
+Transfer Station Complaint,Other,3
+Transfer Station Complaint,Mobile,0
+Transfer Station Complaint,Web,0
+Unspecified,Mobile,0
+Unspecified,Other,0
+Unspecified,Phone,0
+Unspecified,Web,0
+Incorrect Data,Phone,311
+Incorrect Data,Mobile,0
+Incorrect Data,Other,0
+Incorrect Data,Web,0
+Radioactive Material,Phone,81
+Radioactive Material,Web,65
+Radioactive Material,Other,15
+Radioactive Material,Mobile,0
+Building Condition,Phone,47
+Building Condition,Web,34
+Building Condition,Other,2
+Building Condition,Mobile,0
+DEP Sidewalk Condition,Phone,12
+DEP Sidewalk Condition,Other,7
+DEP Sidewalk Condition,Mobile,0
+DEP Sidewalk Condition,Web,0
+DEP Highway Condition,Phone,4
+DEP Highway Condition,Other,1
+DEP Highway Condition,Mobile,0
+DEP Highway Condition,Web,0
+Public Payphone Complaint,Phone,4779
+Public Payphone Complaint,Web,1479
+Public Payphone Complaint,Other,4
+Public Payphone Complaint,Mobile,0
+DSNY Internal,Other,7
+DSNY Internal,Phone,5
+DSNY Internal,Mobile,0
+DSNY Internal,Web,0
+FHV Licensee Complaint,Other,41
+FHV Licensee Complaint,Phone,10
+FHV Licensee Complaint,Mobile,0
+FHV Licensee Complaint,Web,0
+Oil or Gas Spill,Phone,18
+Oil or Gas Spill,Other,1
+Oil or Gas Spill,Mobile,0
+Oil or Gas Spill,Web,0
+X-Ray Machine/Equipment,Web,154
+X-Ray Machine/Equipment,Phone,60
+X-Ray Machine/Equipment,Other,46
+X-Ray Machine/Equipment,Mobile,0
+Leaning Bar,Web,5
+Leaning Bar,Phone,1
+Leaning Bar,Mobile,0
+Leaning Bar,Other,0
+Peeling Paint,Phone,101
+Peeling Paint,Web,28
+Peeling Paint,Mobile,0
+Peeling Paint,Other,0
+Pet Shop,Web,697
+Pet Shop,Phone,525
+Pet Shop,Other,7
+Pet Shop,Mobile,0
+Tanning,Phone,42
+Tanning,Web,12
+Tanning,Mobile,0
+Tanning,Other,0
+ASBESTOS,Mobile,0
+ASBESTOS,Other,0
+ASBESTOS,Phone,0
+ASBESTOS,Web,0
+Construction Safety Enforcement,Other,31099
+Construction Safety Enforcement,Mobile,0
+Construction Safety Enforcement,Phone,0
+Construction Safety Enforcement,Web,0
+SNW,Other,7
+SNW,Mobile,0
+SNW,Phone,0
+SNW,Web,0
+Facade Insp Safety Pgm,Other,2
+Facade Insp Safety Pgm,Mobile,0
+Facade Insp Safety Pgm,Phone,0
+Facade Insp Safety Pgm,Web,0
+Special Operations,Other,315
+Special Operations,Mobile,0
+Special Operations,Phone,0
+Special Operations,Web,0
+Dispatched Taxi Complaint,Phone,67
+Dispatched Taxi Complaint,Other,21
+Dispatched Taxi Complaint,Mobile,0
+Dispatched Taxi Complaint,Web,0
+Smoking,Phone,17743
+Smoking,Web,16710
+Smoking,Other,917
+Smoking,Mobile,0
+Building Marshal's Office,Other,6
+Building Marshal's Office,Mobile,0
+Building Marshal's Office,Phone,0
+Building Marshal's Office,Web,0
+Adopt-A-Basket,Phone,2156
+Adopt-A-Basket,Web,446
+Adopt-A-Basket,Mobile,0
+Adopt-A-Basket,Other,0
+Stalled Sites,Other,750
+Stalled Sites,Mobile,0
+Stalled Sites,Phone,0
+Stalled Sites,Web,0
+Bike Rack Condition,Phone,1549
+Bike Rack Condition,Web,611
+Bike Rack Condition,Other,9
+Bike Rack Condition,Mobile,0
+Building Marshals office,Other,7087
+Building Marshals office,Mobile,0
+Building Marshals office,Phone,0
+Building Marshals office,Web,0
+Executive Inspections,Other,1289
+Executive Inspections,Mobile,0
+Executive Inspections,Phone,0
+Executive Inspections,Web,0
+Sustainability Enforcement,Other,6381
+Sustainability Enforcement,Mobile,0
+Sustainability Enforcement,Phone,0
+Sustainability Enforcement,Web,0
+Retailer Complaint,Web,34
+Retailer Complaint,Phone,19
+Retailer Complaint,Mobile,0
+Retailer Complaint,Other,0
+Seasonal Collection,Web,644
+Seasonal Collection,Phone,143
+Seasonal Collection,Other,2
+Seasonal Collection,Mobile,0
+Unlicensed Dog,Web,45
+Unlicensed Dog,Phone,31
+Unlicensed Dog,Other,1
+Unlicensed Dog,Mobile,0
+Electronics Waste Appointment,Phone,87947
+Electronics Waste Appointment,Mobile,0
+Electronics Waste Appointment,Other,0
+Electronics Waste Appointment,Web,0
+Appliance,Phone,413
+Appliance,Web,150
+Appliance,Mobile,0
+Appliance,Other,0
+Boiler,Web,27
+Boiler,Phone,14
+Boiler,Mobile,0
+Boiler,Other,0
+DOB Posted Notice or Order,Phone,5
+DOB Posted Notice or Order,Mobile,0
+DOB Posted Notice or Order,Other,0
+DOB Posted Notice or Order,Web,0
+Door/Window,Phone,908
+Door/Window,Web,350
+Door/Window,Mobile,0
+Door/Window,Other,0
+Electric,Phone,187
+Electric,Web,103
+Electric,Mobile,0
+Electric,Other,0
+Flooring/Stairs,Phone,530
+Flooring/Stairs,Web,165
+Flooring/Stairs,Mobile,0
+Flooring/Stairs,Other,0
+General,Phone,1353
+General,Web,439
+General,Mobile,0
+General,Other,0
+Heat/Hot Water,Web,775
+Heat/Hot Water,Phone,728
+Heat/Hot Water,Mobile,311
+Heat/Hot Water,Other,0
+Paint/Plaster,Phone,1603
+Paint/Plaster,Web,584
+Paint/Plaster,Mobile,0
+Paint/Plaster,Other,0
+Safety,Phone,896
+Safety,Web,374
+Safety,Mobile,0
+Safety,Other,0
+Sewer Maintenance,Phone,1689
+Sewer Maintenance,Web,1088
+Sewer Maintenance,Mobile,0
+Sewer Maintenance,Other,0
+Unsanitary Condition,Phone,5321
+Unsanitary Condition,Web,1429
+Unsanitary Condition,Mobile,0
+Unsanitary Condition,Other,0
+Unstable Building,Phone,85
+Unstable Building,Mobile,0
+Unstable Building,Other,0
+Unstable Building,Web,0
+Water Drainage,Phone,86
+Water Drainage,Web,50
+Water Drainage,Mobile,0
+Water Drainage,Other,0
+Water Leak,Phone,1949
+Water Leak,Web,1123
+Water Leak,Mobile,0
+Water Leak,Other,0
+Water Maintenance,Phone,298
+Water Maintenance,Web,84
+Water Maintenance,Other,12
+Water Maintenance,Mobile,0
+Outside Building,Phone,8
+Outside Building,Mobile,0
+Outside Building,Other,0
+Outside Building,Web,0
+Quality of Life,Other,1492
+Quality of Life,Mobile,0
+Quality of Life,Phone,0
+Quality of Life,Web,0
+Trans Fat,Phone,19
+Trans Fat,Web,14
+Trans Fat,Mobile,0
+Trans Fat,Other,0
+Bottled Water,Phone,105
+Bottled Water,Other,53
+Bottled Water,Web,34
+Bottled Water,Mobile,0
+Face Covering Violation,Web,1161
+Face Covering Violation,Phone,637
+Face Covering Violation,Mobile,0
+Face Covering Violation,Other,0
+Dispatched Taxi Compliment,Other,2
+Dispatched Taxi Compliment,Phone,2
+Dispatched Taxi Compliment,Mobile,0
+Dispatched Taxi Compliment,Web,0
+ZTESTINT,Web,32
+ZTESTINT,Other,3
+ZTESTINT,Phone,2
+ZTESTINT,Mobile,0
+Internal Code,Web,14
+Internal Code,Phone,7
+Internal Code,Other,1
+Internal Code,Mobile,0
+SRDE,Phone,19
+SRDE,Other,2
+SRDE,Mobile,1
+SRDE,Web,0
+Private School Vaccine Mandate Non-Compliance,Web,213
+Private School Vaccine Mandate Non-Compliance,Phone,6
+Private School Vaccine Mandate Non-Compliance,Mobile,0
+Private School Vaccine Mandate Non-Compliance,Other,0
+Request Large Bulky Item Collection,Phone,1014073
+Request Large Bulky Item Collection,Other,58358
+Request Large Bulky Item Collection,Mobile,0
+Request Large Bulky Item Collection,Web,0
+Vaccine Mandate Non-Compliance,Web,6173
+Vaccine Mandate Non-Compliance,Phone,1226
+Vaccine Mandate Non-Compliance,Mobile,0
+Vaccine Mandate Non-Compliance,Other,0
+Facades,Other,2161
+Facades,Mobile,0
+Facades,Phone,0
+Facades,Web,0
+COVID-19 Non-essential Construction,Other,7314
+COVID-19 Non-essential Construction,Mobile,0
+COVID-19 Non-essential Construction,Phone,0
+COVID-19 Non-essential Construction,Web,0
+Private or Charter School Reopening,Web,1557
+Private or Charter School Reopening,Phone,542
+Private or Charter School Reopening,Other,1
+Private or Charter School Reopening,Mobile,0
+Mass Gathering Complaint,Web,2414
+Mass Gathering Complaint,Phone,1231
+Mass Gathering Complaint,Other,2
+Mass Gathering Complaint,Mobile,0
+MOLD,Phone,2
+MOLD,Mobile,0
+MOLD,Other,0
+MOLD,Web,0
+Home Delivered Meal - Missed Delivery,Mobile,0
+Home Delivered Meal - Missed Delivery,Other,0
+Home Delivered Meal - Missed Delivery,Phone,0
+Home Delivered Meal - Missed Delivery,Web,0
+Forensic Engineering,Other,1164
+Forensic Engineering,Mobile,0
+Forensic Engineering,Phone,0
+Forensic Engineering,Web,0
+Miscellaneous Categories,Other,15592
+Miscellaneous Categories,Mobile,0
+Miscellaneous Categories,Phone,0
+Miscellaneous Categories,Web,0
+DEP Bridge Condition,Mobile,0
+DEP Bridge Condition,Other,0
+DEP Bridge Condition,Phone,0
+DEP Bridge Condition,Web,0
+Derelict Bicycle,Phone,8148
+Derelict Bicycle,Web,7459
+Derelict Bicycle,Mobile,187
+Derelict Bicycle,Other,8
+Dirty Conditions,Phone,228320
+Dirty Conditions,Web,130400
+Dirty Conditions,Other,29797
+Dirty Conditions,Mobile,14666
+Litter Basket / Request,Phone,21580
+Litter Basket / Request,Web,7943
+Litter Basket / Request,Mobile,137
+Litter Basket / Request,Other,28
+Missed Collection (All Materials),Phone,261689
+Missed Collection (All Materials),Web,80401
+Missed Collection (All Materials),Other,263
+Missed Collection (All Materials),Mobile,122
+Other Enforcement,Phone,51489
+Other Enforcement,Web,18981
+Other Enforcement,Mobile,1260
+Other Enforcement,Other,57
+Overflowing Litter Baskets,Phone,11324
+Overflowing Litter Baskets,Web,4060
+Overflowing Litter Baskets,Mobile,84
+Overflowing Litter Baskets,Other,57
+Recycling Enforcement,Phone,5179
+Recycling Enforcement,Web,3991
+Recycling Enforcement,Mobile,34
+Recycling Enforcement,Other,1
+Sanitation Condition,Phone,299257
+Sanitation Condition,Web,31725
+Sanitation Condition,Mobile,30819
+Sanitation Condition,Other,2270
+Storm,Web,2505
+Storm,Phone,498
+Storm,Mobile,0
+Storm,Other,0
+Sweeping/Missed,Phone,8639
+Sweeping/Missed,Web,47
+Sweeping/Missed,Other,22
+Sweeping/Missed,Mobile,17
+Vacant Lot,Phone,17396
+Vacant Lot,Web,4031
+Vacant Lot,Mobile,403
+Vacant Lot,Other,111
+Sweeping/Inadequate,Phone,2363
+Sweeping/Inadequate,Web,37
+Sweeping/Inadequate,Other,9
+Sweeping/Inadequate,Mobile,7
+Overflowing Recycling Baskets,Phone,182
+Overflowing Recycling Baskets,Web,4
+Overflowing Recycling Baskets,Mobile,1
+Overflowing Recycling Baskets,Other,0
+Collection Truck Noise,Phone,1935
+Collection Truck Noise,Web,39
+Collection Truck Noise,Mobile,2
+Collection Truck Noise,Other,0
+Change Collection Schedule,Web,1
+Change Collection Schedule,Mobile,0
+Change Collection Schedule,Other,0
+Change Collection Schedule,Phone,0
+Foam Ban Enforcement,Phone,81
+Foam Ban Enforcement,Web,1
+Foam Ban Enforcement,Mobile,0
+Foam Ban Enforcement,Other,0
+SRGOVG,Phone,2
+SRGOVG,Other,1
+SRGOVG,Web,1
+SRGOVG,Mobile,0
+NonCompliance with Phased Reopening,Web,47633
+NonCompliance with Phased Reopening,Phone,18663
+NonCompliance with Phased Reopening,Mobile,0
+NonCompliance with Phased Reopening,Other,0
+Sweeping/Missed-Inadequate,Phone,5477
+Sweeping/Missed-Inadequate,Web,11
+Sweeping/Missed-Inadequate,Mobile,2
+Sweeping/Missed-Inadequate,Other,0
+Snow,Phone,50783
+Snow,Web,33111
+Snow,Mobile,604
+Snow,Other,8
+Homeless Street Condition,Web,9666
+Homeless Street Condition,Phone,5780
+Homeless Street Condition,Other,3
+Homeless Street Condition,Mobile,0
+Snow Removal,Web,1412
+Snow Removal,Phone,723
+Snow Removal,Mobile,548
+Snow Removal,Other,0
+Vending,Phone,33959
+Vending,Web,12231
+Vending,Mobile,0
+Vending,Other,0
+DSNY Spillage,Web,5
+DSNY Spillage,Mobile,1
+DSNY Spillage,Other,0
+DSNY Spillage,Phone,0
+Employee Behavior,Web,7
+Employee Behavior,Mobile,0
+Employee Behavior,Other,0
+Employee Behavior,Phone,0
+Homeless Encampment,Phone,34981
+Homeless Encampment,Web,2717
+Homeless Encampment,Other,2
+Homeless Encampment,Mobile,0
+Electronics Waste,Phone,26469
+Electronics Waste,Other,17
+Electronics Waste,Web,1
+Electronics Waste,Mobile,0
+Ferry Permit,Phone,1
+Ferry Permit,Mobile,0
+Ferry Permit,Other,0
+Ferry Permit,Web,0
+Home Delivered Meal Complaint,Mobile,0
+Home Delivered Meal Complaint,Other,0
+Home Delivered Meal Complaint,Phone,0
+Home Delivered Meal Complaint,Web,0
+Literature Request,Phone,164
+Literature Request,Web,1
+Literature Request,Mobile,0
+Literature Request,Other,0
+Single Occupancy Bathroom,Web,33
+Single Occupancy Bathroom,Phone,6
+Single Occupancy Bathroom,Mobile,0
+Single Occupancy Bathroom,Other,0
+Construction,Web,28292
+Construction,Phone,4
+Construction,Mobile,0
+Construction,Other,0
+Fire Alarm - Replacement,Phone,1
+Fire Alarm - Replacement,Mobile,0
+Fire Alarm - Replacement,Other,0
+Fire Alarm - Replacement,Web,0
+Request Changes - A.S.P.,Phone,1
+Request Changes - A.S.P.,Mobile,0
+Request Changes - A.S.P.,Other,0
+Request Changes - A.S.P.,Web,0
+Comments,Mobile,0
+Comments,Other,0
+Comments,Phone,0
+Comments,Web,0
+FATF,Other,457
+FATF,Mobile,0
+FATF,Phone,0
+FATF,Web,0
+Forms,Mobile,0
+Forms,Other,0
+Forms,Phone,0
+Forms,Web,0
+Question,Mobile,0
+Question,Other,0
+Question,Phone,0
+Question,Web,0
+Advocate - Other,Phone,1
+Advocate - Other,Mobile,0
+Advocate - Other,Other,0
+Advocate - Other,Web,0
+Animal Abuse,Phone,40994
+Animal Abuse,Web,11006
+Animal Abuse,Mobile,0
+Animal Abuse,Other,0
+Benefit Card Replacement,Web,1
+Benefit Card Replacement,Mobile,0
+Benefit Card Replacement,Other,0
+Benefit Card Replacement,Phone,0
+DOF Property - Owner Issue,Mobile,0
+DOF Property - Owner Issue,Other,0
+DOF Property - Owner Issue,Phone,0
+DOF Property - Owner Issue,Web,0
+DOF Property - Update Account,Mobile,0
+DOF Property - Update Account,Other,0
+DOF Property - Update Account,Phone,0
+DOF Property - Update Account,Web,0
+DPR Internal,Other,3027
+DPR Internal,Phone,1
+DPR Internal,Mobile,0
+DPR Internal,Web,0
+Derelict Vehicle,Phone,140492
+Derelict Vehicle,Web,38555
+Derelict Vehicle,Mobile,27149
+Derelict Vehicle,Other,5
+DOF Property - Property Value,Mobile,0
+DOF Property - Property Value,Other,0
+DOF Property - Property Value,Phone,0
+DOF Property - Property Value,Web,0
+DOF Property - RPIE Issue,Mobile,0
+DOF Property - RPIE Issue,Other,0
+DOF Property - RPIE Issue,Phone,0
+DOF Property - RPIE Issue,Web,0
+DOF Property - Reduction Issue,Phone,28
+DOF Property - Reduction Issue,Mobile,0
+DOF Property - Reduction Issue,Other,0
+DOF Property - Reduction Issue,Web,0
+DOF Property - Request Copy,Mobile,0
+DOF Property - Request Copy,Other,0
+DOF Property - Request Copy,Phone,0
+DOF Property - Request Copy,Web,0
+Research Questions,Mobile,0
+Research Questions,Other,0
+Research Questions,Phone,0
+Research Questions,Web,0
+MSOTHER,Other,1
+MSOTHER,Mobile,0
+MSOTHER,Phone,0
+MSOTHER,Web,0
+$(sleep 11),Mobile,0
+$(sleep 11),Other,0
+$(sleep 11),Phone,0
+$(sleep 11),Web,0
+${3804*3137},Mobile,0
+${3804*3137},Other,0
+${3804*3137},Phone,0
+${3804*3137},Web,0
+%2e%2e%2f%2e%2e%2f%2e%2e%2f...,Mobile,0
+%2e%2e%2f%2e%2e%2f%2e%2e%2f...,Other,0
+%2e%2e%2f%2e%2e%2f%2e%2e%2f...,Phone,0
+%2e%2e%2f%2e%2e%2f%2e%2e%2f...,Web,0
+%2e%2e%5c%2e%2e%5c%2e%2e%5c...,Mobile,0
+%2e%2e%5c%2e%2e%5c%2e%2e%5c...,Other,0
+%2e%2e%5c%2e%2e%5c%2e%2e%5c...,Phone,0
+%2e%2e%5c%2e%2e%5c%2e%2e%5c...,Web,0
+%2fetc%2fpasswd,Mobile,0
+%2fetc%2fpasswd,Other,0
+%2fetc%2fpasswd,Phone,0
+%2fetc%2fpasswd,Web,0
+%E5%98%8A%E5%98%8DX-Injecti...,Mobile,0
+%E5%98%8A%E5%98%8DX-Injecti...,Other,0
+%E5%98%8A%E5%98%8DX-Injecti...,Phone,0
+%E5%98%8A%E5%98%8DX-Injecti...,Web,0
+%c0%ae/%c0%ae/%c0%ae/%c0%ae...,Mobile,0
+%c0%ae/%c0%ae/%c0%ae/%c0%ae...,Other,0
+%c0%ae/%c0%ae/%c0%ae/%c0%ae...,Phone,0
+%c0%ae/%c0%ae/%c0%ae/%c0%ae...,Web,0
+%c0%ae/%c0%ae/%c0%ae/WEB-IN...,Mobile,0
+%c0%ae/%c0%ae/%c0%ae/WEB-IN...,Other,0
+%c0%ae/%c0%ae/%c0%ae/WEB-IN...,Phone,0
+%c0%ae/%c0%ae/%c0%ae/WEB-IN...,Web,0
+%c0%ae/%c0%ae/WEB-INF/web.xml,Mobile,0
+%c0%ae/%c0%ae/WEB-INF/web.xml,Other,0
+%c0%ae/%c0%ae/WEB-INF/web.xml,Phone,0
+%c0%ae/%c0%ae/WEB-INF/web.xml,Web,0
+%c0%ae/WEB-INF/web.xml,Mobile,0
+%c0%ae/WEB-INF/web.xml,Other,0
+%c0%ae/WEB-INF/web.xml,Phone,0
+%c0%ae/WEB-INF/web.xml,Web,0
+%{(#dm=@ognl.OgnlContext@DE...,Mobile,0
+%{(#dm=@ognl.OgnlContext@DE...,Other,0
+%{(#dm=@ognl.OgnlContext@DE...,Phone,0
+%{(#dm=@ognl.OgnlContext@DE...,Web,0
+%{4761*8506},Mobile,0
+%{4761*8506},Other,0
+%{4761*8506},Phone,0
+%{4761*8506},Web,0
+&lt;odb xmlns:xi=&quot;http...,Mobile,0
+&lt;odb xmlns:xi=&quot;http...,Other,0
+&lt;odb xmlns:xi=&quot;http...,Phone,0
+&lt;odb xmlns:xi=&quot;http...,Web,0
+&lt;vlv xmlns=&quot;http://...,Mobile,0
+&lt;vlv xmlns=&quot;http://...,Other,0
+&lt;vlv xmlns=&quot;http://...,Phone,0
+&lt;vlv xmlns=&quot;http://...,Web,0
+&quot;--&gt;'--&gt;`--&gt;&...,Mobile,0
+&quot;--&gt;'--&gt;`--&gt;&...,Other,0
+&quot;--&gt;'--&gt;`--&gt;&...,Phone,0
+&quot;--&gt;'--&gt;`--&gt;&...,Web,0
+() { :;}; /bin/sleep 0,Mobile,0
+() { :;}; /bin/sleep 0,Other,0
+() { :;}; /bin/sleep 0,Phone,0
+() { :;}; /bin/sleep 0,Web,0
+() { :;}; /bin/sleep 11,Mobile,0
+() { :;}; /bin/sleep 11,Other,0
+() { :;}; /bin/sleep 11,Phone,0
+() { :;}; /bin/sleep 11,Web,0
+() { _; } &gt;_,Mobile,0
+() { _; } &gt;_,Other,0
+() { _; } &gt;_,Phone,0
+() { _; } &gt;_,Web,0
+(select extractvalue(xmltyp...,Mobile,0
+(select extractvalue(xmltyp...,Other,0
+(select extractvalue(xmltyp...,Phone,0
+(select extractvalue(xmltyp...,Web,0
+(select load_file('\\\\615h...,Mobile,0
+(select load_file('\\\\615h...,Other,0
+(select load_file('\\\\615h...,Phone,0
+(select load_file('\\\\615h...,Web,0
+*)(!(objectClass=*),Mobile,0
+*)(!(objectClass=*),Other,0
+*)(!(objectClass=*),Phone,0
+*)(!(objectClass=*),Web,0
+*)(objectClass=*,Mobile,0
+*)(objectClass=*,Other,0
+*)(objectClass=*,Phone,0
+*)(objectClass=*,Web,0
+.../....///.../....///.../....,Mobile,0
+.../....///.../....///.../....,Other,0
+.../....///.../....///.../....,Phone,0
+.../....///.../....///.../....,Web,0
+.../...//.../...//.../...//...,Mobile,0
+.../...//.../...//.../...//...,Other,0
+.../...//.../...//.../...//...,Phone,0
+.../...//.../...//.../...//...,Web,0
+..././..././..././..././......,Mobile,0
+..././..././..././..././......,Other,0
+..././..././..././..././......,Phone,0
+..././..././..././..././......,Web,0
+.../.\.../.\.../.\.../.\......,Mobile,0
+.../.\.../.\.../.\.../.\......,Other,0
+.../.\.../.\.../.\.../.\......,Phone,0
+.../.\.../.\.../.\.../.\......,Web,0
+.../Misc. Comments,Mobile,0
+.../Misc. Comments,Other,0
+.../Misc. Comments,Phone,0
+.../Misc. Comments,Web,0
+...\./...\./...\./...\./......,Mobile,0
+...\./...\./...\./...\./......,Other,0
+...\./...\./...\./...\./......,Phone,0
+...\./...\./...\./...\./......,Web,0
+...\.\...\.\...\.\...\.\......,Mobile,0
+...\.\...\.\...\.\...\.\......,Other,0
+...\.\...\.\...\.\...\.\......,Phone,0
+...\.\...\.\...\.\...\.\......,Web,0
+../../../../../../../../../...,Mobile,0
+../../../../../../../../../...,Other,0
+../../../../../../../../../...,Phone,0
+../../../../../../../../../...,Web,0
+../../../../WEB-INF/web.xml,Mobile,0
+../../../../WEB-INF/web.xml,Other,0
+../../../../WEB-INF/web.xml,Phone,0
+../../../../WEB-INF/web.xml,Web,0
+../../../WEB-INF/web.xml,Mobile,0
+../../../WEB-INF/web.xml,Other,0
+../../../WEB-INF/web.xml,Phone,0
+../../../WEB-INF/web.xml,Web,0
+../../../WEB-INF/web.xml;x=,Mobile,0
+../../../WEB-INF/web.xml;x=,Other,0
+../../../WEB-INF/web.xml;x=,Phone,0
+../../../WEB-INF/web.xml;x=,Web,0
+../../WEB-INF/web.xml,Mobile,0
+../../WEB-INF/web.xml,Other,0
+../../WEB-INF/web.xml,Phone,0
+../../WEB-INF/web.xml,Web,0
+../../WEB-INF/web.xml;x=,Mobile,0
+../../WEB-INF/web.xml;x=,Other,0
+../../WEB-INF/web.xml;x=,Phone,0
+../../WEB-INF/web.xml;x=,Web,0
+../WEB-INF/web.xml,Mobile,0
+../WEB-INF/web.xml,Other,0
+../WEB-INF/web.xml,Phone,0
+../WEB-INF/web.xml,Web,0
+../WEB-INF/web.xml;x=,Mobile,0
+../WEB-INF/web.xml;x=,Other,0
+../WEB-INF/web.xml;x=,Phone,0
+../WEB-INF/web.xml;x=,Web,0
+..\..\..\..\..\..\..\..\..\...,Mobile,0
+..\..\..\..\..\..\..\..\..\...,Other,0
+..\..\..\..\..\..\..\..\..\...,Phone,0
+..\..\..\..\..\..\..\..\..\...,Web,0
+./validate_form.php,Mobile,0
+./validate_form.php,Other,0
+./validate_form.php,Phone,0
+./validate_form.php,Web,0
+/./validate_form.php,Mobile,0
+/./validate_form.php,Other,0
+/./validate_form.php,Phone,0
+/./validate_form.php,Web,0
+/etc/passwd,Mobile,0
+/etc/passwd,Other,0
+/etc/passwd,Phone,0
+/etc/passwd,Web,0
+1430*4963,Mobile,0
+1430*4963,Other,0
+1430*4963,Phone,0
+1430*4963,Web,0
+266dyrgvhg1egsyp2oq57axbm2s...,Mobile,0
+266dyrgvhg1egsyp2oq57axbm2s...,Other,0
+266dyrgvhg1egsyp2oq57axbm2s...,Phone,0
+266dyrgvhg1egsyp2oq57axbm2s...,Web,0
+@(9313*3464),Mobile,0
+@(9313*3464),Other,0
+@(9313*3464),Phone,0
+@(9313*3464),Web,0
+Misc. Comments  BCC:a5glxzf...,Mobile,0
+Misc. Comments  BCC:a5glxzf...,Other,0
+Misc. Comments  BCC:a5glxzf...,Phone,0
+Misc. Comments  BCC:a5glxzf...,Web,0
+Misc. Comments%}dt2pq'/&quo...,Mobile,0
+Misc. Comments%}dt2pq'/&quo...,Other,0
+Misc. Comments%}dt2pq'/&quo...,Phone,0
+Misc. Comments%}dt2pq'/&quo...,Web,0
+Misc. Comments&amp;echo xjd...,Mobile,0
+Misc. Comments&amp;echo xjd...,Other,0
+Misc. Comments&amp;echo xjd...,Phone,0
+Misc. Comments&amp;echo xjd...,Web,0
+Misc. Comments&amp;nslookup...,Mobile,0
+Misc. Comments&amp;nslookup...,Other,0
+Misc. Comments&amp;nslookup...,Phone,0
+Misc. Comments&amp;nslookup...,Web,0
+Misc. Comments&amp;ping -n ...,Mobile,0
+Misc. Comments&amp;ping -n ...,Other,0
+Misc. Comments&amp;ping -n ...,Phone,0
+Misc. Comments&amp;ping -n ...,Web,0
+Misc. Comments&gt;  BCC:bl0...,Mobile,0
+Misc. Comments&gt;  BCC:bl0...,Other,0
+Misc. Comments&gt;  BCC:bl0...,Phone,0
+Misc. Comments&gt;  BCC:bl0...,Web,0
+Misc. Comments&quot;,Mobile,0
+Misc. Comments&quot;,Other,0
+Misc. Comments&quot;,Phone,0
+Misc. Comments&quot;,Web,0
+Misc. Comments&quot;|echo 2...,Mobile,0
+Misc. Comments&quot;|echo 2...,Other,0
+Misc. Comments&quot;|echo 2...,Phone,0
+Misc. Comments&quot;|echo 2...,Web,0
+Misc. Comments&quot;|ping -...,Mobile,0
+Misc. Comments&quot;|ping -...,Other,0
+Misc. Comments&quot;|ping -...,Phone,0
+Misc. Comments&quot;|ping -...,Web,0
+Misc. Comments',Mobile,0
+Misc. Comments',Other,0
+Misc. Comments',Phone,0
+Misc. Comments',Web,0
+Misc. Comments' and '1618'=...,Mobile,0
+Misc. Comments' and '1618'=...,Other,0
+Misc. Comments' and '1618'=...,Phone,0
+Misc. Comments' and '1618'=...,Web,0
+Misc. Comments' and '7835'=...,Mobile,0
+Misc. Comments' and '7835'=...,Other,0
+Misc. Comments' and '7835'=...,Phone,0
+Misc. Comments' and '7835'=...,Web,0
+Misc. Comments' and (select...,Mobile,0
+Misc. Comments' and (select...,Other,0
+Misc. Comments' and (select...,Phone,0
+Misc. Comments' and (select...,Web,0
+Misc. Comments' and 6049=60...,Mobile,0
+Misc. Comments' and 6049=60...,Other,0
+Misc. Comments' and 6049=60...,Phone,0
+Misc. Comments' and 6049=60...,Web,0
+Misc. Comments' and 7702=77...,Mobile,0
+Misc. Comments' and 7702=77...,Other,0
+Misc. Comments' and 7702=77...,Phone,0
+Misc. Comments' and 7702=77...,Web,0
+Misc. Comments' waitfor del...,Mobile,0
+Misc. Comments' waitfor del...,Other,0
+Misc. Comments' waitfor del...,Phone,0
+Misc. Comments' waitfor del...,Web,0
+Misc. Comments'&quot;`0&amp...,Mobile,0
+Misc. Comments'&quot;`0&amp...,Other,0
+Misc. Comments'&quot;`0&amp...,Phone,0
+Misc. Comments'&quot;`0&amp...,Web,0
+Misc. Comments'(select*from...,Mobile,0
+Misc. Comments'(select*from...,Other,0
+Misc. Comments'(select*from...,Phone,0
+Misc. Comments'(select*from...,Web,0
+Misc. Comments');declare @q...,Mobile,0
+Misc. Comments');declare @q...,Other,0
+Misc. Comments');declare @q...,Phone,0
+Misc. Comments');declare @q...,Web,0
+Misc. Comments')waitfor del...,Mobile,0
+Misc. Comments')waitfor del...,Other,0
+Misc. Comments')waitfor del...,Phone,0
+Misc. Comments')waitfor del...,Web,0
+Misc. Comments'+(function()...,Mobile,0
+Misc. Comments'+(function()...,Other,0
+Misc. Comments'+(function()...,Phone,0
+Misc. Comments'+(function()...,Web,0
+Misc. Comments'+(select loa...,Mobile,0
+Misc. Comments'+(select loa...,Other,0
+Misc. Comments'+(select loa...,Phone,0
+Misc. Comments'+(select loa...,Web,0
+Misc. Comments'+(select*fro...,Mobile,0
+Misc. Comments'+(select*fro...,Other,0
+Misc. Comments'+(select*fro...,Phone,0
+Misc. Comments'+(select*fro...,Web,0
+Misc. Comments'+eval(compil...,Mobile,0
+Misc. Comments'+eval(compil...,Other,0
+Misc. Comments'+eval(compil...,Phone,0
+Misc. Comments'+eval(compil...,Web,0
+Misc. Comments'+sleep(20.to...,Mobile,0
+Misc. Comments'+sleep(20.to...,Other,0
+Misc. Comments'+sleep(20.to...,Phone,0
+Misc. Comments'+sleep(20.to...,Web,0
+"Misc. Comments',0)waitfor d...",Mobile,0
+"Misc. Comments',0)waitfor d...",Other,0
+"Misc. Comments',0)waitfor d...",Phone,0
+"Misc. Comments',0)waitfor d...",Web,0
+Misc. Comments'.sleep(20).',Mobile,0
+Misc. Comments'.sleep(20).',Other,0
+Misc. Comments'.sleep(20).',Phone,0
+Misc. Comments'.sleep(20).',Web,0
+Misc. Comments';declare @q ...,Mobile,0
+Misc. Comments';declare @q ...,Other,0
+Misc. Comments';declare @q ...,Phone,0
+Misc. Comments';declare @q ...,Web,0
+Misc. Comments'|echo y9v6fc...,Mobile,0
+Misc. Comments'|echo y9v6fc...,Other,0
+Misc. Comments'|echo y9v6fc...,Phone,0
+Misc. Comments'|echo y9v6fc...,Web,0
+Misc. Comments'|ping -c 21 ...,Mobile,0
+Misc. Comments'|ping -c 21 ...,Other,0
+Misc. Comments'|ping -c 21 ...,Phone,0
+Misc. Comments'|ping -c 21 ...,Web,0
+Misc. Comments'||(select ex...,Mobile,0
+Misc. Comments'||(select ex...,Other,0
+Misc. Comments'||(select ex...,Phone,0
+Misc. Comments'||(select ex...,Web,0
+Misc. Comments);declare @q ...,Mobile,0
+Misc. Comments);declare @q ...,Other,0
+Misc. Comments);declare @q ...,Phone,0
+Misc. Comments);declare @q ...,Web,0
+"Misc. Comments,(select*from...",Mobile,0
+"Misc. Comments,(select*from...",Other,0
+"Misc. Comments,(select*from...",Phone,0
+"Misc. Comments,(select*from...",Web,0
+Misc. Comments../../../../....,Mobile,0
+Misc. Comments../../../../....,Other,0
+Misc. Comments../../../../....,Phone,0
+Misc. Comments../../../../....,Web,0
+Misc. Comments..\..\..\..\....,Mobile,0
+Misc. Comments..\..\..\..\....,Other,0
+Misc. Comments..\..\..\..\....,Phone,0
+Misc. Comments..\..\..\..\....,Web,0
+Misc. Comments47876391' or ...,Mobile,0
+Misc. Comments47876391' or ...,Other,0
+Misc. Comments47876391' or ...,Phone,0
+Misc. Comments47876391' or ...,Web,0
+Misc. Comments52038737' or ...,Mobile,0
+Misc. Comments52038737' or ...,Other,0
+Misc. Comments52038737' or ...,Phone,0
+Misc. Comments52038737' or ...,Web,0
+Misc. Comments69075347' or ...,Mobile,0
+Misc. Comments69075347' or ...,Other,0
+Misc. Comments69075347' or ...,Phone,0
+Misc. Comments69075347' or ...,Web,0
+Misc. Comments88909845' or ...,Mobile,0
+Misc. Comments88909845' or ...,Other,0
+Misc. Comments88909845' or ...,Phone,0
+Misc. Comments88909845' or ...,Web,0
+Misc. Comments;declare @q v...,Mobile,0
+Misc. Comments;declare @q v...,Other,0
+Misc. Comments;declare @q v...,Phone,0
+Misc. Comments;declare @q v...,Web,0
+Misc. Comments]]&gt;&gt;&lt;,Mobile,0
+Misc. Comments]]&gt;&gt;&lt;,Other,0
+Misc. Comments]]&gt;&gt;&lt;,Phone,0
+Misc. Comments]]&gt;&gt;&lt;,Web,0
+Misc. Commentseowljujfh8,Mobile,0
+Misc. Commentseowljujfh8,Other,0
+Misc. Commentseowljujfh8,Phone,0
+Misc. Commentseowljujfh8,Web,0
+Misc. Commentso0w3r%&gt;xb6...,Mobile,0
+Misc. Commentso0w3r%&gt;xb6...,Other,0
+Misc. Commentso0w3r%&gt;xb6...,Phone,0
+Misc. Commentso0w3r%&gt;xb6...,Web,0
+Misc. Comments{${sleep(20)}},Mobile,0
+Misc. Comments{${sleep(20)}},Other,0
+Misc. Comments{${sleep(20)}},Phone,0
+Misc. Comments{${sleep(20)}},Web,0
+Misc. Comments|echo 3p7wexz...,Mobile,0
+Misc. Comments|echo 3p7wexz...,Other,0
+Misc. Comments|echo 3p7wexz...,Phone,0
+Misc. Comments|echo 3p7wexz...,Web,0
+Misc. Comments|nslookup -q=...,Mobile,0
+Misc. Comments|nslookup -q=...,Other,0
+Misc. Comments|nslookup -q=...,Phone,0
+Misc. Comments|nslookup -q=...,Web,0
+Misc. Comments|ping -c 21 1...,Mobile,0
+Misc. Comments|ping -c 21 1...,Other,0
+Misc. Comments|ping -c 21 1...,Phone,0
+Misc. Comments|ping -c 21 1...,Web,0
+Misc. Comments|ping -n 21 1...,Mobile,0
+Misc. Comments|ping -n 21 1...,Other,0
+Misc. Comments|ping -n 21 1...,Phone,0
+Misc. Comments|ping -n 21 1...,Web,0
+Misc. Comments}}t2v95'/&quo...,Mobile,0
+Misc. Comments}}t2v95'/&quo...,Other,0
+Misc. Comments}}t2v95'/&quo...,Phone,0
+Misc. Comments}}t2v95'/&quo...,Web,0
+\windows\win.ini,Mobile,0
+\windows\win.ini,Other,0
+\windows\win.ini,Phone,0
+\windows\win.ini,Web,0
+`sleep 11`,Mobile,0
+`sleep 11`,Other,0
+`sleep 11`,Phone,0
+`sleep 11`,Web,0
+a'a\'b&quot;c&gt;?&gt;%}}%%...,Mobile,0
+a'a\'b&quot;c&gt;?&gt;%}}%%...,Other,0
+a'a\'b&quot;c&gt;?&gt;%}}%%...,Phone,0
+a'a\'b&quot;c&gt;?&gt;%}}%%...,Web,0
+bcd9&lt;!--esi--&gt;1ggp&lt...,Mobile,0
+bcd9&lt;!--esi--&gt;1ggp&lt...,Other,0
+bcd9&lt;!--esi--&gt;1ggp&lt...,Phone,0
+bcd9&lt;!--esi--&gt;1ggp&lt...,Web,0
+c:\windows\win.ini,Mobile,0
+c:\windows\win.ini,Other,0
+c:\windows\win.ini,Phone,0
+c:\windows\win.ini,Web,0
+c:\windows\win.ini Misc. Co...,Mobile,0
+c:\windows\win.ini Misc. Co...,Other,0
+c:\windows\win.ini Misc. Co...,Phone,0
+c:\windows\win.ini Misc. Co...,Web,0
+eval(compile('for x in rang...,Mobile,0
+eval(compile('for x in rang...,Other,0
+eval(compile('for x in rang...,Phone,0
+eval(compile('for x in rang...,Web,0
+file:///c:/windows/win.ini,Mobile,0
+file:///c:/windows/win.ini,Other,0
+file:///c:/windows/win.ini,Phone,0
+file:///c:/windows/win.ini,Web,0
+file:///etc/passwd,Mobile,0
+file:///etc/passwd,Other,0
+file:///etc/passwd,Phone,0
+file:///etc/passwd,Web,0
+g0oii1s4s5)(objectClass=*,Mobile,0
+g0oii1s4s5)(objectClass=*,Other,0
+g0oii1s4s5)(objectClass=*,Phone,0
+g0oii1s4s5)(objectClass=*,Web,0
+hcvn1{{687*375}}gji51,Mobile,0
+hcvn1{{687*375}}gji51,Other,0
+hcvn1{{687*375}}gji51,Phone,0
+hcvn1{{687*375}}gji51,Web,0
+http://g7orz5h9iu2sh6z332rj...,Mobile,0
+http://g7orz5h9iu2sh6z332rj...,Other,0
+http://g7orz5h9iu2sh6z332rj...,Phone,0
+http://g7orz5h9iu2sh6z332rj...,Web,0
+idexf3mrb7)(!(objectClass=*),Mobile,0
+idexf3mrb7)(!(objectClass=*),Other,0
+idexf3mrb7)(!(objectClass=*),Phone,0
+idexf3mrb7)(!(objectClass=*),Web,0
+kawn''lcgv,Mobile,0
+kawn''lcgv,Other,0
+kawn''lcgv,Phone,0
+kawn''lcgv,Web,0
+nslookup -q=cname nneyfcxgy...,Mobile,0
+nslookup -q=cname nneyfcxgy...,Other,0
+nslookup -q=cname nneyfcxgy...,Phone,0
+nslookup -q=cname nneyfcxgy...,Web,0
+qfix4${695*589}lixaf,Mobile,0
+qfix4${695*589}lixaf,Other,0
+qfix4${695*589}lixaf,Phone,0
+qfix4${695*589}lixaf,Web,0
+yw97y0gi2s,Mobile,0
+yw97y0gi2s,Other,0
+yw97y0gi2s,Phone,0
+yw97y0gi2s,Web,0
+{!xmlparser v='&lt;!DOCTYPE...,Mobile,0
+{!xmlparser v='&lt;!DOCTYPE...,Other,0
+{!xmlparser v='&lt;!DOCTYPE...,Phone,0
+{!xmlparser v='&lt;!DOCTYPE...,Web,0
+Advocate-Co-opCondo Abatement,Mobile,0
+Advocate-Co-opCondo Abatement,Other,0
+Advocate-Co-opCondo Abatement,Phone,0
+Advocate-Co-opCondo Abatement,Web,0
+Advocate-Prop Refunds/Credits,Mobile,0
+Advocate-Prop Refunds/Credits,Other,0
+Advocate-Prop Refunds/Credits,Phone,0
+Advocate-Prop Refunds/Credits,Web,0
+Advocate-Property Value,Mobile,0
+Advocate-Property Value,Other,0
+Advocate-Property Value,Phone,0
+Advocate-Property Value,Web,0
+DOF Parking - DMV Clearance,Mobile,0
+DOF Parking - DMV Clearance,Other,0
+DOF Parking - DMV Clearance,Phone,0
+DOF Parking - DMV Clearance,Web,0
+DOF Parking - Payment Issue,Phone,4
+DOF Parking - Payment Issue,Mobile,0
+DOF Parking - Payment Issue,Other,0
+DOF Parking - Payment Issue,Web,0
+DOF Parking - Request Copy,Mobile,0
+DOF Parking - Request Copy,Other,0
+DOF Parking - Request Copy,Phone,0
+DOF Parking - Request Copy,Web,0
+HPD Literature Request,Mobile,0
+HPD Literature Request,Other,0
+HPD Literature Request,Phone,0
+HPD Literature Request,Web,0
+Housing Options,Mobile,0
+Housing Options,Other,0
+Housing Options,Phone,0
+Housing Options,Web,0
+Advocate - Lien,Phone,13
+Advocate - Lien,Mobile,0
+Advocate - Lien,Other,0
+Advocate - Lien,Web,0
+Advocate-Personal Exemptions,Phone,1
+Advocate-Personal Exemptions,Mobile,0
+Advocate-Personal Exemptions,Other,0
+Advocate-Personal Exemptions,Web,0
+Alzheimer's Care,Mobile,0
+Alzheimer's Care,Other,0
+Alzheimer's Care,Phone,0
+Alzheimer's Care,Web,0
+DCA / DOH New License Application Request,Mobile,0
+DCA / DOH New License Application Request,Other,0
+DCA / DOH New License Application Request,Phone,0
+DCA / DOH New License Application Request,Web,0
+DOF Parking - Request Status,Mobile,0
+DOF Parking - Request Status,Other,0
+DOF Parking - Request Status,Phone,0
+DOF Parking - Request Status,Web,0
+Home Care Provider Complaint,Mobile,0
+Home Care Provider Complaint,Other,0
+Home Care Provider Complaint,Phone,0
+Home Care Provider Complaint,Web,0
+SCRIE,Mobile,0
+SCRIE,Other,0
+SCRIE,Phone,0
+SCRIE,Web,0
+Taxpayer Advocate Inquiry,Phone,23
+Taxpayer Advocate Inquiry,Mobile,0
+Taxpayer Advocate Inquiry,Other,0
+Taxpayer Advocate Inquiry,Web,0
+DOF Parking - Tax Exemption,Mobile,0
+DOF Parking - Tax Exemption,Other,0
+DOF Parking - Tax Exemption,Phone,0
+DOF Parking - Tax Exemption,Web,0
+OEM Literature Request,Mobile,0
+OEM Literature Request,Other,0
+OEM Literature Request,Phone,0
+OEM Literature Request,Web,0
+Elder Abuse,Mobile,0
+Elder Abuse,Other,0
+Elder Abuse,Phone,0
+Elder Abuse,Web,0
+Housing - Low Income Senior,Mobile,0
+Housing - Low Income Senior,Other,0
+Housing - Low Income Senior,Phone,0
+Housing - Low Income Senior,Web,0
+Senior Center Complaint,Phone,2532
+Senior Center Complaint,Web,93
+Senior Center Complaint,Mobile,0
+Senior Center Complaint,Other,0
+DOF Property - Payment Issue,Phone,11414
+DOF Property - Payment Issue,Mobile,0
+DOF Property - Payment Issue,Other,0
+DOF Property - Payment Issue,Web,0
+Case Management Agency Complaint,Mobile,0
+Case Management Agency Complaint,Other,0
+Case Management Agency Complaint,Phone,0
+Case Management Agency Complaint,Web,0
+DRIE,Phone,4023
+DRIE,Mobile,0
+DRIE,Other,0
+DRIE,Web,0
+Advocate-SCRIE/DRIE,Mobile,0
+Advocate-SCRIE/DRIE,Other,0
+Advocate-SCRIE/DRIE,Phone,0
+Advocate-SCRIE/DRIE,Web,0
+Bereavement Support Group,Mobile,0
+Bereavement Support Group,Other,0
+Bereavement Support Group,Phone,0
+Bereavement Support Group,Web,0
+Advocate-Commercial Exemptions,Phone,13
+Advocate-Commercial Exemptions,Mobile,0
+Advocate-Commercial Exemptions,Other,0
+Advocate-Commercial Exemptions,Web,0
+Advocate - RPIE,Mobile,0
+Advocate - RPIE,Other,0
+Advocate - RPIE,Phone,0
+Advocate - RPIE,Web,0
+Transportation Provider Complaint,Phone,106
+Transportation Provider Complaint,Web,9
+Transportation Provider Complaint,Mobile,0
+Transportation Provider Complaint,Other,0
+Advocate-Prop Class Incorrect,Mobile,0
+Advocate-Prop Class Incorrect,Other,0
+Advocate-Prop Class Incorrect,Phone,0
+Advocate-Prop Class Incorrect,Web,0
+Advocate-Business Tax,Phone,8
+Advocate-Business Tax,Mobile,0
+Advocate-Business Tax,Other,0
+Advocate-Business Tax,Web,0
+Advocate-Foreclosure,Phone,1
+Advocate-Foreclosure,Mobile,0
+Advocate-Foreclosure,Other,0
+Advocate-Foreclosure,Web,0
+Request Xmas Tree Collection,Phone,1916
+Request Xmas Tree Collection,Web,20
+Request Xmas Tree Collection,Mobile,0
+Request Xmas Tree Collection,Other,0
+Select Message Type...,Mobile,0
+Select Message Type...,Other,0
+Select Message Type...,Phone,0
+Select Message Type...,Web,0
+Parking Card,Mobile,0
+Parking Card,Other,0
+Parking Card,Phone,0
+Parking Card,Web,0
+AGENCY,Other,8
+AGENCY,Mobile,0
+AGENCY,Phone,0
+AGENCY,Web,0
+Rangehood,Web,9
+Rangehood,Mobile,0
+Rangehood,Other,0
+Rangehood,Phone,0
+Fire Alarm - New System,Web,9
+Fire Alarm - New System,Mobile,0
+Fire Alarm - New System,Other,0
+Fire Alarm - New System,Phone,0
+Fire Alarm - Reinspection,Web,16
+Fire Alarm - Reinspection,Mobile,0
+Fire Alarm - Reinspection,Other,0
+Fire Alarm - Reinspection,Phone,0
+Public Assembly,Web,11
+Public Assembly,Mobile,0
+Public Assembly,Other,0
+Public Assembly,Phone,0
+Hazmat Storage/Use,Web,2
+Hazmat Storage/Use,Mobile,0
+Hazmat Storage/Use,Other,0
+Hazmat Storage/Use,Phone,0
+Sprinkler - Mechanical,Web,3
+Sprinkler - Mechanical,Mobile,0
+Sprinkler - Mechanical,Other,0
+Sprinkler - Mechanical,Phone,0
+Fire Alarm - Modification,Web,4
+Fire Alarm - Modification,Mobile,0
+Fire Alarm - Modification,Other,0
+Fire Alarm - Modification,Phone,0
+Gas Station Discharge Lines,Web,2
+Gas Station Discharge Lines,Mobile,0
+Gas Station Discharge Lines,Other,0
+Gas Station Discharge Lines,Phone,0
+ZSYSTEST,Other,2
+ZSYSTEST,Mobile,0
+ZSYSTEST,Phone,0
+ZSYSTEST,Web,0
+Interior Demo,Other,21
+Interior Demo,Mobile,0
+Interior Demo,Phone,0
+Interior Demo,Web,0
+Public Assembly - Temporary,Web,1
+Public Assembly - Temporary,Mobile,0
+Public Assembly - Temporary,Other,0
+Public Assembly - Temporary,Phone,0
+Open Flame Permit,Web,1
+Open Flame Permit,Mobile,0
+Open Flame Permit,Other,0
+Open Flame Permit,Phone,0
+General Question,Mobile,0
+General Question,Other,0
+General Question,Phone,0
+General Question,Web,0
+Legal Services Provider Complaint,Phone,138
+Legal Services Provider Complaint,Mobile,0
+Legal Services Provider Complaint,Other,0
+Legal Services Provider Complaint,Web,0
+NORC Complaint,Mobile,0
+NORC Complaint,Other,0
+NORC Complaint,Phone,0
+NORC Complaint,Web,0
+Advocate - Levy,Phone,2
+Advocate - Levy,Mobile,0
+Advocate - Levy,Other,0
+Advocate - Levy,Web,0
+FCST,Other,180
+FCST,Mobile,0
+FCST,Phone,0
+FCST,Web,0
+Homebound Evacuation 4,Other,2
+Homebound Evacuation 4,Mobile,0
+Homebound Evacuation 4,Phone,0
+Homebound Evacuation 4,Web,0
+Illegal Animal - Sold/Kept,Phone,1
+Illegal Animal - Sold/Kept,Mobile,0
+Illegal Animal - Sold/Kept,Other,0
+Illegal Animal - Sold/Kept,Web,0
+Injured Wildlife,Web,1
+Injured Wildlife,Mobile,0
+Injured Wildlife,Other,0
+Injured Wildlife,Phone,0
+Special Enforcement,Other,17
+Special Enforcement,Mobile,0
+Special Enforcement,Phone,0
+Special Enforcement,Web,0
+VACANT APARTMENT,Web,6
+VACANT APARTMENT,Phone,2
+VACANT APARTMENT,Mobile,0
+VACANT APARTMENT,Other,0
+Broken Muni Meter,Phone,158884
+Broken Muni Meter,Web,5257
+Broken Muni Meter,Mobile,4488
+Broken Muni Meter,Other,35
+ATF,Other,219
+ATF,Mobile,0
+ATF,Phone,0
+ATF,Web,0
+City Vehicle Placard Complaint,Phone,2380
+City Vehicle Placard Complaint,Other,1
+City Vehicle Placard Complaint,Mobile,0
+City Vehicle Placard Complaint,Web,0
+Advocate-UBT,Phone,1
+Advocate-UBT,Mobile,0
+Advocate-UBT,Other,0
+Advocate-UBT,Web,0
+LEAD,Phone,1
+LEAD,Mobile,0
+LEAD,Other,0
+LEAD,Web,0
+Trapping Pigeon,Other,2
+Trapping Pigeon,Mobile,0
+Trapping Pigeon,Phone,0
+Trapping Pigeon,Web,0
+Asbestos/Garbage Nuisance,Phone,1
+Asbestos/Garbage Nuisance,Mobile,0
+Asbestos/Garbage Nuisance,Other,0
+Asbestos/Garbage Nuisance,Web,0
+DOF Property - City Rebate,Mobile,0
+DOF Property - City Rebate,Other,0
+DOF Property - City Rebate,Phone,0
+DOF Property - City Rebate,Web,0
+DOR Literature Request,Mobile,0
+DOR Literature Request,Other,0
+DOR Literature Request,Phone,0
+DOR Literature Request,Web,0
+Dead Tree,Phone,45517
+Dead Tree,Other,11433
+Dead Tree,Mobile,0
+Dead Tree,Web,0
+OEM Disabled Vehicle,Phone,1433
+OEM Disabled Vehicle,Web,479
+OEM Disabled Vehicle,Other,1
+OEM Disabled Vehicle,Mobile,0
+DHS Income Savings Requirement,Mobile,0
+DHS Income Savings Requirement,Other,0
+DHS Income Savings Requirement,Phone,0
+DHS Income Savings Requirement,Web,0
+SG-99,Other,1
+SG-99,Mobile,0
+SG-99,Phone,0
+SG-99,Web,0
+DHS Advantage - Tenant,Mobile,0
+DHS Advantage - Tenant,Other,0
+DHS Advantage - Tenant,Phone,0
+DHS Advantage - Tenant,Web,0
+DHS Advantage -Landlord/Broker,Mobile,0
+DHS Advantage -Landlord/Broker,Other,0
+DHS Advantage -Landlord/Broker,Phone,0
+DHS Advantage -Landlord/Broker,Web,0
+HEAP Assistance,Mobile,0
+HEAP Assistance,Other,0
+HEAP Assistance,Phone,0
+HEAP Assistance,Web,0
+Meals Home Delivery Required,Mobile,0
+Meals Home Delivery Required,Other,0
+Meals Home Delivery Required,Phone,0
+Meals Home Delivery Required,Web,0
+CONSTRUCTION,Other,3215
+CONSTRUCTION,Phone,1829
+CONSTRUCTION,Mobile,0
+CONSTRUCTION,Web,0
+HEATING,Other,463965
+HEATING,Phone,232652
+HEATING,Web,179442
+HEATING,Mobile,0
+NONCONST,Other,166242
+NONCONST,Phone,93715
+NONCONST,Web,45
+NONCONST,Mobile,0
+GENERAL CONSTRUCTION,Other,318735
+GENERAL CONSTRUCTION,Phone,179894
+GENERAL CONSTRUCTION,Web,81
+GENERAL CONSTRUCTION,Mobile,0
+PAINT - PLASTER,Other,234811
+PAINT - PLASTER,Phone,124839
+PAINT - PLASTER,Web,73
+PAINT - PLASTER,Mobile,0
+DHS Advantage - Third Party,Mobile,0
+DHS Advantage - Third Party,Other,0
+DHS Advantage - Third Party,Phone,0
+DHS Advantage - Third Party,Web,0
+STRUCTURAL,Phone,16
+STRUCTURAL,Mobile,0
+STRUCTURAL,Other,0
+STRUCTURAL,Web,0
+Summer Camp,Phone,298
+Summer Camp,Web,21
+Summer Camp,Other,2
+Summer Camp,Mobile,0
+Portable Toilet,Phone,10
+Portable Toilet,Other,3
+Portable Toilet,Mobile,0
+Portable Toilet,Web,0
+Home Repair,Mobile,0
+Home Repair,Other,0
+Home Repair,Phone,0
+Home Repair,Web,0
+Weatherization,Mobile,0
+Weatherization,Other,0
+Weatherization,Phone,0
+Weatherization,Web,0
+Noise Survey,Web,16273
+Noise Survey,Mobile,0
+Noise Survey,Other,0
+Noise Survey,Phone,0
+DOF Parking - Address Update,Mobile,0
+DOF Parking - Address Update,Other,0
+DOF Parking - Address Update,Phone,0
+DOF Parking - Address Update,Web,0
+Utility Program,Mobile,0
+Utility Program,Other,0
+Utility Program,Phone,0
+Utility Program,Web,0
+Teaching/Learning/Instruction,Phone,314
+Teaching/Learning/Instruction,Web,50
+Teaching/Learning/Instruction,Mobile,0
+Teaching/Learning/Instruction,Other,0
+DOF Literature Request,Phone,1
+DOF Literature Request,Mobile,0
+DOF Literature Request,Other,0
+DOF Literature Request,Web,0
+Standpipe - Mechanical,Phone,6
+Standpipe - Mechanical,Mobile,0
+Standpipe - Mechanical,Other,0
+Standpipe - Mechanical,Web,0
+Eviction,Mobile,0
+Eviction,Other,0
+Eviction,Phone,0
+Eviction,Web,0
+Discipline and Suspension,Phone,329
+Discipline and Suspension,Web,42
+Discipline and Suspension,Mobile,0
+Discipline and Suspension,Other,0
+Registration and Transfers,Phone,140
+Registration and Transfers,Web,7
+Registration and Transfers,Mobile,0
+Registration and Transfers,Other,0
+Parent Leadership,Phone,34
+Parent Leadership,Web,17
+Parent Leadership,Mobile,0
+Parent Leadership,Other,0
+Health,Phone,111
+Health,Web,41
+Health,Mobile,0
+Health,Other,0
+No Child Left Behind,Phone,13
+No Child Left Behind,Web,2
+No Child Left Behind,Mobile,0
+No Child Left Behind,Other,0
+Hazardous Material,Other,3
+Hazardous Material,Mobile,0
+Hazardous Material,Phone,0
+Hazardous Material,Web,0
+Traffic/Illegal Parking,Phone,14047
+Traffic/Illegal Parking,Mobile,0
+Traffic/Illegal Parking,Other,0
+Traffic/Illegal Parking,Web,0
+DOF Property - State Rebate,Mobile,0
+DOF Property - State Rebate,Other,0
+DOF Property - State Rebate,Phone,0
+DOF Property - State Rebate,Web,0

@@ -1,0 +1,3031 @@
+borough,complaint_type,count
+Bronx,Noise - Residential,1095919
+Bronx,HEAT/HOT WATER,802643
+Bronx,Illegal Parking,402456
+Bronx,Noise - Street/Sidewalk,343284
+Bronx,UNSANITARY CONDITION,299400
+Bronx,Blocked Driveway,282176
+Bronx,PLUMBING,273869
+Bronx,PAINT/PLASTER,212736
+Bronx,HEATING,191215
+Bronx,Water System,173782
+Bronx,Street Condition,133427
+Bronx,DOOR/WINDOW,133086
+Bronx,Noise - Vehicle,129274
+Bronx,Street Light Condition,127118
+Bronx,WATER LEAK,123967
+Bronx,ELECTRIC,115056
+Bronx,GENERAL CONSTRUCTION,107339
+Bronx,Rodent,85950
+Bronx,FLOORING/STAIRS,85898
+Bronx,GENERAL,84829
+Bronx,PAINT - PLASTER,79011
+Bronx,Derelict Vehicles,76796
+Bronx,Request Large Bulky Item Collection,69313
+Bronx,APPLIANCE,68745
+Bronx,Noise - Commercial,68519
+Bronx,Elevator,63411
+Bronx,Dirty Conditions,58990
+Bronx,Sewer,53220
+Bronx,General Construction/Plumbing,53116
+Bronx,NONCONST,50416
+Bronx,Noise,47772
+Bronx,Sanitation Condition,45276
+Bronx,Consumer Complaint,44539
+Bronx,Building/Use,42428
+Bronx,Damaged Tree,41635
+Bronx,Abandoned Vehicle,41624
+Bronx,Sidewalk Condition,39809
+Bronx,Graffiti,39392
+Bronx,Traffic Signal Condition,39294
+Bronx,Non-Emergency Police Matter,32731
+Bronx,SAFETY,29193
+Bronx,Missed Collection (All Materials),24911
+Bronx,Dirty Condition,24809
+Bronx,Derelict Vehicle,24482
+Bronx,Overgrown Tree/Branches,22853
+Bronx,Maintenance or Facility,19650
+Bronx,New Tree Request,18993
+Bronx,Illegal Dumping,17220
+Bronx,Illegal Fireworks,16497
+Bronx,Root/Sewer/Sidewalk Condition,14702
+Bronx,Food Establishment,13865
+Bronx,Homeless Person Assistance,13787
+Bronx,Missed Collection,13066
+Bronx,Noise - Park,12890
+Bronx,Broken Muni Meter,12398
+Bronx,Indoor Air Quality,11209
+Bronx,Lead,10911
+Bronx,Animal Abuse,10321
+Bronx,Water Conservation,10192
+Bronx,For Hire Vehicle Complaint,9961
+Bronx,Snow,9628
+Bronx,Plumbing,9541
+Bronx,Air Quality,9479
+Bronx,Street Sign - Missing,9057
+Bronx,Street Sign - Damaged,8581
+Bronx,Animal-Abuse,7973
+Bronx,Boilers,7378
+Bronx,Broken Parking Meter,7324
+Bronx,Dead/Dying Tree,7119
+Bronx,Drinking,6872
+Bronx,Traffic,6801
+Bronx,Curb Condition,6665
+Bronx,NonCompliance with Phased Reopening,6375
+Bronx,Unsanitary Animal Pvt Property,6368
+Bronx,Other Enforcement,6315
+Bronx,Electrical,6270
+Bronx,Encampment,6217
+Bronx,Smoking,6188
+Bronx,Drug Activity,5919
+Bronx,Violation of Park Rules,5359
+Bronx,ELEVATOR,5248
+Bronx,Taxi Complaint,5097
+Bronx,Obstruction,5021
+Bronx,Street Sign - Dangling,4998
+Bronx,Dead Tree,4974
+Bronx,Highway Condition,4894
+Bronx,Hazardous Materials,4820
+Bronx,School Maintenance,4595
+Bronx,Food Poisoning,4537
+Bronx,Illegal Tree Damage,4461
+Bronx,Vending,4063
+Bronx,Street Sweeping Complaint,3983
+Bronx,Residential Disposal Complaint,3823
+Bronx,Panhandling,3743
+Bronx,Dead Animal,3644
+Bronx,Emergency Response Team (ERT),3561
+Bronx,Asbestos,3418
+Bronx,Water Quality,3296
+Bronx,Vacant Lot,3152
+Bronx,Standing Water,3131
+Bronx,Litter Basket / Request,3107
+Bronx,Special Projects Inspection Team (SPIT),2869
+Bronx,OUTSIDE BUILDING,2756
+Bronx,Non-Residential Heat,2633
+Bronx,Construction Safety Enforcement,2618
+Bronx,Indoor Sewage,2455
+Bronx,Animal in a Park,2412
+Bronx,Bus Stop Shelter Complaint,2344
+Bronx,Homeless Encampment,2191
+Bronx,Vendor Enforcement,2171
+Bronx,Unsanitary Condition,2127
+Bronx,Industrial Waste,2113
+Bronx,Noise Survey,2050
+Bronx,Overflowing Litter Baskets,2015
+Bronx,Real Time Enforcement,2001
+Bronx,Day Care,1968
+Bronx,Unleashed Dog,1931
+Bronx,BEST/Site Safety,1688
+Bronx,Electronics Waste Appointment,1667
+Bronx,Noise - House of Worship,1576
+Bronx,Traffic/Illegal Parking,1540
+Bronx,Miscellaneous Categories,1491
+Bronx,Mobile Food Vendor,1381
+Bronx,Snow or Ice,1187
+Bronx,Unsanitary Pigeon Condition,1185
+Bronx,Investigations and Discipline (IAD),1132
+Bronx,Bike/Roller/Skate Chronic,1118
+Bronx,Sanitation Worker or Vehicle Complaint,1114
+Bronx,Noise - Helicopter,1112
+Bronx,Lot Condition,1062
+Bronx,DRIE,1056
+Bronx,Litter Basket Request,1039
+Bronx,Disorderly Youth,1013
+Bronx,Urinating in Public,956
+Bronx,Sweeping/Missed,938
+Bronx,DOF Property - Payment Issue,938
+Bronx,Illegal Animal Kept as Pet,904
+Bronx,Construction Lead Dust,888
+Bronx,CONSTRUCTION,860
+Bronx,Water Leak,830
+Bronx,Outdoor Dining,778
+Bronx,Homeless Street Condition,773
+Bronx,Paint/Plaster,760
+Bronx,Borough Office,752
+Bronx,Window Guard,747
+Bronx,Recycling Enforcement,726
+Bronx,Smoking or Vaping,690
+Bronx,E-Scooter,620
+Bronx,Harboring Bees/Wasps,618
+Bronx,Adopt-A-Basket,585
+Bronx,Sustainability Enforcement,585
+Bronx,Public Payphone Complaint,584
+Bronx,General,545
+Bronx,Mold,535
+Bronx,For Hire Vehicle Report,517
+Bronx,Building Marshals office,510
+Bronx,COVID-19 Non-essential Construction,493
+Bronx,Vaccine Mandate Non-Compliance,490
+Bronx,Drinking Water,487
+Bronx,DPR Internal,485
+Bronx,Dumpster Complaint,484
+Bronx,Mosquitoes,472
+Bronx,Door/Window,457
+Bronx,Bridge Condition,453
+Bronx,Senior Center Complaint,441
+Bronx,Heat/Hot Water,429
+Bronx,Scaffold Safety,428
+Bronx,Commercial Disposal Complaint,426
+Bronx,City Vehicle Placard Complaint,424
+Bronx,Litter Basket Complaint,423
+Bronx,Mass Gathering Complaint,421
+Bronx,Safety,386
+Bronx,Bus Stop Shelter Placement,385
+Bronx,Sweeping/Missed-Inadequate,356
+Bronx,Illegal Posting,355
+Bronx,Storm,352
+Bronx,Derelict Bicycle,328
+Bronx,Snow Removal,324
+Bronx,Tattooing,310
+Bronx,Poison Ivy,310
+Bronx,Cranes and Derricks,293
+Bronx,Taxi Report,281
+Bronx,Sweeping/Inadequate,280
+Bronx,Abandoned Bike,277
+Bronx,Facades,272
+Bronx,Beach/Pool/Sauna Complaint,249
+Bronx,Flooring/Stairs,240
+Bronx,Sewer Maintenance,229
+Bronx,Wood Pile Remaining,207
+Bronx,Appliance,205
+Bronx,Posting Advertisement,190
+Bronx,Unsanitary Animal Facility,183
+Bronx,Municipal Parking Facility,181
+Bronx,Private or Charter School Reopening,178
+Bronx,Uprooted Stump,176
+Bronx,Pet Shop,176
+Bronx,Request Xmas Tree Collection,165
+Bronx,Lost Property,152
+Bronx,Face Covering Violation,151
+Bronx,Construction,150
+Bronx,Collection Truck Noise,119
+Bronx,Discipline and Suspension,108
+Bronx,LinkNYC,107
+Bronx,Bike Rack Condition,101
+Bronx,Executive Inspections,101
+Bronx,Teaching/Learning/Instruction,93
+Bronx,Animal Facility - No Permit,89
+Bronx,Green Taxi Complaint,86
+Bronx,Highway Sign - Damaged,86
+Bronx,Special Operations,83
+Bronx,Special Natural Area District (SNAD),76
+Bronx,Forensic Engineering,75
+Bronx,Plant,72
+Bronx,Illegal Animal Sold,71
+Bronx,OEM Disabled Vehicle,71
+Bronx,FATF,68
+Bronx,Electric,66
+Bronx,Stalled Sites,59
+Bronx,Seasonal Collection,59
+Bronx,Quality of Life,59
+Bronx,Water Maintenance,48
+Bronx,Summer Camp,48
+Bronx,Public Toilet,42
+Bronx,Dept of Investigations,39
+Bronx,Registration and Transfers,38
+Bronx,Health,36
+Bronx,Building Drinking Water Tank,35
+Bronx,Highway Sign - Missing,34
+Bronx,Peeling Paint,34
+Bronx,Found Property,33
+Bronx,AHV Inspection Unit,33
+Bronx,Water Drainage,31
+Bronx,Bottled Water,29
+Bronx,Incorrect Data,28
+Bronx,DEP Street Condition,26
+Bronx,Recycling Basket Complaint,25
+Bronx,Institution Disposal Complaint,22
+Bronx,Dispatched Taxi Complaint,22
+Bronx,Literature Request,20
+Bronx,Lifeguard,19
+Bronx,Unstable Building,19
+Bronx,Transportation Provider Complaint,19
+Bronx,ATF,19
+Bronx,Parent Leadership,19
+Bronx,X-Ray Machine/Equipment,18
+Bronx,Overflowing Recycling Baskets,17
+Bronx,Radioactive Material,15
+Bronx,Highway Sign - Dangling,14
+Bronx,Cooling Tower,14
+Bronx,Bike Rack,12
+Bronx,Taxi Compliment,12
+Bronx,Legal Services Provider Complaint,11
+Bronx,Green Taxi Report,10
+Bronx,Tanning,10
+Bronx,Unlicensed Dog,10
+Bronx,Squeegee,9
+Bronx,Building Condition,9
+Bronx,Taxi Licensee Complaint,8
+Bronx,SNW,7
+Bronx,Retailer Complaint,7
+Bronx,Calorie Labeling,6
+Bronx,DEP Sidewalk Condition,6
+Bronx,Special Enforcement,6
+Bronx,FHV Licensee Complaint,5
+Bronx,Boiler,5
+Bronx,Leaning Bar,4
+Bronx,DOB Posted Notice or Order,4
+Bronx,Foam Ban Enforcement,4
+Bronx,DOF Property - Reduction Issue,4
+Bronx,STRUCTURAL,4
+Bronx,Bench,3
+Bronx,Oil or Gas Spill,3
+Bronx,Private School Vaccine Mandate Non-Compliance,3
+Bronx,Advocate - Lien,3
+Bronx,Advocate-Commercial Exemptions,3
+Bronx,AGENCY,3
+Bronx,Rangehood,3
+Bronx,Wayfinding,2
+Bronx,Trans Fat,2
+Bronx,DSNY Spillage,2
+Bronx,Portable Toilet,2
+Bronx,Standpipe - Mechanical,2
+Bronx,No Child Left Behind,2
+Bronx,Tobacco or Non-Tobacco Sale,1
+Bronx,Transfer Station Complaint,1
+Bronx,Facade Insp Safety Pgm,1
+Bronx,Internal Code,1
+Bronx,SRDE,1
+Bronx,MOLD,1
+Bronx,Single Occupancy Bathroom,1
+Bronx,DOF Parking - Payment Issue,1
+Bronx,Taxpayer Advocate Inquiry,1
+Bronx,Advocate-Business Tax,1
+Bronx,Public Assembly,1
+Bronx,LEAD,1
+Bronx,Trapping Pigeon,1
+Bronx,SG-99,1
+Bronx,Bike/Roller/Skate,0
+Bronx,Cannabis Retailer,0
+Bronx,Ferry Complaint,0
+Bronx,Ferry Inquiry,0
+Bronx,Pet Sale,0
+Bronx,Tunnel Condition,0
+Bronx,Unspecified,0
+Bronx,DEP Highway Condition,0
+Bronx,DSNY Internal,0
+Bronx,ASBESTOS,0
+Bronx,Building Marshal's Office,0
+Bronx,Outside Building,0
+Bronx,Dispatched Taxi Compliment,0
+Bronx,ZTESTINT,0
+Bronx,Home Delivered Meal - Missed Delivery,0
+Bronx,DEP Bridge Condition,0
+Bronx,Change Collection Schedule,0
+Bronx,SRGOVG,0
+Bronx,Employee Behavior,0
+Bronx,Electronics Waste,0
+Bronx,Ferry Permit,0
+Bronx,Home Delivered Meal Complaint,0
+Bronx,Fire Alarm - Replacement,0
+Bronx,Request Changes - A.S.P.,0
+Bronx,Comments,0
+Bronx,Forms,0
+Bronx,Question,0
+Bronx,Advocate - Other,0
+Bronx,Benefit Card Replacement,0
+Bronx,DOF Property - Owner Issue,0
+Bronx,DOF Property - Update Account,0
+Bronx,DOF Property - Property Value,0
+Bronx,DOF Property - RPIE Issue,0
+Bronx,DOF Property - Request Copy,0
+Bronx,Research Questions,0
+Bronx,MSOTHER,0
+Bronx,$(sleep 11),0
+Bronx,${3804*3137},0
+Bronx,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+Bronx,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+Bronx,%2fetc%2fpasswd,0
+Bronx,%E5%98%8A%E5%98%8DX-Injecti...,0
+Bronx,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+Bronx,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+Bronx,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+Bronx,%c0%ae/WEB-INF/web.xml,0
+Bronx,%{(#dm=@ognl.OgnlContext@DE...,0
+Bronx,%{4761*8506},0
+Bronx,&lt;odb xmlns:xi=&quot;http...,0
+Bronx,&lt;vlv xmlns=&quot;http://...,0
+Bronx,&quot;--&gt;'--&gt;`--&gt;&...,0
+Bronx,() { :;}; /bin/sleep 0,0
+Bronx,() { :;}; /bin/sleep 11,0
+Bronx,() { _; } &gt;_,0
+Bronx,(select extractvalue(xmltyp...,0
+Bronx,(select load_file('\\\\615h...,0
+Bronx,*)(!(objectClass=*),0
+Bronx,*)(objectClass=*,0
+Bronx,.../....///.../....///.../....,0
+Bronx,.../...//.../...//.../...//...,0
+Bronx,..././..././..././..././......,0
+Bronx,.../.\.../.\.../.\.../.\......,0
+Bronx,.../Misc. Comments,0
+Bronx,...\./...\./...\./...\./......,0
+Bronx,...\.\...\.\...\.\...\.\......,0
+Bronx,../../../../../../../../../...,0
+Bronx,../../../../WEB-INF/web.xml,0
+Bronx,../../../WEB-INF/web.xml,0
+Bronx,../../../WEB-INF/web.xml;x=,0
+Bronx,../../WEB-INF/web.xml,0
+Bronx,../../WEB-INF/web.xml;x=,0
+Bronx,../WEB-INF/web.xml,0
+Bronx,../WEB-INF/web.xml;x=,0
+Bronx,..\..\..\..\..\..\..\..\..\...,0
+Bronx,./validate_form.php,0
+Bronx,/./validate_form.php,0
+Bronx,/etc/passwd,0
+Bronx,1430*4963,0
+Bronx,266dyrgvhg1egsyp2oq57axbm2s...,0
+Bronx,@(9313*3464),0
+Bronx,Misc. Comments  BCC:a5glxzf...,0
+Bronx,Misc. Comments%}dt2pq'/&quo...,0
+Bronx,Misc. Comments&amp;echo xjd...,0
+Bronx,Misc. Comments&amp;nslookup...,0
+Bronx,Misc. Comments&amp;ping -n ...,0
+Bronx,Misc. Comments&gt;  BCC:bl0...,0
+Bronx,Misc. Comments&quot;,0
+Bronx,Misc. Comments&quot;|echo 2...,0
+Bronx,Misc. Comments&quot;|ping -...,0
+Bronx,Misc. Comments',0
+Bronx,Misc. Comments' and '1618'=...,0
+Bronx,Misc. Comments' and '7835'=...,0
+Bronx,Misc. Comments' and (select...,0
+Bronx,Misc. Comments' and 6049=60...,0
+Bronx,Misc. Comments' and 7702=77...,0
+Bronx,Misc. Comments' waitfor del...,0
+Bronx,Misc. Comments'&quot;`0&amp...,0
+Bronx,Misc. Comments'(select*from...,0
+Bronx,Misc. Comments');declare @q...,0
+Bronx,Misc. Comments')waitfor del...,0
+Bronx,Misc. Comments'+(function()...,0
+Bronx,Misc. Comments'+(select loa...,0
+Bronx,Misc. Comments'+(select*fro...,0
+Bronx,Misc. Comments'+eval(compil...,0
+Bronx,Misc. Comments'+sleep(20.to...,0
+Bronx,"Misc. Comments',0)waitfor d...",0
+Bronx,Misc. Comments'.sleep(20).',0
+Bronx,Misc. Comments';declare @q ...,0
+Bronx,Misc. Comments'|echo y9v6fc...,0
+Bronx,Misc. Comments'|ping -c 21 ...,0
+Bronx,Misc. Comments'||(select ex...,0
+Bronx,Misc. Comments);declare @q ...,0
+Bronx,"Misc. Comments,(select*from...",0
+Bronx,Misc. Comments../../../../....,0
+Bronx,Misc. Comments..\..\..\..\....,0
+Bronx,Misc. Comments47876391' or ...,0
+Bronx,Misc. Comments52038737' or ...,0
+Bronx,Misc. Comments69075347' or ...,0
+Bronx,Misc. Comments88909845' or ...,0
+Bronx,Misc. Comments;declare @q v...,0
+Bronx,Misc. Comments]]&gt;&gt;&lt;,0
+Bronx,Misc. Commentseowljujfh8,0
+Bronx,Misc. Commentso0w3r%&gt;xb6...,0
+Bronx,Misc. Comments{${sleep(20)}},0
+Bronx,Misc. Comments|echo 3p7wexz...,0
+Bronx,Misc. Comments|nslookup -q=...,0
+Bronx,Misc. Comments|ping -c 21 1...,0
+Bronx,Misc. Comments|ping -n 21 1...,0
+Bronx,Misc. Comments}}t2v95'/&quo...,0
+Bronx,\windows\win.ini,0
+Bronx,`sleep 11`,0
+Bronx,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+Bronx,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+Bronx,c:\windows\win.ini,0
+Bronx,c:\windows\win.ini Misc. Co...,0
+Bronx,eval(compile('for x in rang...,0
+Bronx,file:///c:/windows/win.ini,0
+Bronx,file:///etc/passwd,0
+Bronx,g0oii1s4s5)(objectClass=*,0
+Bronx,hcvn1{{687*375}}gji51,0
+Bronx,http://g7orz5h9iu2sh6z332rj...,0
+Bronx,idexf3mrb7)(!(objectClass=*),0
+Bronx,kawn''lcgv,0
+Bronx,nslookup -q=cname nneyfcxgy...,0
+Bronx,qfix4${695*589}lixaf,0
+Bronx,yw97y0gi2s,0
+Bronx,{!xmlparser v='&lt;!DOCTYPE...,0
+Bronx,Advocate-Co-opCondo Abatement,0
+Bronx,Advocate-Prop Refunds/Credits,0
+Bronx,Advocate-Property Value,0
+Bronx,DOF Parking - DMV Clearance,0
+Bronx,DOF Parking - Request Copy,0
+Bronx,HPD Literature Request,0
+Bronx,Housing Options,0
+Bronx,Advocate-Personal Exemptions,0
+Bronx,Alzheimer's Care,0
+Bronx,DCA / DOH New License Application Request,0
+Bronx,DOF Parking - Request Status,0
+Bronx,Home Care Provider Complaint,0
+Bronx,SCRIE,0
+Bronx,DOF Parking - Tax Exemption,0
+Bronx,OEM Literature Request,0
+Bronx,Elder Abuse,0
+Bronx,Housing - Low Income Senior,0
+Bronx,Case Management Agency Complaint,0
+Bronx,Advocate-SCRIE/DRIE,0
+Bronx,Bereavement Support Group,0
+Bronx,Advocate - RPIE,0
+Bronx,Advocate-Prop Class Incorrect,0
+Bronx,Advocate-Foreclosure,0
+Bronx,Select Message Type...,0
+Bronx,Parking Card,0
+Bronx,Fire Alarm - New System,0
+Bronx,Fire Alarm - Reinspection,0
+Bronx,Hazmat Storage/Use,0
+Bronx,Sprinkler - Mechanical,0
+Bronx,Fire Alarm - Modification,0
+Bronx,Gas Station Discharge Lines,0
+Bronx,ZSYSTEST,0
+Bronx,Interior Demo,0
+Bronx,Public Assembly - Temporary,0
+Bronx,Open Flame Permit,0
+Bronx,General Question,0
+Bronx,NORC Complaint,0
+Bronx,Advocate - Levy,0
+Bronx,FCST,0
+Bronx,Homebound Evacuation 4,0
+Bronx,Illegal Animal - Sold/Kept,0
+Bronx,Injured Wildlife,0
+Bronx,VACANT APARTMENT,0
+Bronx,Advocate-UBT,0
+Bronx,Asbestos/Garbage Nuisance,0
+Bronx,DOF Property - City Rebate,0
+Bronx,DOR Literature Request,0
+Bronx,DHS Income Savings Requirement,0
+Bronx,DHS Advantage - Tenant,0
+Bronx,DHS Advantage -Landlord/Broker,0
+Bronx,HEAP Assistance,0
+Bronx,Meals Home Delivery Required,0
+Bronx,DHS Advantage - Third Party,0
+Bronx,Home Repair,0
+Bronx,Weatherization,0
+Bronx,DOF Parking - Address Update,0
+Bronx,Utility Program,0
+Bronx,DOF Literature Request,0
+Bronx,Eviction,0
+Bronx,Hazardous Material,0
+Bronx,DOF Property - State Rebate,0
+Brooklyn,Illegal Parking,1021195
+Brooklyn,Noise - Residential,987425
+Brooklyn,HEAT/HOT WATER,677190
+Brooklyn,Blocked Driveway,619030
+Brooklyn,Request Large Bulky Item Collection,398806
+Brooklyn,Street Condition,329644
+Brooklyn,Noise - Street/Sidewalk,319300
+Brooklyn,UNSANITARY CONDITION,302459
+Brooklyn,PLUMBING,284030
+Brooklyn,Water System,252051
+Brooklyn,Street Light Condition,207684
+Brooklyn,Noise - Commercial,207321
+Brooklyn,General Construction/Plumbing,197328
+Brooklyn,PAINT/PLASTER,193163
+Brooklyn,Noise,192004
+Brooklyn,HEATING,187060
+Brooklyn,Traffic Signal Condition,164407
+Brooklyn,Derelict Vehicles,163826
+Brooklyn,Rodent,160342
+Brooklyn,Sanitation Condition,141332
+Brooklyn,Sewer,141251
+Brooklyn,Damaged Tree,140838
+Brooklyn,ELECTRIC,139015
+Brooklyn,Noise - Vehicle,132242
+Brooklyn,GENERAL CONSTRUCTION,131983
+Brooklyn,DOOR/WINDOW,130136
+Brooklyn,Dirty Conditions,129932
+Brooklyn,WATER LEAK,129668
+Brooklyn,Sidewalk Condition,128658
+Brooklyn,Missed Collection (All Materials),115961
+Brooklyn,Building/Use,104255
+Brooklyn,Graffiti,102179
+Brooklyn,New Tree Request,100289
+Brooklyn,Abandoned Vehicle,97114
+Brooklyn,PAINT - PLASTER,93794
+Brooklyn,GENERAL,85838
+Brooklyn,FLOORING/STAIRS,80767
+Brooklyn,Overgrown Tree/Branches,80655
+Brooklyn,Consumer Complaint,77944
+Brooklyn,NONCONST,69662
+Brooklyn,Missed Collection,65965
+Brooklyn,Non-Emergency Police Matter,58516
+Brooklyn,APPLIANCE,58502
+Brooklyn,Derelict Vehicle,55886
+Brooklyn,Dirty Condition,54279
+Brooklyn,Elevator,47860
+Brooklyn,Homeless Person Assistance,46086
+Brooklyn,Lead,45930
+Brooklyn,Maintenance or Facility,45759
+Brooklyn,Root/Sewer/Sidewalk Condition,40730
+Brooklyn,Illegal Dumping,39457
+Brooklyn,Food Establishment,36086
+Brooklyn,Street Sign - Damaged,35805
+Brooklyn,SAFETY,35516
+Brooklyn,Air Quality,31246
+Brooklyn,For Hire Vehicle Complaint,31061
+Brooklyn,Illegal Fireworks,30690
+Brooklyn,Broken Muni Meter,30264
+Brooklyn,Snow,28617
+Brooklyn,Electronics Waste Appointment,27179
+Brooklyn,Curb Condition,27152
+Brooklyn,Other Enforcement,26008
+Brooklyn,Encampment,25331
+Brooklyn,Taxi Complaint,23276
+Brooklyn,Street Sign - Missing,22872
+Brooklyn,Noise - Helicopter,22149
+Brooklyn,Indoor Air Quality,22043
+Brooklyn,Dead/Dying Tree,22006
+Brooklyn,Plumbing,20995
+Brooklyn,Noise - Park,20830
+Brooklyn,NonCompliance with Phased Reopening,19951
+Brooklyn,Emergency Response Team (ERT),19205
+Brooklyn,Broken Parking Meter,18678
+Brooklyn,Traffic,17800
+Brooklyn,Electrical,16324
+Brooklyn,Special Projects Inspection Team (SPIT),15912
+Brooklyn,Illegal Tree Damage,15267
+Brooklyn,Animal Abuse,15232
+Brooklyn,Water Conservation,15112
+Brooklyn,Street Sweeping Complaint,14401
+Brooklyn,Dead Tree,14134
+Brooklyn,Obstruction,13319
+Brooklyn,Animal-Abuse,13148
+Brooklyn,Street Sign - Dangling,11808
+Brooklyn,Litter Basket / Request,11671
+Brooklyn,Dead Animal,11618
+Brooklyn,Residential Disposal Complaint,11567
+Brooklyn,Construction Safety Enforcement,11009
+Brooklyn,Hazardous Materials,10709
+Brooklyn,Food Poisoning,10419
+Brooklyn,Smoking,10363
+Brooklyn,Real Time Enforcement,10115
+Brooklyn,Unsanitary Animal Pvt Property,9745
+Brooklyn,Boilers,9646
+Brooklyn,Animal in a Park,9595
+Brooklyn,Vending,7880
+Brooklyn,Vacant Lot,7864
+Brooklyn,Standing Water,7705
+Brooklyn,Asbestos,7626
+Brooklyn,Drinking,7595
+Brooklyn,Homeless Encampment,7588
+Brooklyn,BEST/Site Safety,7336
+Brooklyn,Vendor Enforcement,6942
+Brooklyn,School Maintenance,6938
+Brooklyn,Drug Activity,6868
+Brooklyn,Violation of Park Rules,6685
+Brooklyn,Derelict Bicycle,6496
+Brooklyn,Outdoor Dining,6457
+Brooklyn,Panhandling,5871
+Brooklyn,Noise - House of Worship,5760
+Brooklyn,Highway Condition,5443
+Brooklyn,Mobile Food Vendor,5393
+Brooklyn,Water Quality,5243
+Brooklyn,Industrial Waste,5231
+Brooklyn,Miscellaneous Categories,5052
+Brooklyn,Investigations and Discipline (IAD),4948
+Brooklyn,Indoor Sewage,4920
+Brooklyn,Sweeping/Missed,4528
+Brooklyn,Bus Stop Shelter Complaint,4499
+Brooklyn,Electronics Waste,4460
+Brooklyn,Noise Survey,4436
+Brooklyn,OUTSIDE BUILDING,4365
+Brooklyn,Non-Residential Heat,4361
+Brooklyn,Traffic/Illegal Parking,4228
+Brooklyn,Overflowing Litter Baskets,4168
+Brooklyn,Unleashed Dog,4157
+Brooklyn,ELEVATOR,4129
+Brooklyn,Illegal Posting,4042
+Brooklyn,Litter Basket Request,3963
+Brooklyn,Borough Office,3918
+Brooklyn,Snow or Ice,3701
+Brooklyn,Abandoned Bike,3456
+Brooklyn,DOF Property - Payment Issue,3118
+Brooklyn,Day Care,3109
+Brooklyn,Sweeping/Missed-Inadequate,3085
+Brooklyn,Recycling Enforcement,2963
+Brooklyn,Bike/Roller/Skate Chronic,2901
+Brooklyn,Homeless Street Condition,2894
+Brooklyn,Sanitation Worker or Vehicle Complaint,2884
+Brooklyn,Unsanitary Pigeon Condition,2810
+Brooklyn,Building Marshals office,2782
+Brooklyn,COVID-19 Non-essential Construction,2687
+Brooklyn,Urinating in Public,2551
+Brooklyn,Sustainability Enforcement,2398
+Brooklyn,Unsanitary Condition,2265
+Brooklyn,Commercial Disposal Complaint,2221
+Brooklyn,Lot Condition,2156
+Brooklyn,Dumpster Complaint,2064
+Brooklyn,Vaccine Mandate Non-Compliance,1707
+Brooklyn,Plant,1671
+Brooklyn,Litter Basket Complaint,1658
+Brooklyn,Construction Lead Dust,1485
+Brooklyn,Mold,1458
+Brooklyn,Bridge Condition,1437
+Brooklyn,CONSTRUCTION,1435
+Brooklyn,Taxi Report,1432
+Brooklyn,Sewer Maintenance,1425
+Brooklyn,Illegal Animal Kept as Pet,1412
+Brooklyn,Sweeping/Inadequate,1389
+Brooklyn,Window Guard,1322
+Brooklyn,Disorderly Youth,1297
+Brooklyn,Mosquitoes,1283
+Brooklyn,Harboring Bees/Wasps,1231
+Brooklyn,Water Leak,1217
+Brooklyn,Public Payphone Complaint,1181
+Brooklyn,Mass Gathering Complaint,1130
+Brooklyn,Smoking or Vaping,1109
+Brooklyn,DRIE,1084
+Brooklyn,For Hire Vehicle Report,1015
+Brooklyn,OEM Disabled Vehicle,979
+Brooklyn,Cranes and Derricks,963
+Brooklyn,Bus Stop Shelter Placement,925
+Brooklyn,Scaffold Safety,918
+Brooklyn,Bike Rack Condition,901
+Brooklyn,Private or Charter School Reopening,876
+Brooklyn,Lost Property,845
+Brooklyn,Wood Pile Remaining,832
+Brooklyn,Posting Advertisement,787
+Brooklyn,Drinking Water,742
+Brooklyn,Senior Center Complaint,740
+Brooklyn,Paint/Plaster,700
+Brooklyn,City Vehicle Placard Complaint,700
+Brooklyn,Adopt-A-Basket,677
+Brooklyn,Heat/Hot Water,677
+Brooklyn,Beach/Pool/Sauna Complaint,669
+Brooklyn,Tattooing,644
+Brooklyn,Storm,613
+Brooklyn,General,587
+Brooklyn,Request Xmas Tree Collection,565
+Brooklyn,Face Covering Violation,542
+Brooklyn,Snow Removal,509
+Brooklyn,Collection Truck Noise,499
+Brooklyn,Uprooted Stump,449
+Brooklyn,Facades,445
+Brooklyn,Construction,445
+Brooklyn,Safety,441
+Brooklyn,Executive Inspections,440
+Brooklyn,Quality of Life,419
+Brooklyn,DPR Internal,416
+Brooklyn,Door/Window,382
+Brooklyn,Green Taxi Complaint,380
+Brooklyn,Unsanitary Animal Facility,380
+Brooklyn,Animal Facility - No Permit,370
+Brooklyn,Seasonal Collection,358
+Brooklyn,Found Property,333
+Brooklyn,Stalled Sites,320
+Brooklyn,Poison Ivy,299
+Brooklyn,Forensic Engineering,286
+Brooklyn,Illegal Animal Sold,284
+Brooklyn,Pet Shop,263
+Brooklyn,AHV Inspection Unit,262
+Brooklyn,Flooring/Stairs,220
+Brooklyn,LinkNYC,215
+Brooklyn,Public Toilet,197
+Brooklyn,Water Maintenance,187
+Brooklyn,Appliance,181
+Brooklyn,Municipal Parking Facility,170
+Brooklyn,Electric,145
+Brooklyn,Summer Camp,126
+Brooklyn,Discipline and Suspension,119
+Brooklyn,Teaching/Learning/Instruction,103
+Brooklyn,Incorrect Data,100
+Brooklyn,Recycling Basket Complaint,95
+Brooklyn,Lifeguard,85
+Brooklyn,Special Natural Area District (SNAD),83
+Brooklyn,FATF,82
+Brooklyn,Special Operations,75
+Brooklyn,E-Scooter,69
+Brooklyn,Literature Request,60
+Brooklyn,Legal Services Provider Complaint,60
+Brooklyn,Bike Rack,56
+Brooklyn,Institution Disposal Complaint,56
+Brooklyn,Bottled Water,54
+Brooklyn,Highway Sign - Damaged,50
+Brooklyn,Registration and Transfers,48
+Brooklyn,Peeling Paint,44
+Brooklyn,Highway Sign - Missing,40
+Brooklyn,Water Drainage,40
+Brooklyn,Health,39
+Brooklyn,Transportation Provider Complaint,37
+Brooklyn,ATF,37
+Brooklyn,Taxi Compliment,34
+Brooklyn,Radioactive Material,34
+Brooklyn,Unstable Building,34
+Brooklyn,Cooling Tower,33
+Brooklyn,Overflowing Recycling Baskets,33
+Brooklyn,Green Taxi Report,32
+Brooklyn,Dept of Investigations,32
+Brooklyn,Building Drinking Water Tank,30
+Brooklyn,X-Ray Machine/Equipment,29
+Brooklyn,Calorie Labeling,25
+Brooklyn,DEP Street Condition,24
+Brooklyn,Foam Ban Enforcement,24
+Brooklyn,Highway Sign - Dangling,23
+Brooklyn,Unlicensed Dog,21
+Brooklyn,Building Condition,20
+Brooklyn,Transfer Station Complaint,16
+Brooklyn,Internal Code,16
+Brooklyn,Bench,14
+Brooklyn,Dispatched Taxi Complaint,14
+Brooklyn,Retailer Complaint,14
+Brooklyn,Boiler,14
+Brooklyn,Private School Vaccine Mandate Non-Compliance,12
+Brooklyn,Parent Leadership,12
+Brooklyn,Squeegee,9
+Brooklyn,Interior Demo,9
+Brooklyn,Single Occupancy Bathroom,8
+Brooklyn,Taxpayer Advocate Inquiry,8
+Brooklyn,Tanning,7
+Brooklyn,Trans Fat,7
+Brooklyn,FHV Licensee Complaint,6
+Brooklyn,DOF Property - Reduction Issue,6
+Brooklyn,DEP Sidewalk Condition,5
+Brooklyn,ZTESTINT,5
+Brooklyn,Employee Behavior,5
+Brooklyn,Fire Alarm - New System,5
+Brooklyn,Public Assembly,5
+Brooklyn,Special Enforcement,5
+Brooklyn,Portable Toilet,5
+Brooklyn,Taxi Licensee Complaint,4
+Brooklyn,Advocate-Commercial Exemptions,4
+Brooklyn,STRUCTURAL,4
+Brooklyn,No Child Left Behind,4
+Brooklyn,Ferry Inquiry,3
+Brooklyn,DSNY Internal,3
+Brooklyn,Oil or Gas Spill,3
+Brooklyn,Building Marshal's Office,3
+Brooklyn,Outside Building,3
+Brooklyn,SRDE,3
+Brooklyn,Advocate - Lien,3
+Brooklyn,Tobacco or Non-Tobacco Sale,2
+Brooklyn,Wayfinding,2
+Brooklyn,Fire Alarm - Reinspection,2
+Brooklyn,Hazmat Storage/Use,2
+Brooklyn,DEP Highway Condition,1
+Brooklyn,Leaning Bar,1
+Brooklyn,Facade Insp Safety Pgm,1
+Brooklyn,DOB Posted Notice or Order,1
+Brooklyn,MOLD,1
+Brooklyn,SRGOVG,1
+Brooklyn,DSNY Spillage,1
+Brooklyn,Fire Alarm - Replacement,1
+Brooklyn,Request Changes - A.S.P.,1
+Brooklyn,Advocate-Business Tax,1
+Brooklyn,Advocate-Foreclosure,1
+Brooklyn,AGENCY,1
+Brooklyn,Fire Alarm - Modification,1
+Brooklyn,Gas Station Discharge Lines,1
+Brooklyn,Advocate - Levy,1
+Brooklyn,FCST,1
+Brooklyn,Asbestos/Garbage Nuisance,1
+Brooklyn,Standpipe - Mechanical,1
+Brooklyn,Hazardous Material,1
+Brooklyn,Bike/Roller/Skate,0
+Brooklyn,Cannabis Retailer,0
+Brooklyn,Ferry Complaint,0
+Brooklyn,Pet Sale,0
+Brooklyn,Tunnel Condition,0
+Brooklyn,Unspecified,0
+Brooklyn,ASBESTOS,0
+Brooklyn,SNW,0
+Brooklyn,Dispatched Taxi Compliment,0
+Brooklyn,Home Delivered Meal - Missed Delivery,0
+Brooklyn,DEP Bridge Condition,0
+Brooklyn,Change Collection Schedule,0
+Brooklyn,Ferry Permit,0
+Brooklyn,Home Delivered Meal Complaint,0
+Brooklyn,Comments,0
+Brooklyn,Forms,0
+Brooklyn,Question,0
+Brooklyn,Advocate - Other,0
+Brooklyn,Benefit Card Replacement,0
+Brooklyn,DOF Property - Owner Issue,0
+Brooklyn,DOF Property - Update Account,0
+Brooklyn,DOF Property - Property Value,0
+Brooklyn,DOF Property - RPIE Issue,0
+Brooklyn,DOF Property - Request Copy,0
+Brooklyn,Research Questions,0
+Brooklyn,MSOTHER,0
+Brooklyn,$(sleep 11),0
+Brooklyn,${3804*3137},0
+Brooklyn,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+Brooklyn,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+Brooklyn,%2fetc%2fpasswd,0
+Brooklyn,%E5%98%8A%E5%98%8DX-Injecti...,0
+Brooklyn,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+Brooklyn,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+Brooklyn,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+Brooklyn,%c0%ae/WEB-INF/web.xml,0
+Brooklyn,%{(#dm=@ognl.OgnlContext@DE...,0
+Brooklyn,%{4761*8506},0
+Brooklyn,&lt;odb xmlns:xi=&quot;http...,0
+Brooklyn,&lt;vlv xmlns=&quot;http://...,0
+Brooklyn,&quot;--&gt;'--&gt;`--&gt;&...,0
+Brooklyn,() { :;}; /bin/sleep 0,0
+Brooklyn,() { :;}; /bin/sleep 11,0
+Brooklyn,() { _; } &gt;_,0
+Brooklyn,(select extractvalue(xmltyp...,0
+Brooklyn,(select load_file('\\\\615h...,0
+Brooklyn,*)(!(objectClass=*),0
+Brooklyn,*)(objectClass=*,0
+Brooklyn,.../....///.../....///.../....,0
+Brooklyn,.../...//.../...//.../...//...,0
+Brooklyn,..././..././..././..././......,0
+Brooklyn,.../.\.../.\.../.\.../.\......,0
+Brooklyn,.../Misc. Comments,0
+Brooklyn,...\./...\./...\./...\./......,0
+Brooklyn,...\.\...\.\...\.\...\.\......,0
+Brooklyn,../../../../../../../../../...,0
+Brooklyn,../../../../WEB-INF/web.xml,0
+Brooklyn,../../../WEB-INF/web.xml,0
+Brooklyn,../../../WEB-INF/web.xml;x=,0
+Brooklyn,../../WEB-INF/web.xml,0
+Brooklyn,../../WEB-INF/web.xml;x=,0
+Brooklyn,../WEB-INF/web.xml,0
+Brooklyn,../WEB-INF/web.xml;x=,0
+Brooklyn,..\..\..\..\..\..\..\..\..\...,0
+Brooklyn,./validate_form.php,0
+Brooklyn,/./validate_form.php,0
+Brooklyn,/etc/passwd,0
+Brooklyn,1430*4963,0
+Brooklyn,266dyrgvhg1egsyp2oq57axbm2s...,0
+Brooklyn,@(9313*3464),0
+Brooklyn,Misc. Comments  BCC:a5glxzf...,0
+Brooklyn,Misc. Comments%}dt2pq'/&quo...,0
+Brooklyn,Misc. Comments&amp;echo xjd...,0
+Brooklyn,Misc. Comments&amp;nslookup...,0
+Brooklyn,Misc. Comments&amp;ping -n ...,0
+Brooklyn,Misc. Comments&gt;  BCC:bl0...,0
+Brooklyn,Misc. Comments&quot;,0
+Brooklyn,Misc. Comments&quot;|echo 2...,0
+Brooklyn,Misc. Comments&quot;|ping -...,0
+Brooklyn,Misc. Comments',0
+Brooklyn,Misc. Comments' and '1618'=...,0
+Brooklyn,Misc. Comments' and '7835'=...,0
+Brooklyn,Misc. Comments' and (select...,0
+Brooklyn,Misc. Comments' and 6049=60...,0
+Brooklyn,Misc. Comments' and 7702=77...,0
+Brooklyn,Misc. Comments' waitfor del...,0
+Brooklyn,Misc. Comments'&quot;`0&amp...,0
+Brooklyn,Misc. Comments'(select*from...,0
+Brooklyn,Misc. Comments');declare @q...,0
+Brooklyn,Misc. Comments')waitfor del...,0
+Brooklyn,Misc. Comments'+(function()...,0
+Brooklyn,Misc. Comments'+(select loa...,0
+Brooklyn,Misc. Comments'+(select*fro...,0
+Brooklyn,Misc. Comments'+eval(compil...,0
+Brooklyn,Misc. Comments'+sleep(20.to...,0
+Brooklyn,"Misc. Comments',0)waitfor d...",0
+Brooklyn,Misc. Comments'.sleep(20).',0
+Brooklyn,Misc. Comments';declare @q ...,0
+Brooklyn,Misc. Comments'|echo y9v6fc...,0
+Brooklyn,Misc. Comments'|ping -c 21 ...,0
+Brooklyn,Misc. Comments'||(select ex...,0
+Brooklyn,Misc. Comments);declare @q ...,0
+Brooklyn,"Misc. Comments,(select*from...",0
+Brooklyn,Misc. Comments../../../../....,0
+Brooklyn,Misc. Comments..\..\..\..\....,0
+Brooklyn,Misc. Comments47876391' or ...,0
+Brooklyn,Misc. Comments52038737' or ...,0
+Brooklyn,Misc. Comments69075347' or ...,0
+Brooklyn,Misc. Comments88909845' or ...,0
+Brooklyn,Misc. Comments;declare @q v...,0
+Brooklyn,Misc. Comments]]&gt;&gt;&lt;,0
+Brooklyn,Misc. Commentseowljujfh8,0
+Brooklyn,Misc. Commentso0w3r%&gt;xb6...,0
+Brooklyn,Misc. Comments{${sleep(20)}},0
+Brooklyn,Misc. Comments|echo 3p7wexz...,0
+Brooklyn,Misc. Comments|nslookup -q=...,0
+Brooklyn,Misc. Comments|ping -c 21 1...,0
+Brooklyn,Misc. Comments|ping -n 21 1...,0
+Brooklyn,Misc. Comments}}t2v95'/&quo...,0
+Brooklyn,\windows\win.ini,0
+Brooklyn,`sleep 11`,0
+Brooklyn,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+Brooklyn,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+Brooklyn,c:\windows\win.ini,0
+Brooklyn,c:\windows\win.ini Misc. Co...,0
+Brooklyn,eval(compile('for x in rang...,0
+Brooklyn,file:///c:/windows/win.ini,0
+Brooklyn,file:///etc/passwd,0
+Brooklyn,g0oii1s4s5)(objectClass=*,0
+Brooklyn,hcvn1{{687*375}}gji51,0
+Brooklyn,http://g7orz5h9iu2sh6z332rj...,0
+Brooklyn,idexf3mrb7)(!(objectClass=*),0
+Brooklyn,kawn''lcgv,0
+Brooklyn,nslookup -q=cname nneyfcxgy...,0
+Brooklyn,qfix4${695*589}lixaf,0
+Brooklyn,yw97y0gi2s,0
+Brooklyn,{!xmlparser v='&lt;!DOCTYPE...,0
+Brooklyn,Advocate-Co-opCondo Abatement,0
+Brooklyn,Advocate-Prop Refunds/Credits,0
+Brooklyn,Advocate-Property Value,0
+Brooklyn,DOF Parking - DMV Clearance,0
+Brooklyn,DOF Parking - Payment Issue,0
+Brooklyn,DOF Parking - Request Copy,0
+Brooklyn,HPD Literature Request,0
+Brooklyn,Housing Options,0
+Brooklyn,Advocate-Personal Exemptions,0
+Brooklyn,Alzheimer's Care,0
+Brooklyn,DCA / DOH New License Application Request,0
+Brooklyn,DOF Parking - Request Status,0
+Brooklyn,Home Care Provider Complaint,0
+Brooklyn,SCRIE,0
+Brooklyn,DOF Parking - Tax Exemption,0
+Brooklyn,OEM Literature Request,0
+Brooklyn,Elder Abuse,0
+Brooklyn,Housing - Low Income Senior,0
+Brooklyn,Case Management Agency Complaint,0
+Brooklyn,Advocate-SCRIE/DRIE,0
+Brooklyn,Bereavement Support Group,0
+Brooklyn,Advocate - RPIE,0
+Brooklyn,Advocate-Prop Class Incorrect,0
+Brooklyn,Select Message Type...,0
+Brooklyn,Parking Card,0
+Brooklyn,Rangehood,0
+Brooklyn,Sprinkler - Mechanical,0
+Brooklyn,ZSYSTEST,0
+Brooklyn,Public Assembly - Temporary,0
+Brooklyn,Open Flame Permit,0
+Brooklyn,General Question,0
+Brooklyn,NORC Complaint,0
+Brooklyn,Homebound Evacuation 4,0
+Brooklyn,Illegal Animal - Sold/Kept,0
+Brooklyn,Injured Wildlife,0
+Brooklyn,VACANT APARTMENT,0
+Brooklyn,Advocate-UBT,0
+Brooklyn,LEAD,0
+Brooklyn,Trapping Pigeon,0
+Brooklyn,DOF Property - City Rebate,0
+Brooklyn,DOR Literature Request,0
+Brooklyn,DHS Income Savings Requirement,0
+Brooklyn,SG-99,0
+Brooklyn,DHS Advantage - Tenant,0
+Brooklyn,DHS Advantage -Landlord/Broker,0
+Brooklyn,HEAP Assistance,0
+Brooklyn,Meals Home Delivery Required,0
+Brooklyn,DHS Advantage - Third Party,0
+Brooklyn,Home Repair,0
+Brooklyn,Weatherization,0
+Brooklyn,DOF Parking - Address Update,0
+Brooklyn,Utility Program,0
+Brooklyn,DOF Literature Request,0
+Brooklyn,Eviction,0
+Brooklyn,DOF Property - State Rebate,0
+Manhattan,Noise - Residential,726660
+Manhattan,HEAT/HOT WATER,532032
+Manhattan,Noise - Street/Sidewalk,481387
+Manhattan,Illegal Parking,406291
+Manhattan,Noise,320352
+Manhattan,Noise - Commercial,233476
+Manhattan,Street Condition,207558
+Manhattan,Homeless Person Assistance,196686
+Manhattan,UNSANITARY CONDITION,180641
+Manhattan,PLUMBING,169161
+Manhattan,Water System,156247
+Manhattan,Noise - Vehicle,143037
+Manhattan,HEATING,134989
+Manhattan,Taxi Complaint,125533
+Manhattan,PAINT/PLASTER,123930
+Manhattan,Request Large Bulky Item Collection,122972
+Manhattan,Rodent,110960
+Manhattan,General Construction/Plumbing,108683
+Manhattan,Noise - Helicopter,102629
+Manhattan,Encampment,96306
+Manhattan,Broken Muni Meter,91910
+Manhattan,DOOR/WINDOW,81393
+Manhattan,Consumer Complaint,77306
+Manhattan,GENERAL,75519
+Manhattan,WATER LEAK,72659
+Manhattan,For Hire Vehicle Complaint,71231
+Manhattan,ELECTRIC,65320
+Manhattan,GENERAL CONSTRUCTION,60934
+Manhattan,Sidewalk Condition,59006
+Manhattan,Non-Emergency Police Matter,58105
+Manhattan,Dirty Conditions,57123
+Manhattan,FLOORING/STAIRS,54956
+Manhattan,Air Quality,51968
+Manhattan,Elevator,49357
+Manhattan,Food Establishment,48831
+Manhattan,Street Light Condition,48180
+Manhattan,Graffiti,48076
+Manhattan,Blocked Driveway,46657
+Manhattan,New Tree Request,46299
+Manhattan,PAINT - PLASTER,45271
+Manhattan,Sewer,41351
+Manhattan,Traffic Signal Condition,40396
+Manhattan,Sanitation Condition,35571
+Manhattan,APPLIANCE,35356
+Manhattan,Dirty Condition,34382
+Manhattan,Maintenance or Facility,33432
+Manhattan,NONCONST,31074
+Manhattan,Lead,29676
+Manhattan,Lost Property,27800
+Manhattan,Vending,26694
+Manhattan,Indoor Air Quality,26044
+Manhattan,Missed Collection (All Materials),25898
+Manhattan,Illegal Fireworks,24281
+Manhattan,Noise - Park,24259
+Manhattan,Building/Use,23580
+Manhattan,Homeless Encampment,23107
+Manhattan,Damaged Tree,23054
+Manhattan,Broken Parking Meter,22761
+Manhattan,Special Projects Inspection Team (SPIT),22549
+Manhattan,Vendor Enforcement,22314
+Manhattan,Panhandling,21140
+Manhattan,SAFETY,19184
+Manhattan,NonCompliance with Phased Reopening,19000
+Manhattan,Traffic,18939
+Manhattan,Emergency Response Team (ERT),18489
+Manhattan,Food Poisoning,16509
+Manhattan,Derelict Vehicles,16225
+Manhattan,Missed Collection,15885
+Manhattan,Other Enforcement,15401
+Manhattan,Illegal Dumping,15168
+Manhattan,Outdoor Dining,14444
+Manhattan,Abandoned Vehicle,13506
+Manhattan,Plumbing,12874
+Manhattan,Street Sign - Damaged,12754
+Manhattan,Bike/Roller/Skate Chronic,12047
+Manhattan,Drug Activity,11800
+Manhattan,Smoking,11553
+Manhattan,Curb Condition,11324
+Manhattan,Mobile Food Vendor,11053
+Manhattan,Obstruction,10741
+Manhattan,Construction Safety Enforcement,10355
+Manhattan,Homeless Street Condition,9914
+Manhattan,Taxi Report,9779
+Manhattan,Violation of Park Rules,9744
+Manhattan,Electrical,9445
+Manhattan,Residential Disposal Complaint,9346
+Manhattan,Boilers,9241
+Manhattan,Asbestos,9224
+Manhattan,Animal Abuse,9138
+Manhattan,Overgrown Tree/Branches,8759
+Manhattan,Hazardous Materials,8729
+Manhattan,Illegal Tree Damage,8638
+Manhattan,Street Sign - Missing,8603
+Manhattan,Animal in a Park,8006
+Manhattan,Animal-Abuse,7723
+Manhattan,Derelict Bicycle,7390
+Manhattan,Real Time Enforcement,7334
+Manhattan,Snow,7330
+Manhattan,Dead/Dying Tree,6917
+Manhattan,Water Quality,6661
+Manhattan,Litter Basket / Request,6650
+Manhattan,Street Sign - Dangling,6603
+Manhattan,Noise Survey,6257
+Manhattan,Derelict Vehicle,6196
+Manhattan,Drinking,5930
+Manhattan,Non-Residential Heat,5338
+Manhattan,Water Conservation,5334
+Manhattan,School Maintenance,5268
+Manhattan,Commercial Disposal Complaint,5026
+Manhattan,Dead Tree,4915
+Manhattan,Bus Stop Shelter Complaint,4782
+Manhattan,Overflowing Litter Baskets,4195
+Manhattan,BEST/Site Safety,4124
+Manhattan,Unsanitary Animal Pvt Property,4054
+Manhattan,Standing Water,3697
+Manhattan,Urinating in Public,3587
+Manhattan,Litter Basket Request,3519
+Manhattan,Highway Condition,3350
+Manhattan,ELEVATOR,3335
+Manhattan,Unsanitary Pigeon Condition,3307
+Manhattan,Public Payphone Complaint,3226
+Manhattan,Miscellaneous Categories,3219
+Manhattan,Found Property,3168
+Manhattan,Traffic/Illegal Parking,3061
+Manhattan,Industrial Waste,3031
+Manhattan,Street Sweeping Complaint,2971
+Manhattan,Noise - House of Worship,2738
+Manhattan,Vaccine Mandate Non-Compliance,2656
+Manhattan,Recycling Enforcement,2646
+Manhattan,Investigations and Discipline (IAD),2632
+Manhattan,Root/Sewer/Sidewalk Condition,2577
+Manhattan,OUTSIDE BUILDING,2484
+Manhattan,COVID-19 Non-essential Construction,2484
+Manhattan,Building Marshals office,2428
+Manhattan,Indoor Sewage,2399
+Manhattan,Dead Animal,2301
+Manhattan,Disorderly Youth,2256
+Manhattan,Unleashed Dog,1964
+Manhattan,Abandoned Bike,1907
+Manhattan,DOF Property - Payment Issue,1898
+Manhattan,Litter Basket Complaint,1617
+Manhattan,Construction Lead Dust,1612
+Manhattan,Sanitation Worker or Vehicle Complaint,1569
+Manhattan,Cranes and Derricks,1501
+Manhattan,Scaffold Safety,1480
+Manhattan,Sweeping/Missed,1394
+Manhattan,Mold,1377
+Manhattan,Dumpster Complaint,1356
+Manhattan,DPR Internal,1315
+Manhattan,Unsanitary Condition,1284
+Manhattan,For Hire Vehicle Report,1209
+Manhattan,Facades,1205
+Manhattan,Day Care,1197
+Manhattan,Smoking or Vaping,1192
+Manhattan,Vacant Lot,1192
+Manhattan,Sustainability Enforcement,1086
+Manhattan,DRIE,1051
+Manhattan,Mass Gathering Complaint,1020
+Manhattan,Borough Office,941
+Manhattan,Snow or Ice,919
+Manhattan,Bike Rack Condition,893
+Manhattan,Bridge Condition,873
+Manhattan,Collection Truck Noise,825
+Manhattan,Senior Center Complaint,803
+Manhattan,Illegal Posting,754
+Manhattan,Bus Stop Shelter Placement,744
+Manhattan,Lot Condition,730
+Manhattan,LinkNYC,709
+Manhattan,Adopt-A-Basket,679
+Manhattan,City Vehicle Placard Complaint,637
+Manhattan,CONSTRUCTION,618
+Manhattan,Sweeping/Missed-Inadequate,603
+Manhattan,Drinking Water,586
+Manhattan,Face Covering Violation,583
+Manhattan,Quality of Life,581
+Manhattan,Beach/Pool/Sauna Complaint,569
+Manhattan,Water Leak,557
+Manhattan,Heat/Hot Water,487
+Manhattan,Posting Advertisement,458
+Manhattan,Tattooing,452
+Manhattan,Illegal Animal Kept as Pet,447
+Manhattan,Mosquitoes,427
+Manhattan,General,425
+Manhattan,Paint/Plaster,404
+Manhattan,Green Taxi Complaint,371
+Manhattan,Taxi Compliment,325
+Manhattan,AHV Inspection Unit,322
+Manhattan,Window Guard,305
+Manhattan,Pet Shop,298
+Manhattan,Plant,292
+Manhattan,Harboring Bees/Wasps,282
+Manhattan,Door/Window,261
+Manhattan,Unsanitary Animal Facility,255
+Manhattan,Sweeping/Inadequate,254
+Manhattan,Squeegee,238
+Manhattan,Public Toilet,232
+Manhattan,Private or Charter School Reopening,228
+Manhattan,Animal Facility - No Permit,226
+Manhattan,Executive Inspections,219
+Manhattan,Construction,209
+Manhattan,Forensic Engineering,206
+Manhattan,Safety,182
+Manhattan,Illegal Animal Sold,172
+Manhattan,Stalled Sites,155
+Manhattan,Flooring/Stairs,148
+Manhattan,Cooling Tower,118
+Manhattan,Snow Removal,118
+Manhattan,Calorie Labeling,117
+Manhattan,Request Xmas Tree Collection,116
+Manhattan,Appliance,104
+Manhattan,Lifeguard,97
+Manhattan,Special Operations,97
+Manhattan,Wood Pile Remaining,82
+Manhattan,Overflowing Recycling Baskets,78
+Manhattan,Uprooted Stump,77
+Manhattan,FATF,77
+Manhattan,Sewer Maintenance,75
+Manhattan,Recycling Basket Complaint,71
+Manhattan,Municipal Parking Facility,65
+Manhattan,Seasonal Collection,64
+Manhattan,OEM Disabled Vehicle,63
+Manhattan,Radioactive Material,62
+Manhattan,Discipline and Suspension,62
+Manhattan,Building Drinking Water Tank,57
+Manhattan,X-Ray Machine/Equipment,56
+Manhattan,Teaching/Learning/Instruction,55
+Manhattan,ATF,54
+Manhattan,Bike Rack,51
+Manhattan,Poison Ivy,50
+Manhattan,Institution Disposal Complaint,47
+Manhattan,Building Condition,46
+Manhattan,Bottled Water,45
+Manhattan,Highway Sign - Damaged,41
+Manhattan,Summer Camp,40
+Manhattan,Transportation Provider Complaint,34
+Manhattan,Legal Services Provider Complaint,32
+Manhattan,Green Taxi Report,31
+Manhattan,Highway Sign - Missing,31
+Manhattan,Electric,31
+Manhattan,Water Maintenance,31
+Manhattan,ZTESTINT,31
+Manhattan,Dept of Investigations,30
+Manhattan,Incorrect Data,30
+Manhattan,Foam Ban Enforcement,27
+Manhattan,Dispatched Taxi Complaint,26
+Manhattan,Storm,26
+Manhattan,E-Scooter,25
+Manhattan,Literature Request,24
+Manhattan,Taxi Licensee Complaint,22
+Manhattan,Health,22
+Manhattan,Registration and Transfers,18
+Manhattan,DEP Street Condition,16
+Manhattan,Tanning,14
+Manhattan,Unstable Building,14
+Manhattan,Bench,13
+Manhattan,Retailer Complaint,12
+Manhattan,Water Drainage,12
+Manhattan,Fire Alarm - Reinspection,12
+Manhattan,Trans Fat,11
+Manhattan,DOF Property - Reduction Issue,11
+Manhattan,Highway Sign - Dangling,10
+Manhattan,Interior Demo,10
+Manhattan,FHV Licensee Complaint,9
+Manhattan,Boiler,9
+Manhattan,Ferry Complaint,8
+Manhattan,Special Natural Area District (SNAD),8
+Manhattan,Parent Leadership,8
+Manhattan,Ferry Inquiry,6
+Manhattan,Wayfinding,6
+Manhattan,Oil or Gas Spill,6
+Manhattan,Private School Vaccine Mandate Non-Compliance,6
+Manhattan,Single Occupancy Bathroom,6
+Manhattan,VACANT APARTMENT,6
+Manhattan,Peeling Paint,5
+Manhattan,Unlicensed Dog,5
+Manhattan,Public Assembly,5
+Manhattan,Portable Toilet,5
+Manhattan,DEP Sidewalk Condition,4
+Manhattan,Dispatched Taxi Compliment,4
+Manhattan,Taxpayer Advocate Inquiry,4
+Manhattan,DSNY Internal,3
+Manhattan,Building Marshal's Office,3
+Manhattan,Advocate-Business Tax,3
+Manhattan,Rangehood,3
+Manhattan,Fire Alarm - New System,3
+Manhattan,Sprinkler - Mechanical,3
+Manhattan,Fire Alarm - Modification,3
+Manhattan,STRUCTURAL,3
+Manhattan,Internal Code,2
+Manhattan,Advocate-Commercial Exemptions,2
+Manhattan,AGENCY,2
+Manhattan,Homebound Evacuation 4,2
+Manhattan,No Child Left Behind,2
+Manhattan,Tobacco or Non-Tobacco Sale,1
+Manhattan,Tunnel Condition,1
+Manhattan,Transfer Station Complaint,1
+Manhattan,DEP Highway Condition,1
+Manhattan,Leaning Bar,1
+Manhattan,Employee Behavior,1
+Manhattan,Benefit Card Replacement,1
+Manhattan,DOF Parking - Payment Issue,1
+Manhattan,Advocate - Lien,1
+Manhattan,Gas Station Discharge Lines,1
+Manhattan,Public Assembly - Temporary,1
+Manhattan,Open Flame Permit,1
+Manhattan,FCST,1
+Manhattan,Illegal Animal - Sold/Kept,1
+Manhattan,Injured Wildlife,1
+Manhattan,Special Enforcement,1
+Manhattan,Trapping Pigeon,1
+Manhattan,Hazardous Material,1
+Manhattan,Bike/Roller/Skate,0
+Manhattan,Cannabis Retailer,0
+Manhattan,Pet Sale,0
+Manhattan,Unspecified,0
+Manhattan,ASBESTOS,0
+Manhattan,SNW,0
+Manhattan,Facade Insp Safety Pgm,0
+Manhattan,Electronics Waste Appointment,0
+Manhattan,DOB Posted Notice or Order,0
+Manhattan,Outside Building,0
+Manhattan,SRDE,0
+Manhattan,MOLD,0
+Manhattan,Home Delivered Meal - Missed Delivery,0
+Manhattan,DEP Bridge Condition,0
+Manhattan,Change Collection Schedule,0
+Manhattan,SRGOVG,0
+Manhattan,DSNY Spillage,0
+Manhattan,Electronics Waste,0
+Manhattan,Ferry Permit,0
+Manhattan,Home Delivered Meal Complaint,0
+Manhattan,Fire Alarm - Replacement,0
+Manhattan,Request Changes - A.S.P.,0
+Manhattan,Comments,0
+Manhattan,Forms,0
+Manhattan,Question,0
+Manhattan,Advocate - Other,0
+Manhattan,DOF Property - Owner Issue,0
+Manhattan,DOF Property - Update Account,0
+Manhattan,DOF Property - Property Value,0
+Manhattan,DOF Property - RPIE Issue,0
+Manhattan,DOF Property - Request Copy,0
+Manhattan,Research Questions,0
+Manhattan,MSOTHER,0
+Manhattan,$(sleep 11),0
+Manhattan,${3804*3137},0
+Manhattan,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+Manhattan,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+Manhattan,%2fetc%2fpasswd,0
+Manhattan,%E5%98%8A%E5%98%8DX-Injecti...,0
+Manhattan,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+Manhattan,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+Manhattan,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+Manhattan,%c0%ae/WEB-INF/web.xml,0
+Manhattan,%{(#dm=@ognl.OgnlContext@DE...,0
+Manhattan,%{4761*8506},0
+Manhattan,&lt;odb xmlns:xi=&quot;http...,0
+Manhattan,&lt;vlv xmlns=&quot;http://...,0
+Manhattan,&quot;--&gt;'--&gt;`--&gt;&...,0
+Manhattan,() { :;}; /bin/sleep 0,0
+Manhattan,() { :;}; /bin/sleep 11,0
+Manhattan,() { _; } &gt;_,0
+Manhattan,(select extractvalue(xmltyp...,0
+Manhattan,(select load_file('\\\\615h...,0
+Manhattan,*)(!(objectClass=*),0
+Manhattan,*)(objectClass=*,0
+Manhattan,.../....///.../....///.../....,0
+Manhattan,.../...//.../...//.../...//...,0
+Manhattan,..././..././..././..././......,0
+Manhattan,.../.\.../.\.../.\.../.\......,0
+Manhattan,.../Misc. Comments,0
+Manhattan,...\./...\./...\./...\./......,0
+Manhattan,...\.\...\.\...\.\...\.\......,0
+Manhattan,../../../../../../../../../...,0
+Manhattan,../../../../WEB-INF/web.xml,0
+Manhattan,../../../WEB-INF/web.xml,0
+Manhattan,../../../WEB-INF/web.xml;x=,0
+Manhattan,../../WEB-INF/web.xml,0
+Manhattan,../../WEB-INF/web.xml;x=,0
+Manhattan,../WEB-INF/web.xml,0
+Manhattan,../WEB-INF/web.xml;x=,0
+Manhattan,..\..\..\..\..\..\..\..\..\...,0
+Manhattan,./validate_form.php,0
+Manhattan,/./validate_form.php,0
+Manhattan,/etc/passwd,0
+Manhattan,1430*4963,0
+Manhattan,266dyrgvhg1egsyp2oq57axbm2s...,0
+Manhattan,@(9313*3464),0
+Manhattan,Misc. Comments  BCC:a5glxzf...,0
+Manhattan,Misc. Comments%}dt2pq'/&quo...,0
+Manhattan,Misc. Comments&amp;echo xjd...,0
+Manhattan,Misc. Comments&amp;nslookup...,0
+Manhattan,Misc. Comments&amp;ping -n ...,0
+Manhattan,Misc. Comments&gt;  BCC:bl0...,0
+Manhattan,Misc. Comments&quot;,0
+Manhattan,Misc. Comments&quot;|echo 2...,0
+Manhattan,Misc. Comments&quot;|ping -...,0
+Manhattan,Misc. Comments',0
+Manhattan,Misc. Comments' and '1618'=...,0
+Manhattan,Misc. Comments' and '7835'=...,0
+Manhattan,Misc. Comments' and (select...,0
+Manhattan,Misc. Comments' and 6049=60...,0
+Manhattan,Misc. Comments' and 7702=77...,0
+Manhattan,Misc. Comments' waitfor del...,0
+Manhattan,Misc. Comments'&quot;`0&amp...,0
+Manhattan,Misc. Comments'(select*from...,0
+Manhattan,Misc. Comments');declare @q...,0
+Manhattan,Misc. Comments')waitfor del...,0
+Manhattan,Misc. Comments'+(function()...,0
+Manhattan,Misc. Comments'+(select loa...,0
+Manhattan,Misc. Comments'+(select*fro...,0
+Manhattan,Misc. Comments'+eval(compil...,0
+Manhattan,Misc. Comments'+sleep(20.to...,0
+Manhattan,"Misc. Comments',0)waitfor d...",0
+Manhattan,Misc. Comments'.sleep(20).',0
+Manhattan,Misc. Comments';declare @q ...,0
+Manhattan,Misc. Comments'|echo y9v6fc...,0
+Manhattan,Misc. Comments'|ping -c 21 ...,0
+Manhattan,Misc. Comments'||(select ex...,0
+Manhattan,Misc. Comments);declare @q ...,0
+Manhattan,"Misc. Comments,(select*from...",0
+Manhattan,Misc. Comments../../../../....,0
+Manhattan,Misc. Comments..\..\..\..\....,0
+Manhattan,Misc. Comments47876391' or ...,0
+Manhattan,Misc. Comments52038737' or ...,0
+Manhattan,Misc. Comments69075347' or ...,0
+Manhattan,Misc. Comments88909845' or ...,0
+Manhattan,Misc. Comments;declare @q v...,0
+Manhattan,Misc. Comments]]&gt;&gt;&lt;,0
+Manhattan,Misc. Commentseowljujfh8,0
+Manhattan,Misc. Commentso0w3r%&gt;xb6...,0
+Manhattan,Misc. Comments{${sleep(20)}},0
+Manhattan,Misc. Comments|echo 3p7wexz...,0
+Manhattan,Misc. Comments|nslookup -q=...,0
+Manhattan,Misc. Comments|ping -c 21 1...,0
+Manhattan,Misc. Comments|ping -n 21 1...,0
+Manhattan,Misc. Comments}}t2v95'/&quo...,0
+Manhattan,\windows\win.ini,0
+Manhattan,`sleep 11`,0
+Manhattan,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+Manhattan,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+Manhattan,c:\windows\win.ini,0
+Manhattan,c:\windows\win.ini Misc. Co...,0
+Manhattan,eval(compile('for x in rang...,0
+Manhattan,file:///c:/windows/win.ini,0
+Manhattan,file:///etc/passwd,0
+Manhattan,g0oii1s4s5)(objectClass=*,0
+Manhattan,hcvn1{{687*375}}gji51,0
+Manhattan,http://g7orz5h9iu2sh6z332rj...,0
+Manhattan,idexf3mrb7)(!(objectClass=*),0
+Manhattan,kawn''lcgv,0
+Manhattan,nslookup -q=cname nneyfcxgy...,0
+Manhattan,qfix4${695*589}lixaf,0
+Manhattan,yw97y0gi2s,0
+Manhattan,{!xmlparser v='&lt;!DOCTYPE...,0
+Manhattan,Advocate-Co-opCondo Abatement,0
+Manhattan,Advocate-Prop Refunds/Credits,0
+Manhattan,Advocate-Property Value,0
+Manhattan,DOF Parking - DMV Clearance,0
+Manhattan,DOF Parking - Request Copy,0
+Manhattan,HPD Literature Request,0
+Manhattan,Housing Options,0
+Manhattan,Advocate-Personal Exemptions,0
+Manhattan,Alzheimer's Care,0
+Manhattan,DCA / DOH New License Application Request,0
+Manhattan,DOF Parking - Request Status,0
+Manhattan,Home Care Provider Complaint,0
+Manhattan,SCRIE,0
+Manhattan,DOF Parking - Tax Exemption,0
+Manhattan,OEM Literature Request,0
+Manhattan,Elder Abuse,0
+Manhattan,Housing - Low Income Senior,0
+Manhattan,Case Management Agency Complaint,0
+Manhattan,Advocate-SCRIE/DRIE,0
+Manhattan,Bereavement Support Group,0
+Manhattan,Advocate - RPIE,0
+Manhattan,Advocate-Prop Class Incorrect,0
+Manhattan,Advocate-Foreclosure,0
+Manhattan,Select Message Type...,0
+Manhattan,Parking Card,0
+Manhattan,Hazmat Storage/Use,0
+Manhattan,ZSYSTEST,0
+Manhattan,General Question,0
+Manhattan,NORC Complaint,0
+Manhattan,Advocate - Levy,0
+Manhattan,Advocate-UBT,0
+Manhattan,LEAD,0
+Manhattan,Asbestos/Garbage Nuisance,0
+Manhattan,DOF Property - City Rebate,0
+Manhattan,DOR Literature Request,0
+Manhattan,DHS Income Savings Requirement,0
+Manhattan,SG-99,0
+Manhattan,DHS Advantage - Tenant,0
+Manhattan,DHS Advantage -Landlord/Broker,0
+Manhattan,HEAP Assistance,0
+Manhattan,Meals Home Delivery Required,0
+Manhattan,DHS Advantage - Third Party,0
+Manhattan,Home Repair,0
+Manhattan,Weatherization,0
+Manhattan,DOF Parking - Address Update,0
+Manhattan,Utility Program,0
+Manhattan,DOF Literature Request,0
+Manhattan,Standpipe - Mechanical,0
+Manhattan,Eviction,0
+Manhattan,DOF Property - State Rebate,0
+Queens,Illegal Parking,851505
+Queens,Noise - Residential,711597
+Queens,Blocked Driveway,685039
+Queens,Request Large Bulky Item Collection,388123
+Queens,Street Condition,362662
+Queens,HEAT/HOT WATER,315703
+Queens,Street Light Condition,256043
+Queens,Water System,249833
+Queens,Damaged Tree,205074
+Queens,Sewer,199066
+Queens,Building/Use,165356
+Queens,Noise - Street/Sidewalk,155984
+Queens,Traffic Signal Condition,136742
+Queens,Derelict Vehicles,135321
+Queens,Noise,130444
+Queens,UNSANITARY CONDITION,130242
+Queens,General Construction/Plumbing,128726
+Queens,Noise - Vehicle,126989
+Queens,Abandoned Vehicle,126720
+Queens,Dirty Conditions,123616
+Queens,Noise - Commercial,119924
+Queens,Missed Collection (All Materials),113016
+Queens,Sidewalk Condition,111672
+Queens,Sanitation Condition,108371
+Queens,PLUMBING,103413
+Queens,Derelict Vehicle,97016
+Queens,Overgrown Tree/Branches,94383
+Queens,Rodent,79134
+Queens,HEATING,74425
+Queens,Consumer Complaint,70960
+Queens,Non-Emergency Police Matter,68870
+Queens,PAINT/PLASTER,65182
+Queens,New Tree Request,64443
+Queens,Root/Sewer/Sidewalk Condition,56504
+Queens,ELECTRIC,55283
+Queens,Missed Collection,53834
+Queens,DOOR/WINDOW,44323
+Queens,Dead/Dying Tree,41702
+Queens,WATER LEAK,41437
+Queens,Drug Activity,40356
+Queens,GENERAL CONSTRUCTION,39963
+Queens,Graffiti,38331
+Queens,Dirty Condition,35869
+Queens,Noise - Helicopter,35468
+Queens,GENERAL,33340
+Queens,Street Sign - Damaged,32813
+Queens,Taxi Complaint,32723
+Queens,Homeless Person Assistance,32442
+Queens,Broken Muni Meter,31668
+Queens,Maintenance or Facility,31346
+Queens,Food Establishment,30528
+Queens,Illegal Dumping,29980
+Queens,Lead,28377
+Queens,Construction,27475
+Queens,PAINT - PLASTER,27448
+Queens,Snow,26776
+Queens,Dead Tree,26119
+Queens,Elevator,25062
+Queens,Air Quality,24983
+Queens,NONCONST,24685
+Queens,Curb Condition,24488
+Queens,FLOORING/STAIRS,23812
+Queens,APPLIANCE,23263
+Queens,Illegal Fireworks,23096
+Queens,Street Sign - Missing,22622
+Queens,Traffic,19575
+Queens,Water Conservation,19109
+Queens,Broken Parking Meter,18952
+Queens,Other Enforcement,18603
+Queens,Plumbing,18468
+Queens,NonCompliance with Phased Reopening,17249
+Queens,For Hire Vehicle Complaint,16784
+Queens,SAFETY,16717
+Queens,Obstruction,16688
+Queens,Noise - Park,16558
+Queens,Electronics Waste Appointment,16555
+Queens,Encampment,15641
+Queens,Indoor Air Quality,14041
+Queens,Street Sign - Dangling,13742
+Queens,Special Projects Inspection Team (SPIT),13600
+Queens,Animal Abuse,13506
+Queens,Illegal Tree Damage,13047
+Queens,Emergency Response Team (ERT),11351
+Queens,Highway Condition,11289
+Queens,Animal-Abuse,11084
+Queens,Electrical,10800
+Queens,Dead Animal,9908
+Queens,Hazardous Materials,9227
+Queens,Food Poisoning,9181
+Queens,Drinking,9070
+Queens,Unsanitary Animal Pvt Property,8688
+Queens,Vendor Enforcement,7924
+Queens,Standing Water,7833
+Queens,Residential Disposal Complaint,7558
+Queens,Vending,7108
+Queens,Lost Property,6692
+Queens,Violation of Park Rules,6671
+Queens,Smoking,6265
+Queens,Noise - House of Worship,6233
+Queens,BEST/Site Safety,6220
+Queens,Construction Safety Enforcement,6189
+Queens,Litter Basket / Request,6158
+Queens,Boilers,6012
+Queens,Vacant Lot,5865
+Queens,Industrial Waste,5420
+Queens,Asbestos,5411
+Queens,Miscellaneous Categories,5301
+Queens,Bus Stop Shelter Complaint,5043
+Queens,School Maintenance,5017
+Queens,Animal in a Park,4914
+Queens,Water Quality,4558
+Queens,Unleashed Dog,4488
+Queens,Outdoor Dining,4318
+Queens,Homeless Encampment,4269
+Queens,Panhandling,4086
+Queens,Traffic/Illegal Parking,3996
+Queens,Mobile Food Vendor,3935
+Queens,Overflowing Litter Baskets,3755
+Queens,DOF Property - Payment Issue,3747
+Queens,Illegal Posting,3597
+Queens,Snow or Ice,3529
+Queens,Street Sweeping Complaint,3518
+Queens,Non-Residential Heat,3461
+Queens,Unsanitary Pigeon Condition,3325
+Queens,Real Time Enforcement,3190
+Queens,Investigations and Discipline (IAD),3042
+Queens,Taxi Report,3023
+Queens,Noise Survey,2865
+Queens,Sanitation Worker or Vehicle Complaint,2861
+Queens,Day Care,2767
+Queens,Indoor Sewage,2657
+Queens,Urinating in Public,2400
+Queens,Recycling Enforcement,2290
+Queens,Litter Basket Request,2141
+Queens,ELEVATOR,2055
+Queens,Mosquitoes,2025
+Queens,Borough Office,2008
+Queens,Sweeping/Missed,1843
+Queens,Vaccine Mandate Non-Compliance,1795
+Queens,Bike/Roller/Skate Chronic,1779
+Queens,OUTSIDE BUILDING,1695
+Queens,Homeless Street Condition,1649
+Queens,Sustainability Enforcement,1544
+Queens,Derelict Bicycle,1539
+Queens,Storm,1536
+Queens,Illegal Animal Kept as Pet,1516
+Queens,Lot Condition,1496
+Queens,Sweeping/Missed-Inadequate,1394
+Queens,COVID-19 Non-essential Construction,1379
+Queens,Dumpster Complaint,1346
+Queens,For Hire Vehicle Report,1258
+Queens,Building Marshals office,1171
+Queens,Harboring Bees/Wasps,1167
+Queens,Commercial Disposal Complaint,1165
+Queens,Wood Pile Remaining,1084
+Queens,Public Payphone Complaint,1034
+Queens,Disorderly Youth,1032
+Queens,Uprooted Stump,1002
+Queens,Abandoned Bike,991
+Queens,Mold,990
+Queens,Mass Gathering Complaint,946
+Queens,Unsanitary Condition,899
+Queens,Sewer Maintenance,874
+Queens,DEP Street Condition,837
+Queens,Bus Stop Shelter Placement,830
+Queens,Snow Removal,809
+Queens,DRIE,793
+Queens,Litter Basket Complaint,780
+Queens,Plant,756
+Queens,Beach/Pool/Sauna Complaint,732
+Queens,Private or Charter School Reopening,727
+Queens,Smoking or Vaping,715
+Queens,Poison Ivy,709
+Queens,OEM Disabled Vehicle,677
+Queens,E-Scooter,654
+Queens,Request Xmas Tree Collection,639
+Queens,Posting Advertisement,606
+Queens,Cranes and Derricks,590
+Queens,Green Taxi Complaint,589
+Queens,Drinking Water,573
+Queens,City Vehicle Placard Complaint,544
+Queens,Construction Lead Dust,543
+Queens,Senior Center Complaint,528
+Queens,Forensic Engineering,518
+Queens,DPR Internal,518
+Queens,Executive Inspections,514
+Queens,CONSTRUCTION,491
+Queens,Bridge Condition,469
+Queens,Sweeping/Inadequate,469
+Queens,Pet Shop,466
+Queens,Adopt-A-Basket,465
+Queens,Water Leak,437
+Queens,Collection Truck Noise,431
+Queens,Scaffold Safety,426
+Queens,Face Covering Violation,399
+Queens,Quality of Life,391
+Queens,Unsanitary Animal Facility,390
+Queens,Window Guard,358
+Queens,Tattooing,344
+Queens,Animal Facility - No Permit,334
+Queens,Found Property,333
+Queens,Illegal Animal Sold,310
+Queens,Paint/Plaster,289
+Queens,Bike Rack Condition,243
+Queens,Municipal Parking Facility,233
+Queens,Facades,229
+Queens,Safety,220
+Queens,Heat/Hot Water,199
+Queens,Private School Vaccine Mandate Non-Compliance,195
+Queens,General,184
+Queens,Seasonal Collection,183
+Queens,FCST,178
+Queens,FATF,175
+Queens,Stalled Sites,160
+Queens,LinkNYC,153
+Queens,X-Ray Machine/Equipment,151
+Queens,Special Natural Area District (SNAD),135
+Queens,Door/Window,134
+Queens,Public Toilet,113
+Queens,Taxi Compliment,108
+Queens,Water Maintenance,108
+Queens,AHV Inspection Unit,100
+Queens,Incorrect Data,95
+Queens,Teaching/Learning/Instruction,94
+Queens,Summer Camp,92
+Queens,Highway Sign - Damaged,89
+Queens,ATF,79
+Queens,Flooring/Stairs,75
+Queens,Lifeguard,73
+Queens,Discipline and Suspension,67
+Queens,Green Taxi Report,66
+Queens,Appliance,59
+Queens,Bottled Water,59
+Queens,Literature Request,50
+Queens,Special Operations,48
+Queens,Recycling Basket Complaint,47
+Queens,Dept of Investigations,43
+Queens,Water Drainage,43
+Queens,Electric,42
+Queens,Overflowing Recycling Baskets,42
+Queens,Health,39
+Queens,Highway Sign - Missing,38
+Queens,Registration and Transfers,36
+Queens,Radioactive Material,35
+Queens,Peeling Paint,34
+Queens,Cooling Tower,33
+Queens,Unlicensed Dog,32
+Queens,FHV Licensee Complaint,28
+Queens,Legal Services Provider Complaint,28
+Queens,Highway Sign - Dangling,27
+Queens,Calorie Labeling,27
+Queens,Institution Disposal Complaint,26
+Queens,Dispatched Taxi Complaint,25
+Queens,Building Drinking Water Tank,24
+Queens,Single Occupancy Bathroom,23
+Queens,Transportation Provider Complaint,21
+Queens,Bike Rack,19
+Queens,Unstable Building,18
+Queens,Foam Ban Enforcement,18
+Queens,Taxi Licensee Complaint,17
+Queens,Squeegee,15
+Queens,Retailer Complaint,15
+Queens,Transfer Station Complaint,13
+Queens,Tanning,12
+Queens,Boiler,12
+Queens,Parent Leadership,11
+Queens,Bench,10
+Queens,Trans Fat,10
+Queens,Taxpayer Advocate Inquiry,10
+Queens,Building Condition,8
+Queens,Electronics Waste,7
+Queens,DOF Property - Reduction Issue,7
+Queens,Advocate - Lien,6
+Queens,DEP Sidewalk Condition,4
+Queens,DSNY Internal,4
+Queens,STRUCTURAL,4
+Queens,Wayfinding,3
+Queens,Oil or Gas Spill,3
+Queens,Outside Building,3
+Queens,SRDE,3
+Queens,SRGOVG,3
+Queens,No Child Left Behind,3
+Queens,Tobacco or Non-Tobacco Sale,2
+Queens,DEP Highway Condition,2
+Queens,DOF Parking - Payment Issue,2
+Queens,Advocate-Commercial Exemptions,2
+Queens,AGENCY,2
+Queens,Rangehood,2
+Queens,Fire Alarm - Reinspection,2
+Queens,ZSYSTEST,2
+Queens,Interior Demo,2
+Queens,Special Enforcement,2
+Queens,VACANT APARTMENT,2
+Queens,Standpipe - Mechanical,2
+Queens,Ferry Complaint,1
+Queens,ZTESTINT,1
+Queens,Change Collection Schedule,1
+Queens,DSNY Spillage,1
+Queens,Employee Behavior,1
+Queens,MSOTHER,1
+Queens,Advocate-Personal Exemptions,1
+Queens,Advocate-Business Tax,1
+Queens,Fire Alarm - New System,1
+Queens,Advocate-UBT,1
+Queens,Portable Toilet,1
+Queens,DOF Literature Request,1
+Queens,Hazardous Material,1
+Queens,Bike/Roller/Skate,0
+Queens,Cannabis Retailer,0
+Queens,Ferry Inquiry,0
+Queens,Pet Sale,0
+Queens,Tunnel Condition,0
+Queens,Unspecified,0
+Queens,Leaning Bar,0
+Queens,ASBESTOS,0
+Queens,SNW,0
+Queens,Facade Insp Safety Pgm,0
+Queens,Building Marshal's Office,0
+Queens,DOB Posted Notice or Order,0
+Queens,Dispatched Taxi Compliment,0
+Queens,Internal Code,0
+Queens,MOLD,0
+Queens,Home Delivered Meal - Missed Delivery,0
+Queens,DEP Bridge Condition,0
+Queens,Ferry Permit,0
+Queens,Home Delivered Meal Complaint,0
+Queens,Fire Alarm - Replacement,0
+Queens,Request Changes - A.S.P.,0
+Queens,Comments,0
+Queens,Forms,0
+Queens,Question,0
+Queens,Advocate - Other,0
+Queens,Benefit Card Replacement,0
+Queens,DOF Property - Owner Issue,0
+Queens,DOF Property - Update Account,0
+Queens,DOF Property - Property Value,0
+Queens,DOF Property - RPIE Issue,0
+Queens,DOF Property - Request Copy,0
+Queens,Research Questions,0
+Queens,$(sleep 11),0
+Queens,${3804*3137},0
+Queens,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+Queens,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+Queens,%2fetc%2fpasswd,0
+Queens,%E5%98%8A%E5%98%8DX-Injecti...,0
+Queens,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+Queens,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+Queens,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+Queens,%c0%ae/WEB-INF/web.xml,0
+Queens,%{(#dm=@ognl.OgnlContext@DE...,0
+Queens,%{4761*8506},0
+Queens,&lt;odb xmlns:xi=&quot;http...,0
+Queens,&lt;vlv xmlns=&quot;http://...,0
+Queens,&quot;--&gt;'--&gt;`--&gt;&...,0
+Queens,() { :;}; /bin/sleep 0,0
+Queens,() { :;}; /bin/sleep 11,0
+Queens,() { _; } &gt;_,0
+Queens,(select extractvalue(xmltyp...,0
+Queens,(select load_file('\\\\615h...,0
+Queens,*)(!(objectClass=*),0
+Queens,*)(objectClass=*,0
+Queens,.../....///.../....///.../....,0
+Queens,.../...//.../...//.../...//...,0
+Queens,..././..././..././..././......,0
+Queens,.../.\.../.\.../.\.../.\......,0
+Queens,.../Misc. Comments,0
+Queens,...\./...\./...\./...\./......,0
+Queens,...\.\...\.\...\.\...\.\......,0
+Queens,../../../../../../../../../...,0
+Queens,../../../../WEB-INF/web.xml,0
+Queens,../../../WEB-INF/web.xml,0
+Queens,../../../WEB-INF/web.xml;x=,0
+Queens,../../WEB-INF/web.xml,0
+Queens,../../WEB-INF/web.xml;x=,0
+Queens,../WEB-INF/web.xml,0
+Queens,../WEB-INF/web.xml;x=,0
+Queens,..\..\..\..\..\..\..\..\..\...,0
+Queens,./validate_form.php,0
+Queens,/./validate_form.php,0
+Queens,/etc/passwd,0
+Queens,1430*4963,0
+Queens,266dyrgvhg1egsyp2oq57axbm2s...,0
+Queens,@(9313*3464),0
+Queens,Misc. Comments  BCC:a5glxzf...,0
+Queens,Misc. Comments%}dt2pq'/&quo...,0
+Queens,Misc. Comments&amp;echo xjd...,0
+Queens,Misc. Comments&amp;nslookup...,0
+Queens,Misc. Comments&amp;ping -n ...,0
+Queens,Misc. Comments&gt;  BCC:bl0...,0
+Queens,Misc. Comments&quot;,0
+Queens,Misc. Comments&quot;|echo 2...,0
+Queens,Misc. Comments&quot;|ping -...,0
+Queens,Misc. Comments',0
+Queens,Misc. Comments' and '1618'=...,0
+Queens,Misc. Comments' and '7835'=...,0
+Queens,Misc. Comments' and (select...,0
+Queens,Misc. Comments' and 6049=60...,0
+Queens,Misc. Comments' and 7702=77...,0
+Queens,Misc. Comments' waitfor del...,0
+Queens,Misc. Comments'&quot;`0&amp...,0
+Queens,Misc. Comments'(select*from...,0
+Queens,Misc. Comments');declare @q...,0
+Queens,Misc. Comments')waitfor del...,0
+Queens,Misc. Comments'+(function()...,0
+Queens,Misc. Comments'+(select loa...,0
+Queens,Misc. Comments'+(select*fro...,0
+Queens,Misc. Comments'+eval(compil...,0
+Queens,Misc. Comments'+sleep(20.to...,0
+Queens,"Misc. Comments',0)waitfor d...",0
+Queens,Misc. Comments'.sleep(20).',0
+Queens,Misc. Comments';declare @q ...,0
+Queens,Misc. Comments'|echo y9v6fc...,0
+Queens,Misc. Comments'|ping -c 21 ...,0
+Queens,Misc. Comments'||(select ex...,0
+Queens,Misc. Comments);declare @q ...,0
+Queens,"Misc. Comments,(select*from...",0
+Queens,Misc. Comments../../../../....,0
+Queens,Misc. Comments..\..\..\..\....,0
+Queens,Misc. Comments47876391' or ...,0
+Queens,Misc. Comments52038737' or ...,0
+Queens,Misc. Comments69075347' or ...,0
+Queens,Misc. Comments88909845' or ...,0
+Queens,Misc. Comments;declare @q v...,0
+Queens,Misc. Comments]]&gt;&gt;&lt;,0
+Queens,Misc. Commentseowljujfh8,0
+Queens,Misc. Commentso0w3r%&gt;xb6...,0
+Queens,Misc. Comments{${sleep(20)}},0
+Queens,Misc. Comments|echo 3p7wexz...,0
+Queens,Misc. Comments|nslookup -q=...,0
+Queens,Misc. Comments|ping -c 21 1...,0
+Queens,Misc. Comments|ping -n 21 1...,0
+Queens,Misc. Comments}}t2v95'/&quo...,0
+Queens,\windows\win.ini,0
+Queens,`sleep 11`,0
+Queens,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+Queens,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+Queens,c:\windows\win.ini,0
+Queens,c:\windows\win.ini Misc. Co...,0
+Queens,eval(compile('for x in rang...,0
+Queens,file:///c:/windows/win.ini,0
+Queens,file:///etc/passwd,0
+Queens,g0oii1s4s5)(objectClass=*,0
+Queens,hcvn1{{687*375}}gji51,0
+Queens,http://g7orz5h9iu2sh6z332rj...,0
+Queens,idexf3mrb7)(!(objectClass=*),0
+Queens,kawn''lcgv,0
+Queens,nslookup -q=cname nneyfcxgy...,0
+Queens,qfix4${695*589}lixaf,0
+Queens,yw97y0gi2s,0
+Queens,{!xmlparser v='&lt;!DOCTYPE...,0
+Queens,Advocate-Co-opCondo Abatement,0
+Queens,Advocate-Prop Refunds/Credits,0
+Queens,Advocate-Property Value,0
+Queens,DOF Parking - DMV Clearance,0
+Queens,DOF Parking - Request Copy,0
+Queens,HPD Literature Request,0
+Queens,Housing Options,0
+Queens,Alzheimer's Care,0
+Queens,DCA / DOH New License Application Request,0
+Queens,DOF Parking - Request Status,0
+Queens,Home Care Provider Complaint,0
+Queens,SCRIE,0
+Queens,DOF Parking - Tax Exemption,0
+Queens,OEM Literature Request,0
+Queens,Elder Abuse,0
+Queens,Housing - Low Income Senior,0
+Queens,Case Management Agency Complaint,0
+Queens,Advocate-SCRIE/DRIE,0
+Queens,Bereavement Support Group,0
+Queens,Advocate - RPIE,0
+Queens,Advocate-Prop Class Incorrect,0
+Queens,Advocate-Foreclosure,0
+Queens,Select Message Type...,0
+Queens,Parking Card,0
+Queens,Public Assembly,0
+Queens,Hazmat Storage/Use,0
+Queens,Sprinkler - Mechanical,0
+Queens,Fire Alarm - Modification,0
+Queens,Gas Station Discharge Lines,0
+Queens,Public Assembly - Temporary,0
+Queens,Open Flame Permit,0
+Queens,General Question,0
+Queens,NORC Complaint,0
+Queens,Advocate - Levy,0
+Queens,Homebound Evacuation 4,0
+Queens,Illegal Animal - Sold/Kept,0
+Queens,Injured Wildlife,0
+Queens,LEAD,0
+Queens,Trapping Pigeon,0
+Queens,Asbestos/Garbage Nuisance,0
+Queens,DOF Property - City Rebate,0
+Queens,DOR Literature Request,0
+Queens,DHS Income Savings Requirement,0
+Queens,SG-99,0
+Queens,DHS Advantage - Tenant,0
+Queens,DHS Advantage -Landlord/Broker,0
+Queens,HEAP Assistance,0
+Queens,Meals Home Delivery Required,0
+Queens,DHS Advantage - Third Party,0
+Queens,Home Repair,0
+Queens,Weatherization,0
+Queens,DOF Parking - Address Update,0
+Queens,Utility Program,0
+Queens,Eviction,0
+Queens,DOF Property - State Rebate,0
+Staten Island,Street Condition,143885
+Staten Island,Illegal Parking,110768
+Staten Island,Noise - Residential,101940
+Staten Island,Request Large Bulky Item Collection,93217
+Staten Island,Water System,81732
+Staten Island,Street Light Condition,78182
+Staten Island,Missed Collection (All Materials),62688
+Staten Island,Sewer,59622
+Staten Island,Damaged Tree,54998
+Staten Island,Blocked Driveway,46293
+Staten Island,Electronics Waste Appointment,42546
+Staten Island,Dirty Conditions,33314
+Staten Island,Sanitation Condition,33296
+Staten Island,Sidewalk Condition,31531
+Staten Island,Overgrown Tree/Branches,31467
+Staten Island,General Construction/Plumbing,28856
+Staten Island,Missed Collection,28310
+Staten Island,Traffic Signal Condition,27549
+Staten Island,HEAT/HOT WATER,24854
+Staten Island,Noise,24622
+Staten Island,UNSANITARY CONDITION,23643
+Staten Island,Derelict Vehicle,22582
+Staten Island,Building/Use,22145
+Staten Island,Electronics Waste,22020
+Staten Island,Root/Sewer/Sidewalk Condition,21927
+Staten Island,Rodent,21252
+Staten Island,Abandoned Vehicle,21227
+Staten Island,Derelict Vehicles,19061
+Staten Island,PLUMBING,18597
+Staten Island,Noise - Street/Sidewalk,15957
+Staten Island,New Tree Request,15181
+Staten Island,Non-Emergency Police Matter,13845
+Staten Island,Noise - Commercial,13264
+Staten Island,Dirty Condition,12707
+Staten Island,Dead/Dying Tree,12259
+Staten Island,Snow,12139
+Staten Island,PAINT/PLASTER,10951
+Staten Island,Noise - Vehicle,10613
+Staten Island,ELECTRIC,9696
+Staten Island,Consumer Complaint,8776
+Staten Island,DOOR/WINDOW,8360
+Staten Island,GENERAL CONSTRUCTION,8299
+Staten Island,Illegal Fireworks,7976
+Staten Island,Water Conservation,7171
+Staten Island,Maintenance or Facility,7099
+Staten Island,WATER LEAK,7056
+Staten Island,Dead Tree,6808
+Staten Island,Street Sign - Damaged,6192
+Staten Island,HEATING,5932
+Staten Island,Illegal Dumping,5890
+Staten Island,Graffiti,5816
+Staten Island,Standing Water,5667
+Staten Island,Food Establishment,5484
+Staten Island,Other Enforcement,5449
+Staten Island,Street Sign - Missing,5256
+Staten Island,FLOORING/STAIRS,5225
+Staten Island,Lead,5177
+Staten Island,Curb Condition,4848
+Staten Island,GENERAL,4573
+Staten Island,Obstruction,4550
+Staten Island,APPLIANCE,4490
+Staten Island,Plumbing,4283
+Staten Island,PAINT - PLASTER,4184
+Staten Island,Dead Animal,4138
+Staten Island,Air Quality,3903
+Staten Island,NONCONST,3876
+Staten Island,Vacant Lot,3860
+Staten Island,Animal Abuse,3800
+Staten Island,NonCompliance with Phased Reopening,3716
+Staten Island,Street Sign - Dangling,3685
+Staten Island,Illegal Tree Damage,3569
+Staten Island,Unsanitary Animal Pvt Property,3414
+Staten Island,Traffic,3364
+Staten Island,Residential Disposal Complaint,2895
+Staten Island,Illegal Posting,2875
+Staten Island,Electrical,2856
+Staten Island,Animal-Abuse,2806
+Staten Island,Indoor Air Quality,2712
+Staten Island,SAFETY,2699
+Staten Island,Hazardous Materials,2567
+Staten Island,Highway Condition,2548
+Staten Island,Elevator,2544
+Staten Island,Broken Muni Meter,2424
+Staten Island,Homeless Person Assistance,2356
+Staten Island,Litter Basket / Request,2094
+Staten Island,BEST/Site Safety,1897
+Staten Island,Industrial Waste,1889
+Staten Island,Emergency Response Team (ERT),1815
+Staten Island,Special Projects Inspection Team (SPIT),1770
+Staten Island,DOF Property - Payment Issue,1713
+Staten Island,Animal in a Park,1671
+Staten Island,Snow or Ice,1656
+Staten Island,Unleashed Dog,1552
+Staten Island,Food Poisoning,1544
+Staten Island,Posting Advertisement,1532
+Staten Island,Broken Parking Meter,1522
+Staten Island,Water Quality,1481
+Staten Island,Overflowing Litter Baskets,1386
+Staten Island,Bus Stop Shelter Complaint,1365
+Staten Island,Drinking,1320
+Staten Island,For Hire Vehicle Complaint,1294
+Staten Island,School Maintenance,1248
+Staten Island,Traffic/Illegal Parking,1222
+Staten Island,Sanitation Worker or Vehicle Complaint,1095
+Staten Island,Smoking,1000
+Staten Island,Asbestos,991
+Staten Island,Noise - Helicopter,980
+Staten Island,Drug Activity,945
+Staten Island,Noise - Park,935
+Staten Island,Construction Safety Enforcement,928
+Staten Island,Snow Removal,923
+Staten Island,Violation of Park Rules,916
+Staten Island,Panhandling,852
+Staten Island,Investigations and Discipline (IAD),845
+Staten Island,Indoor Sewage,801
+Staten Island,Unsanitary Pigeon Condition,768
+Staten Island,Sustainability Enforcement,768
+Staten Island,Vaccine Mandate Non-Compliance,751
+Staten Island,Lot Condition,745
+Staten Island,Special Natural Area District (SNAD),710
+Staten Island,Poison Ivy,687
+Staten Island,Boilers,676
+Staten Island,Noise Survey,665
+Staten Island,Encampment,653
+Staten Island,Illegal Animal Kept as Pet,649
+Staten Island,Litter Basket Request,640
+Staten Island,Recycling Enforcement,580
+Staten Island,Dumpster Complaint,559
+Staten Island,Harboring Bees/Wasps,542
+Staten Island,Miscellaneous Categories,529
+Staten Island,Homeless Encampment,500
+Staten Island,Disorderly Youth,498
+Staten Island,Mold,498
+Staten Island,Beach/Pool/Sauna Complaint,478
+Staten Island,Mosquitoes,477
+Staten Island,Storm,476
+Staten Island,Request Xmas Tree Collection,451
+Staten Island,Vending,443
+Staten Island,Borough Office,439
+Staten Island,Bike/Roller/Skate Chronic,411
+Staten Island,Day Care,389
+Staten Island,Uprooted Stump,388
+Staten Island,OUTSIDE BUILDING,375
+Staten Island,Non-Residential Heat,347
+Staten Island,Taxi Complaint,343
+Staten Island,Wood Pile Remaining,336
+Staten Island,Litter Basket Complaint,331
+Staten Island,DPR Internal,294
+Staten Island,COVID-19 Non-essential Construction,271
+Staten Island,Bus Stop Shelter Placement,263
+Staten Island,Vendor Enforcement,261
+Staten Island,Urinating in Public,252
+Staten Island,Public Payphone Complaint,237
+Staten Island,Mobile Food Vendor,232
+Staten Island,Homeless Street Condition,219
+Staten Island,Real Time Enforcement,206
+Staten Island,Noise - House of Worship,199
+Staten Island,Adopt-A-Basket,196
+Staten Island,Building Marshals office,196
+Staten Island,Outdoor Dining,178
+Staten Island,Plant,175
+Staten Island,Drinking Water,172
+Staten Island,Unsanitary Condition,170
+Staten Island,Sewer Maintenance,164
+Staten Island,ELEVATOR,142
+Staten Island,Mass Gathering Complaint,130
+Staten Island,Seasonal Collection,125
+Staten Island,Commercial Disposal Complaint,124
+Staten Island,Face Covering Violation,123
+Staten Island,OEM Disabled Vehicle,123
+Staten Island,CONSTRUCTION,117
+Staten Island,Collection Truck Noise,102
+Staten Island,Tattooing,97
+Staten Island,Senior Center Complaint,96
+Staten Island,Window Guard,95
+Staten Island,For Hire Vehicle Report,92
+Staten Island,Private or Charter School Reopening,91
+Staten Island,Cranes and Derricks,87
+Staten Island,Forensic Engineering,79
+Staten Island,Animal Facility - No Permit,78
+Staten Island,City Vehicle Placard Complaint,76
+Staten Island,Municipal Parking Facility,72
+Staten Island,Unsanitary Animal Facility,68
+Staten Island,Street Sweeping Complaint,61
+Staten Island,Scaffold Safety,57
+Staten Island,Incorrect Data,57
+Staten Island,Stalled Sites,56
+Staten Island,FATF,55
+Staten Island,Smoking or Vaping,51
+Staten Island,Abandoned Bike,50
+Staten Island,Derelict Bicycle,47
+Staten Island,Sweeping/Missed-Inadequate,45
+Staten Island,Quality of Life,42
+Staten Island,Safety,41
+Staten Island,DRIE,39
+Staten Island,Construction Lead Dust,38
+Staten Island,Illegal Animal Sold,38
+Staten Island,Institution Disposal Complaint,37
+Staten Island,General,35
+Staten Island,Bridge Condition,34
+Staten Island,Bike Rack Condition,30
+Staten Island,Paint/Plaster,30
+Staten Island,ATF,30
+Staten Island,Taxi Report,28
+Staten Island,Pet Shop,26
+Staten Island,Sweeping/Inadequate,24
+Staten Island,Highway Sign - Damaged,21
+Staten Island,Heat/Hot Water,20
+Staten Island,Water Leak,20
+Staten Island,Sweeping/Missed,20
+Staten Island,Dept of Investigations,19
+Staten Island,Teaching/Learning/Instruction,19
+Staten Island,Door/Window,17
+Staten Island,Overflowing Recycling Baskets,17
+Staten Island,Construction,17
+Staten Island,Lost Property,16
+Staten Island,Water Maintenance,16
+Staten Island,Health,16
+Staten Island,Calorie Labeling,15
+Staten Island,Recycling Basket Complaint,15
+Staten Island,Public Toilet,15
+Staten Island,Highway Sign - Missing,15
+Staten Island,Radioactive Material,15
+Staten Island,Executive Inspections,15
+Staten Island,SRDE,15
+Staten Island,Summer Camp,15
+Staten Island,Discipline and Suspension,15
+Staten Island,DEP Street Condition,14
+Staten Island,Appliance,14
+Staten Island,LinkNYC,13
+Staten Island,Ferry Inquiry,12
+Staten Island,Lifeguard,12
+Staten Island,Peeling Paint,12
+Staten Island,Special Operations,12
+Staten Island,Tanning,11
+Staten Island,Flooring/Stairs,11
+Staten Island,Literature Request,11
+Staten Island,Water Drainage,10
+Staten Island,Facades,10
+Staten Island,Unlicensed Dog,9
+Staten Island,Foam Ban Enforcement,9
+Staten Island,Ferry Complaint,7
+Staten Island,Green Taxi Complaint,7
+Staten Island,Legal Services Provider Complaint,7
+Staten Island,Registration and Transfers,7
+Staten Island,X-Ray Machine/Equipment,6
+Staten Island,Electric,6
+Staten Island,Highway Sign - Dangling,5
+Staten Island,Retailer Complaint,5
+Staten Island,Bottled Water,5
+Staten Island,Oil or Gas Spill,4
+Staten Island,No Child Left Behind,4
+Staten Island,Building Drinking Water Tank,3
+Staten Island,Cooling Tower,3
+Staten Island,AHV Inspection Unit,3
+Staten Island,FHV Licensee Complaint,3
+Staten Island,Trans Fat,3
+Staten Island,Internal Code,3
+Staten Island,Private School Vaccine Mandate Non-Compliance,3
+Staten Island,Special Enforcement,3
+Staten Island,Found Property,2
+Staten Island,Taxi Compliment,2
+Staten Island,DSNY Internal,2
+Staten Island,Outside Building,2
+Staten Island,DSNY Spillage,2
+Staten Island,Advocate-Commercial Exemptions,2
+Staten Island,Transportation Provider Complaint,2
+Staten Island,Advocate-Business Tax,2
+Staten Island,Green Taxi Report,1
+Staten Island,Tobacco or Non-Tobacco Sale,1
+Staten Island,Squeegee,1
+Staten Island,Transfer Station Complaint,1
+Staten Island,DEP Highway Condition,1
+Staten Island,Dispatched Taxi Complaint,1
+Staten Island,Boiler,1
+Staten Island,Ferry Permit,1
+Staten Island,Single Occupancy Bathroom,1
+Staten Island,Advocate - Other,1
+Staten Island,Rangehood,1
+Staten Island,Advocate - Levy,1
+Staten Island,STRUCTURAL,1
+Staten Island,Standpipe - Mechanical,1
+Staten Island,Parent Leadership,1
+Staten Island,Bench,0
+Staten Island,Bike Rack,0
+Staten Island,Bike/Roller/Skate,0
+Staten Island,Cannabis Retailer,0
+Staten Island,E-Scooter,0
+Staten Island,Pet Sale,0
+Staten Island,Wayfinding,0
+Staten Island,Taxi Licensee Complaint,0
+Staten Island,Tunnel Condition,0
+Staten Island,Unspecified,0
+Staten Island,Building Condition,0
+Staten Island,DEP Sidewalk Condition,0
+Staten Island,Leaning Bar,0
+Staten Island,ASBESTOS,0
+Staten Island,SNW,0
+Staten Island,Facade Insp Safety Pgm,0
+Staten Island,Building Marshal's Office,0
+Staten Island,DOB Posted Notice or Order,0
+Staten Island,Unstable Building,0
+Staten Island,Dispatched Taxi Compliment,0
+Staten Island,ZTESTINT,0
+Staten Island,MOLD,0
+Staten Island,Home Delivered Meal - Missed Delivery,0
+Staten Island,DEP Bridge Condition,0
+Staten Island,Change Collection Schedule,0
+Staten Island,SRGOVG,0
+Staten Island,Employee Behavior,0
+Staten Island,Home Delivered Meal Complaint,0
+Staten Island,Fire Alarm - Replacement,0
+Staten Island,Request Changes - A.S.P.,0
+Staten Island,Comments,0
+Staten Island,Forms,0
+Staten Island,Question,0
+Staten Island,Benefit Card Replacement,0
+Staten Island,DOF Property - Owner Issue,0
+Staten Island,DOF Property - Update Account,0
+Staten Island,DOF Property - Property Value,0
+Staten Island,DOF Property - RPIE Issue,0
+Staten Island,DOF Property - Reduction Issue,0
+Staten Island,DOF Property - Request Copy,0
+Staten Island,Research Questions,0
+Staten Island,MSOTHER,0
+Staten Island,$(sleep 11),0
+Staten Island,${3804*3137},0
+Staten Island,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+Staten Island,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+Staten Island,%2fetc%2fpasswd,0
+Staten Island,%E5%98%8A%E5%98%8DX-Injecti...,0
+Staten Island,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+Staten Island,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+Staten Island,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+Staten Island,%c0%ae/WEB-INF/web.xml,0
+Staten Island,%{(#dm=@ognl.OgnlContext@DE...,0
+Staten Island,%{4761*8506},0
+Staten Island,&lt;odb xmlns:xi=&quot;http...,0
+Staten Island,&lt;vlv xmlns=&quot;http://...,0
+Staten Island,&quot;--&gt;'--&gt;`--&gt;&...,0
+Staten Island,() { :;}; /bin/sleep 0,0
+Staten Island,() { :;}; /bin/sleep 11,0
+Staten Island,() { _; } &gt;_,0
+Staten Island,(select extractvalue(xmltyp...,0
+Staten Island,(select load_file('\\\\615h...,0
+Staten Island,*)(!(objectClass=*),0
+Staten Island,*)(objectClass=*,0
+Staten Island,.../....///.../....///.../....,0
+Staten Island,.../...//.../...//.../...//...,0
+Staten Island,..././..././..././..././......,0
+Staten Island,.../.\.../.\.../.\.../.\......,0
+Staten Island,.../Misc. Comments,0
+Staten Island,...\./...\./...\./...\./......,0
+Staten Island,...\.\...\.\...\.\...\.\......,0
+Staten Island,../../../../../../../../../...,0
+Staten Island,../../../../WEB-INF/web.xml,0
+Staten Island,../../../WEB-INF/web.xml,0
+Staten Island,../../../WEB-INF/web.xml;x=,0
+Staten Island,../../WEB-INF/web.xml,0
+Staten Island,../../WEB-INF/web.xml;x=,0
+Staten Island,../WEB-INF/web.xml,0
+Staten Island,../WEB-INF/web.xml;x=,0
+Staten Island,..\..\..\..\..\..\..\..\..\...,0
+Staten Island,./validate_form.php,0
+Staten Island,/./validate_form.php,0
+Staten Island,/etc/passwd,0
+Staten Island,1430*4963,0
+Staten Island,266dyrgvhg1egsyp2oq57axbm2s...,0
+Staten Island,@(9313*3464),0
+Staten Island,Misc. Comments  BCC:a5glxzf...,0
+Staten Island,Misc. Comments%}dt2pq'/&quo...,0
+Staten Island,Misc. Comments&amp;echo xjd...,0
+Staten Island,Misc. Comments&amp;nslookup...,0
+Staten Island,Misc. Comments&amp;ping -n ...,0
+Staten Island,Misc. Comments&gt;  BCC:bl0...,0
+Staten Island,Misc. Comments&quot;,0
+Staten Island,Misc. Comments&quot;|echo 2...,0
+Staten Island,Misc. Comments&quot;|ping -...,0
+Staten Island,Misc. Comments',0
+Staten Island,Misc. Comments' and '1618'=...,0
+Staten Island,Misc. Comments' and '7835'=...,0
+Staten Island,Misc. Comments' and (select...,0
+Staten Island,Misc. Comments' and 6049=60...,0
+Staten Island,Misc. Comments' and 7702=77...,0
+Staten Island,Misc. Comments' waitfor del...,0
+Staten Island,Misc. Comments'&quot;`0&amp...,0
+Staten Island,Misc. Comments'(select*from...,0
+Staten Island,Misc. Comments');declare @q...,0
+Staten Island,Misc. Comments')waitfor del...,0
+Staten Island,Misc. Comments'+(function()...,0
+Staten Island,Misc. Comments'+(select loa...,0
+Staten Island,Misc. Comments'+(select*fro...,0
+Staten Island,Misc. Comments'+eval(compil...,0
+Staten Island,Misc. Comments'+sleep(20.to...,0
+Staten Island,"Misc. Comments',0)waitfor d...",0
+Staten Island,Misc. Comments'.sleep(20).',0
+Staten Island,Misc. Comments';declare @q ...,0
+Staten Island,Misc. Comments'|echo y9v6fc...,0
+Staten Island,Misc. Comments'|ping -c 21 ...,0
+Staten Island,Misc. Comments'||(select ex...,0
+Staten Island,Misc. Comments);declare @q ...,0
+Staten Island,"Misc. Comments,(select*from...",0
+Staten Island,Misc. Comments../../../../....,0
+Staten Island,Misc. Comments..\..\..\..\....,0
+Staten Island,Misc. Comments47876391' or ...,0
+Staten Island,Misc. Comments52038737' or ...,0
+Staten Island,Misc. Comments69075347' or ...,0
+Staten Island,Misc. Comments88909845' or ...,0
+Staten Island,Misc. Comments;declare @q v...,0
+Staten Island,Misc. Comments]]&gt;&gt;&lt;,0
+Staten Island,Misc. Commentseowljujfh8,0
+Staten Island,Misc. Commentso0w3r%&gt;xb6...,0
+Staten Island,Misc. Comments{${sleep(20)}},0
+Staten Island,Misc. Comments|echo 3p7wexz...,0
+Staten Island,Misc. Comments|nslookup -q=...,0
+Staten Island,Misc. Comments|ping -c 21 1...,0
+Staten Island,Misc. Comments|ping -n 21 1...,0
+Staten Island,Misc. Comments}}t2v95'/&quo...,0
+Staten Island,\windows\win.ini,0
+Staten Island,`sleep 11`,0
+Staten Island,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+Staten Island,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+Staten Island,c:\windows\win.ini,0
+Staten Island,c:\windows\win.ini Misc. Co...,0
+Staten Island,eval(compile('for x in rang...,0
+Staten Island,file:///c:/windows/win.ini,0
+Staten Island,file:///etc/passwd,0
+Staten Island,g0oii1s4s5)(objectClass=*,0
+Staten Island,hcvn1{{687*375}}gji51,0
+Staten Island,http://g7orz5h9iu2sh6z332rj...,0
+Staten Island,idexf3mrb7)(!(objectClass=*),0
+Staten Island,kawn''lcgv,0
+Staten Island,nslookup -q=cname nneyfcxgy...,0
+Staten Island,qfix4${695*589}lixaf,0
+Staten Island,yw97y0gi2s,0
+Staten Island,{!xmlparser v='&lt;!DOCTYPE...,0
+Staten Island,Advocate-Co-opCondo Abatement,0
+Staten Island,Advocate-Prop Refunds/Credits,0
+Staten Island,Advocate-Property Value,0
+Staten Island,DOF Parking - DMV Clearance,0
+Staten Island,DOF Parking - Payment Issue,0
+Staten Island,DOF Parking - Request Copy,0
+Staten Island,HPD Literature Request,0
+Staten Island,Housing Options,0
+Staten Island,Advocate - Lien,0
+Staten Island,Advocate-Personal Exemptions,0
+Staten Island,Alzheimer's Care,0
+Staten Island,DCA / DOH New License Application Request,0
+Staten Island,DOF Parking - Request Status,0
+Staten Island,Home Care Provider Complaint,0
+Staten Island,SCRIE,0
+Staten Island,Taxpayer Advocate Inquiry,0
+Staten Island,DOF Parking - Tax Exemption,0
+Staten Island,OEM Literature Request,0
+Staten Island,Elder Abuse,0
+Staten Island,Housing - Low Income Senior,0
+Staten Island,Case Management Agency Complaint,0
+Staten Island,Advocate-SCRIE/DRIE,0
+Staten Island,Bereavement Support Group,0
+Staten Island,Advocate - RPIE,0
+Staten Island,Advocate-Prop Class Incorrect,0
+Staten Island,Advocate-Foreclosure,0
+Staten Island,Select Message Type...,0
+Staten Island,Parking Card,0
+Staten Island,AGENCY,0
+Staten Island,Fire Alarm - New System,0
+Staten Island,Fire Alarm - Reinspection,0
+Staten Island,Public Assembly,0
+Staten Island,Hazmat Storage/Use,0
+Staten Island,Sprinkler - Mechanical,0
+Staten Island,Fire Alarm - Modification,0
+Staten Island,Gas Station Discharge Lines,0
+Staten Island,ZSYSTEST,0
+Staten Island,Interior Demo,0
+Staten Island,Public Assembly - Temporary,0
+Staten Island,Open Flame Permit,0
+Staten Island,General Question,0
+Staten Island,NORC Complaint,0
+Staten Island,FCST,0
+Staten Island,Homebound Evacuation 4,0
+Staten Island,Illegal Animal - Sold/Kept,0
+Staten Island,Injured Wildlife,0
+Staten Island,VACANT APARTMENT,0
+Staten Island,Advocate-UBT,0
+Staten Island,LEAD,0
+Staten Island,Trapping Pigeon,0
+Staten Island,Asbestos/Garbage Nuisance,0
+Staten Island,DOF Property - City Rebate,0
+Staten Island,DOR Literature Request,0
+Staten Island,DHS Income Savings Requirement,0
+Staten Island,SG-99,0
+Staten Island,DHS Advantage - Tenant,0
+Staten Island,DHS Advantage -Landlord/Broker,0
+Staten Island,HEAP Assistance,0
+Staten Island,Meals Home Delivery Required,0
+Staten Island,DHS Advantage - Third Party,0
+Staten Island,Portable Toilet,0
+Staten Island,Home Repair,0
+Staten Island,Weatherization,0
+Staten Island,DOF Parking - Address Update,0
+Staten Island,Utility Program,0
+Staten Island,DOF Literature Request,0
+Staten Island,Eviction,0
+Staten Island,Hazardous Material,0
+Staten Island,DOF Property - State Rebate,0
+UNSPECIFIED,HEATING,282438
+UNSPECIFIED,GENERAL CONSTRUCTION,150192
+UNSPECIFIED,PLUMBING,132206
+UNSPECIFIED,PAINT - PLASTER,110015
+UNSPECIFIED,NONCONST,80289
+UNSPECIFIED,ELECTRIC,45566
+UNSPECIFIED,APPLIANCE,17312
+UNSPECIFIED,Highway Condition,4001
+UNSPECIFIED,CONSTRUCTION,1523
+UNSPECIFIED,Illegal Parking,1046
+UNSPECIFIED,Street Light Condition,475
+UNSPECIFIED,Bridge Condition,387
+UNSPECIFIED,Traffic,311
+UNSPECIFIED,Blocked Driveway,292
+UNSPECIFIED,Street Condition,242
+UNSPECIFIED,Noise - Residential,235
+UNSPECIFIED,Sanitation Condition,225
+UNSPECIFIED,Traffic Signal Condition,214
+UNSPECIFIED,Dirty Conditions,208
+UNSPECIFIED,Noise - Street/Sidewalk,183
+UNSPECIFIED,Abandoned Vehicle,158
+UNSPECIFIED,Missed Collection,123
+UNSPECIFIED,Dirty Condition,117
+UNSPECIFIED,Consumer Complaint,104
+UNSPECIFIED,Encampment,96
+UNSPECIFIED,Taxi Complaint,96
+UNSPECIFIED,Broken Parking Meter,72
+UNSPECIFIED,Lost Property,72
+UNSPECIFIED,Vendor Enforcement,69
+UNSPECIFIED,Water System,67
+UNSPECIFIED,Noise - Vehicle,66
+UNSPECIFIED,Sewer,66
+UNSPECIFIED,Non-Emergency Police Matter,62
+UNSPECIFIED,Homeless Person Assistance,60
+UNSPECIFIED,Illegal Dumping,58
+UNSPECIFIED,Noise - Commercial,58
+UNSPECIFIED,Municipal Parking Facility,58
+UNSPECIFIED,Homeless Encampment,45
+UNSPECIFIED,Sidewalk Condition,43
+UNSPECIFIED,Damaged Tree,42
+UNSPECIFIED,Derelict Vehicle,39
+UNSPECIFIED,Drug Activity,34
+UNSPECIFIED,For Hire Vehicle Complaint,33
+UNSPECIFIED,Maintenance or Facility,29
+UNSPECIFIED,Obstruction,29
+UNSPECIFIED,Overgrown Tree/Branches,25
+UNSPECIFIED,Residential Disposal Complaint,20
+UNSPECIFIED,Food Establishment,19
+UNSPECIFIED,Noise,17
+UNSPECIFIED,Senior Center Complaint,17
+UNSPECIFIED,Street Sweeping Complaint,16
+UNSPECIFIED,General,16
+UNSPECIFIED,Snow,16
+UNSPECIFIED,Animal-Abuse,15
+UNSPECIFIED,Dead Animal,15
+UNSPECIFIED,Animal in a Park,14
+UNSPECIFIED,Illegal Fireworks,14
+UNSPECIFIED,Panhandling,14
+UNSPECIFIED,Street Sign - Damaged,14
+UNSPECIFIED,Street Sign - Missing,14
+UNSPECIFIED,Dead/Dying Tree,13
+UNSPECIFIED,Rodent,13
+UNSPECIFIED,Street Sign - Dangling,12
+UNSPECIFIED,Water Leak,11
+UNSPECIFIED,Other Enforcement,11
+UNSPECIFIED,Violation of Park Rules,10
+UNSPECIFIED,Sewer Maintenance,10
+UNSPECIFIED,New Tree Request,9
+UNSPECIFIED,Bike/Roller/Skate Chronic,9
+UNSPECIFIED,Curb Condition,8
+UNSPECIFIED,Litter Basket Request,8
+UNSPECIFIED,Litter Basket / Request,8
+UNSPECIFIED,Vacant Lot,8
+UNSPECIFIED,Graffiti,7
+UNSPECIFIED,Door/Window,7
+UNSPECIFIED,Sweeping/Missed-Inadequate,7
+UNSPECIFIED,Commercial Disposal Complaint,6
+UNSPECIFIED,Illegal Tree Damage,6
+UNSPECIFIED,Noise - Helicopter,6
+UNSPECIFIED,Overflowing Litter Baskets,6
+UNSPECIFIED,Hazardous Materials,5
+UNSPECIFIED,Noise - Park,5
+UNSPECIFIED,Unsanitary Condition,5
+UNSPECIFIED,NonCompliance with Phased Reopening,5
+UNSPECIFIED,Bus Stop Shelter Complaint,4
+UNSPECIFIED,Ferry Complaint,4
+UNSPECIFIED,Ferry Inquiry,4
+UNSPECIFIED,Lot Condition,4
+UNSPECIFIED,Mobile Food Vendor,4
+UNSPECIFIED,Outdoor Dining,4
+UNSPECIFIED,Standing Water,4
+UNSPECIFIED,Paint/Plaster,4
+UNSPECIFIED,Water Maintenance,4
+UNSPECIFIED,Drinking,3
+UNSPECIFIED,For Hire Vehicle Report,3
+UNSPECIFIED,Illegal Posting,3
+UNSPECIFIED,Noise - House of Worship,3
+UNSPECIFIED,Plumbing,3
+UNSPECIFIED,Root/Sewer/Sidewalk Condition,3
+UNSPECIFIED,Taxi Report,3
+UNSPECIFIED,Animal Abuse,3
+UNSPECIFIED,Abandoned Bike,2
+UNSPECIFIED,Dumpster Complaint,2
+UNSPECIFIED,Food Poisoning,2
+UNSPECIFIED,General Construction/Plumbing,2
+UNSPECIFIED,Litter Basket Complaint,2
+UNSPECIFIED,Sanitation Worker or Vehicle Complaint,2
+UNSPECIFIED,Urinating in Public,2
+UNSPECIFIED,School Maintenance,2
+UNSPECIFIED,Uprooted Stump,2
+UNSPECIFIED,Highway Sign - Missing,2
+UNSPECIFIED,Heat/Hot Water,2
+UNSPECIFIED,Derelict Bicycle,2
+UNSPECIFIED,Sweeping/Missed,2
+UNSPECIFIED,Vending,2
+UNSPECIFIED,Transportation Provider Complaint,2
+UNSPECIFIED,Asbestos,1
+UNSPECIFIED,Bike Rack,1
+UNSPECIFIED,Derelict Vehicles,1
+UNSPECIFIED,Disorderly Youth,1
+UNSPECIFIED,Electrical,1
+UNSPECIFIED,HEAT/HOT WATER,1
+UNSPECIFIED,Highway Sign - Damaged,1
+UNSPECIFIED,Industrial Waste,1
+UNSPECIFIED,LinkNYC,1
+UNSPECIFIED,Water Conservation,1
+UNSPECIFIED,Beach/Pool/Sauna Complaint,1
+UNSPECIFIED,Incorrect Data,1
+UNSPECIFIED,Smoking,1
+UNSPECIFIED,Bike Rack Condition,1
+UNSPECIFIED,Flooring/Stairs,1
+UNSPECIFIED,Missed Collection (All Materials),1
+UNSPECIFIED,Air Quality,0
+UNSPECIFIED,Bench,0
+UNSPECIFIED,Bike/Roller/Skate,0
+UNSPECIFIED,Boilers,0
+UNSPECIFIED,Building/Use,0
+UNSPECIFIED,Cannabis Retailer,0
+UNSPECIFIED,Construction Lead Dust,0
+UNSPECIFIED,DOOR/WINDOW,0
+UNSPECIFIED,Day Care,0
+UNSPECIFIED,Drinking Water,0
+UNSPECIFIED,E-Scooter,0
+UNSPECIFIED,ELEVATOR,0
+UNSPECIFIED,Elevator,0
+UNSPECIFIED,Emergency Response Team (ERT),0
+UNSPECIFIED,FLOORING/STAIRS,0
+UNSPECIFIED,Found Property,0
+UNSPECIFIED,GENERAL,0
+UNSPECIFIED,Green Taxi Complaint,0
+UNSPECIFIED,Green Taxi Report,0
+UNSPECIFIED,Harboring Bees/Wasps,0
+UNSPECIFIED,Illegal Animal Kept as Pet,0
+UNSPECIFIED,Indoor Air Quality,0
+UNSPECIFIED,Indoor Sewage,0
+UNSPECIFIED,Investigations and Discipline (IAD),0
+UNSPECIFIED,Lead,0
+UNSPECIFIED,Mold,0
+UNSPECIFIED,Non-Residential Heat,0
+UNSPECIFIED,OUTSIDE BUILDING,0
+UNSPECIFIED,PAINT/PLASTER,0
+UNSPECIFIED,Pet Sale,0
+UNSPECIFIED,Posting Advertisement,0
+UNSPECIFIED,Real Time Enforcement,0
+UNSPECIFIED,SAFETY,0
+UNSPECIFIED,Scaffold Safety,0
+UNSPECIFIED,Smoking or Vaping,0
+UNSPECIFIED,Special Projects Inspection Team (SPIT),0
+UNSPECIFIED,Taxi Compliment,0
+UNSPECIFIED,Tobacco or Non-Tobacco Sale,0
+UNSPECIFIED,UNSANITARY CONDITION,0
+UNSPECIFIED,Unleashed Dog,0
+UNSPECIFIED,Unsanitary Animal Pvt Property,0
+UNSPECIFIED,Unsanitary Pigeon Condition,0
+UNSPECIFIED,WATER LEAK,0
+UNSPECIFIED,Water Quality,0
+UNSPECIFIED,Wood Pile Remaining,0
+UNSPECIFIED,BEST/Site Safety,0
+UNSPECIFIED,Bus Stop Shelter Placement,0
+UNSPECIFIED,Highway Sign - Dangling,0
+UNSPECIFIED,Window Guard,0
+UNSPECIFIED,Building Drinking Water Tank,0
+UNSPECIFIED,Snow or Ice,0
+UNSPECIFIED,Tattooing,0
+UNSPECIFIED,Calorie Labeling,0
+UNSPECIFIED,Recycling Basket Complaint,0
+UNSPECIFIED,Cranes and Derricks,0
+UNSPECIFIED,Illegal Animal Sold,0
+UNSPECIFIED,Institution Disposal Complaint,0
+UNSPECIFIED,Lifeguard,0
+UNSPECIFIED,Plant,0
+UNSPECIFIED,Special Natural Area District (SNAD),0
+UNSPECIFIED,Unsanitary Animal Facility,0
+UNSPECIFIED,Animal Facility - No Permit,0
+UNSPECIFIED,Public Toilet,0
+UNSPECIFIED,Wayfinding,0
+UNSPECIFIED,Cooling Tower,0
+UNSPECIFIED,Taxi Licensee Complaint,0
+UNSPECIFIED,AHV Inspection Unit,0
+UNSPECIFIED,Mosquitoes,0
+UNSPECIFIED,Squeegee,0
+UNSPECIFIED,Tunnel Condition,0
+UNSPECIFIED,Poison Ivy,0
+UNSPECIFIED,Borough Office,0
+UNSPECIFIED,Dept of Investigations,0
+UNSPECIFIED,DEP Street Condition,0
+UNSPECIFIED,Transfer Station Complaint,0
+UNSPECIFIED,Unspecified,0
+UNSPECIFIED,Radioactive Material,0
+UNSPECIFIED,Building Condition,0
+UNSPECIFIED,DEP Sidewalk Condition,0
+UNSPECIFIED,DEP Highway Condition,0
+UNSPECIFIED,Public Payphone Complaint,0
+UNSPECIFIED,DSNY Internal,0
+UNSPECIFIED,FHV Licensee Complaint,0
+UNSPECIFIED,Oil or Gas Spill,0
+UNSPECIFIED,X-Ray Machine/Equipment,0
+UNSPECIFIED,Leaning Bar,0
+UNSPECIFIED,Peeling Paint,0
+UNSPECIFIED,Pet Shop,0
+UNSPECIFIED,Tanning,0
+UNSPECIFIED,ASBESTOS,0
+UNSPECIFIED,Construction Safety Enforcement,0
+UNSPECIFIED,SNW,0
+UNSPECIFIED,Facade Insp Safety Pgm,0
+UNSPECIFIED,Special Operations,0
+UNSPECIFIED,Dispatched Taxi Complaint,0
+UNSPECIFIED,Building Marshal's Office,0
+UNSPECIFIED,Adopt-A-Basket,0
+UNSPECIFIED,Stalled Sites,0
+UNSPECIFIED,Building Marshals office,0
+UNSPECIFIED,Executive Inspections,0
+UNSPECIFIED,Sustainability Enforcement,0
+UNSPECIFIED,Retailer Complaint,0
+UNSPECIFIED,Seasonal Collection,0
+UNSPECIFIED,Unlicensed Dog,0
+UNSPECIFIED,Electronics Waste Appointment,0
+UNSPECIFIED,Appliance,0
+UNSPECIFIED,Boiler,0
+UNSPECIFIED,DOB Posted Notice or Order,0
+UNSPECIFIED,Electric,0
+UNSPECIFIED,Safety,0
+UNSPECIFIED,Unstable Building,0
+UNSPECIFIED,Water Drainage,0
+UNSPECIFIED,Outside Building,0
+UNSPECIFIED,Quality of Life,0
+UNSPECIFIED,Trans Fat,0
+UNSPECIFIED,Bottled Water,0
+UNSPECIFIED,Face Covering Violation,0
+UNSPECIFIED,Dispatched Taxi Compliment,0
+UNSPECIFIED,ZTESTINT,0
+UNSPECIFIED,Internal Code,0
+UNSPECIFIED,SRDE,0
+UNSPECIFIED,Private School Vaccine Mandate Non-Compliance,0
+UNSPECIFIED,Request Large Bulky Item Collection,0
+UNSPECIFIED,Vaccine Mandate Non-Compliance,0
+UNSPECIFIED,Facades,0
+UNSPECIFIED,COVID-19 Non-essential Construction,0
+UNSPECIFIED,Private or Charter School Reopening,0
+UNSPECIFIED,Mass Gathering Complaint,0
+UNSPECIFIED,MOLD,0
+UNSPECIFIED,Home Delivered Meal - Missed Delivery,0
+UNSPECIFIED,Forensic Engineering,0
+UNSPECIFIED,Miscellaneous Categories,0
+UNSPECIFIED,DEP Bridge Condition,0
+UNSPECIFIED,Recycling Enforcement,0
+UNSPECIFIED,Storm,0
+UNSPECIFIED,Sweeping/Inadequate,0
+UNSPECIFIED,Overflowing Recycling Baskets,0
+UNSPECIFIED,Collection Truck Noise,0
+UNSPECIFIED,Change Collection Schedule,0
+UNSPECIFIED,Foam Ban Enforcement,0
+UNSPECIFIED,SRGOVG,0
+UNSPECIFIED,Homeless Street Condition,0
+UNSPECIFIED,Snow Removal,0
+UNSPECIFIED,DSNY Spillage,0
+UNSPECIFIED,Employee Behavior,0
+UNSPECIFIED,Electronics Waste,0
+UNSPECIFIED,Ferry Permit,0
+UNSPECIFIED,Home Delivered Meal Complaint,0
+UNSPECIFIED,Literature Request,0
+UNSPECIFIED,Single Occupancy Bathroom,0
+UNSPECIFIED,Construction,0
+UNSPECIFIED,Fire Alarm - Replacement,0
+UNSPECIFIED,Request Changes - A.S.P.,0
+UNSPECIFIED,Comments,0
+UNSPECIFIED,FATF,0
+UNSPECIFIED,Forms,0
+UNSPECIFIED,Question,0
+UNSPECIFIED,Advocate - Other,0
+UNSPECIFIED,Benefit Card Replacement,0
+UNSPECIFIED,DOF Property - Owner Issue,0
+UNSPECIFIED,DOF Property - Update Account,0
+UNSPECIFIED,DPR Internal,0
+UNSPECIFIED,DOF Property - Property Value,0
+UNSPECIFIED,DOF Property - RPIE Issue,0
+UNSPECIFIED,DOF Property - Reduction Issue,0
+UNSPECIFIED,DOF Property - Request Copy,0
+UNSPECIFIED,Research Questions,0
+UNSPECIFIED,MSOTHER,0
+UNSPECIFIED,$(sleep 11),0
+UNSPECIFIED,${3804*3137},0
+UNSPECIFIED,%2e%2e%2f%2e%2e%2f%2e%2e%2f...,0
+UNSPECIFIED,%2e%2e%5c%2e%2e%5c%2e%2e%5c...,0
+UNSPECIFIED,%2fetc%2fpasswd,0
+UNSPECIFIED,%E5%98%8A%E5%98%8DX-Injecti...,0
+UNSPECIFIED,%c0%ae/%c0%ae/%c0%ae/%c0%ae...,0
+UNSPECIFIED,%c0%ae/%c0%ae/%c0%ae/WEB-IN...,0
+UNSPECIFIED,%c0%ae/%c0%ae/WEB-INF/web.xml,0
+UNSPECIFIED,%c0%ae/WEB-INF/web.xml,0
+UNSPECIFIED,%{(#dm=@ognl.OgnlContext@DE...,0
+UNSPECIFIED,%{4761*8506},0
+UNSPECIFIED,&lt;odb xmlns:xi=&quot;http...,0
+UNSPECIFIED,&lt;vlv xmlns=&quot;http://...,0
+UNSPECIFIED,&quot;--&gt;'--&gt;`--&gt;&...,0
+UNSPECIFIED,() { :;}; /bin/sleep 0,0
+UNSPECIFIED,() { :;}; /bin/sleep 11,0
+UNSPECIFIED,() { _; } &gt;_,0
+UNSPECIFIED,(select extractvalue(xmltyp...,0
+UNSPECIFIED,(select load_file('\\\\615h...,0
+UNSPECIFIED,*)(!(objectClass=*),0
+UNSPECIFIED,*)(objectClass=*,0
+UNSPECIFIED,.../....///.../....///.../....,0
+UNSPECIFIED,.../...//.../...//.../...//...,0
+UNSPECIFIED,..././..././..././..././......,0
+UNSPECIFIED,.../.\.../.\.../.\.../.\......,0
+UNSPECIFIED,.../Misc. Comments,0
+UNSPECIFIED,...\./...\./...\./...\./......,0
+UNSPECIFIED,...\.\...\.\...\.\...\.\......,0
+UNSPECIFIED,../../../../../../../../../...,0
+UNSPECIFIED,../../../../WEB-INF/web.xml,0
+UNSPECIFIED,../../../WEB-INF/web.xml,0
+UNSPECIFIED,../../../WEB-INF/web.xml;x=,0
+UNSPECIFIED,../../WEB-INF/web.xml,0
+UNSPECIFIED,../../WEB-INF/web.xml;x=,0
+UNSPECIFIED,../WEB-INF/web.xml,0
+UNSPECIFIED,../WEB-INF/web.xml;x=,0
+UNSPECIFIED,..\..\..\..\..\..\..\..\..\...,0
+UNSPECIFIED,./validate_form.php,0
+UNSPECIFIED,/./validate_form.php,0
+UNSPECIFIED,/etc/passwd,0
+UNSPECIFIED,1430*4963,0
+UNSPECIFIED,266dyrgvhg1egsyp2oq57axbm2s...,0
+UNSPECIFIED,@(9313*3464),0
+UNSPECIFIED,Misc. Comments  BCC:a5glxzf...,0
+UNSPECIFIED,Misc. Comments%}dt2pq'/&quo...,0
+UNSPECIFIED,Misc. Comments&amp;echo xjd...,0
+UNSPECIFIED,Misc. Comments&amp;nslookup...,0
+UNSPECIFIED,Misc. Comments&amp;ping -n ...,0
+UNSPECIFIED,Misc. Comments&gt;  BCC:bl0...,0
+UNSPECIFIED,Misc. Comments&quot;,0
+UNSPECIFIED,Misc. Comments&quot;|echo 2...,0
+UNSPECIFIED,Misc. Comments&quot;|ping -...,0
+UNSPECIFIED,Misc. Comments',0
+UNSPECIFIED,Misc. Comments' and '1618'=...,0
+UNSPECIFIED,Misc. Comments' and '7835'=...,0
+UNSPECIFIED,Misc. Comments' and (select...,0
+UNSPECIFIED,Misc. Comments' and 6049=60...,0
+UNSPECIFIED,Misc. Comments' and 7702=77...,0
+UNSPECIFIED,Misc. Comments' waitfor del...,0
+UNSPECIFIED,Misc. Comments'&quot;`0&amp...,0
+UNSPECIFIED,Misc. Comments'(select*from...,0
+UNSPECIFIED,Misc. Comments');declare @q...,0
+UNSPECIFIED,Misc. Comments')waitfor del...,0
+UNSPECIFIED,Misc. Comments'+(function()...,0
+UNSPECIFIED,Misc. Comments'+(select loa...,0
+UNSPECIFIED,Misc. Comments'+(select*fro...,0
+UNSPECIFIED,Misc. Comments'+eval(compil...,0
+UNSPECIFIED,Misc. Comments'+sleep(20.to...,0
+UNSPECIFIED,"Misc. Comments',0)waitfor d...",0
+UNSPECIFIED,Misc. Comments'.sleep(20).',0
+UNSPECIFIED,Misc. Comments';declare @q ...,0
+UNSPECIFIED,Misc. Comments'|echo y9v6fc...,0
+UNSPECIFIED,Misc. Comments'|ping -c 21 ...,0
+UNSPECIFIED,Misc. Comments'||(select ex...,0
+UNSPECIFIED,Misc. Comments);declare @q ...,0
+UNSPECIFIED,"Misc. Comments,(select*from...",0
+UNSPECIFIED,Misc. Comments../../../../....,0
+UNSPECIFIED,Misc. Comments..\..\..\..\....,0
+UNSPECIFIED,Misc. Comments47876391' or ...,0
+UNSPECIFIED,Misc. Comments52038737' or ...,0
+UNSPECIFIED,Misc. Comments69075347' or ...,0
+UNSPECIFIED,Misc. Comments88909845' or ...,0
+UNSPECIFIED,Misc. Comments;declare @q v...,0
+UNSPECIFIED,Misc. Comments]]&gt;&gt;&lt;,0
+UNSPECIFIED,Misc. Commentseowljujfh8,0
+UNSPECIFIED,Misc. Commentso0w3r%&gt;xb6...,0
+UNSPECIFIED,Misc. Comments{${sleep(20)}},0
+UNSPECIFIED,Misc. Comments|echo 3p7wexz...,0
+UNSPECIFIED,Misc. Comments|nslookup -q=...,0
+UNSPECIFIED,Misc. Comments|ping -c 21 1...,0
+UNSPECIFIED,Misc. Comments|ping -n 21 1...,0
+UNSPECIFIED,Misc. Comments}}t2v95'/&quo...,0
+UNSPECIFIED,\windows\win.ini,0
+UNSPECIFIED,`sleep 11`,0
+UNSPECIFIED,a'a\'b&quot;c&gt;?&gt;%}}%%...,0
+UNSPECIFIED,bcd9&lt;!--esi--&gt;1ggp&lt...,0
+UNSPECIFIED,c:\windows\win.ini,0
+UNSPECIFIED,c:\windows\win.ini Misc. Co...,0
+UNSPECIFIED,eval(compile('for x in rang...,0
+UNSPECIFIED,file:///c:/windows/win.ini,0
+UNSPECIFIED,file:///etc/passwd,0
+UNSPECIFIED,g0oii1s4s5)(objectClass=*,0
+UNSPECIFIED,hcvn1{{687*375}}gji51,0
+UNSPECIFIED,http://g7orz5h9iu2sh6z332rj...,0
+UNSPECIFIED,idexf3mrb7)(!(objectClass=*),0
+UNSPECIFIED,kawn''lcgv,0
+UNSPECIFIED,nslookup -q=cname nneyfcxgy...,0
+UNSPECIFIED,qfix4${695*589}lixaf,0
+UNSPECIFIED,yw97y0gi2s,0
+UNSPECIFIED,{!xmlparser v='&lt;!DOCTYPE...,0
+UNSPECIFIED,Advocate-Co-opCondo Abatement,0
+UNSPECIFIED,Advocate-Prop Refunds/Credits,0
+UNSPECIFIED,Advocate-Property Value,0
+UNSPECIFIED,DOF Parking - DMV Clearance,0
+UNSPECIFIED,DOF Parking - Payment Issue,0
+UNSPECIFIED,DOF Parking - Request Copy,0
+UNSPECIFIED,HPD Literature Request,0
+UNSPECIFIED,Housing Options,0
+UNSPECIFIED,Advocate - Lien,0
+UNSPECIFIED,Advocate-Personal Exemptions,0
+UNSPECIFIED,Alzheimer's Care,0
+UNSPECIFIED,DCA / DOH New License Application Request,0
+UNSPECIFIED,DOF Parking - Request Status,0
+UNSPECIFIED,Home Care Provider Complaint,0
+UNSPECIFIED,SCRIE,0
+UNSPECIFIED,Taxpayer Advocate Inquiry,0
+UNSPECIFIED,DOF Parking - Tax Exemption,0
+UNSPECIFIED,OEM Literature Request,0
+UNSPECIFIED,Elder Abuse,0
+UNSPECIFIED,Housing - Low Income Senior,0
+UNSPECIFIED,DOF Property - Payment Issue,0
+UNSPECIFIED,Case Management Agency Complaint,0
+UNSPECIFIED,DRIE,0
+UNSPECIFIED,Advocate-SCRIE/DRIE,0
+UNSPECIFIED,Bereavement Support Group,0
+UNSPECIFIED,Advocate-Commercial Exemptions,0
+UNSPECIFIED,Advocate - RPIE,0
+UNSPECIFIED,Advocate-Prop Class Incorrect,0
+UNSPECIFIED,Advocate-Business Tax,0
+UNSPECIFIED,Advocate-Foreclosure,0
+UNSPECIFIED,Request Xmas Tree Collection,0
+UNSPECIFIED,Select Message Type...,0
+UNSPECIFIED,Parking Card,0
+UNSPECIFIED,AGENCY,0
+UNSPECIFIED,Rangehood,0
+UNSPECIFIED,Fire Alarm - New System,0
+UNSPECIFIED,Fire Alarm - Reinspection,0
+UNSPECIFIED,Public Assembly,0
+UNSPECIFIED,Hazmat Storage/Use,0
+UNSPECIFIED,Sprinkler - Mechanical,0
+UNSPECIFIED,Fire Alarm - Modification,0
+UNSPECIFIED,Gas Station Discharge Lines,0
+UNSPECIFIED,ZSYSTEST,0
+UNSPECIFIED,Interior Demo,0
+UNSPECIFIED,Public Assembly - Temporary,0
+UNSPECIFIED,Open Flame Permit,0
+UNSPECIFIED,General Question,0
+UNSPECIFIED,Legal Services Provider Complaint,0
+UNSPECIFIED,NORC Complaint,0
+UNSPECIFIED,Advocate - Levy,0
+UNSPECIFIED,FCST,0
+UNSPECIFIED,Homebound Evacuation 4,0
+UNSPECIFIED,Illegal Animal - Sold/Kept,0
+UNSPECIFIED,Injured Wildlife,0
+UNSPECIFIED,Special Enforcement,0
+UNSPECIFIED,VACANT APARTMENT,0
+UNSPECIFIED,Broken Muni Meter,0
+UNSPECIFIED,ATF,0
+UNSPECIFIED,City Vehicle Placard Complaint,0
+UNSPECIFIED,Advocate-UBT,0
+UNSPECIFIED,LEAD,0
+UNSPECIFIED,Trapping Pigeon,0
+UNSPECIFIED,Asbestos/Garbage Nuisance,0
+UNSPECIFIED,DOF Property - City Rebate,0
+UNSPECIFIED,DOR Literature Request,0
+UNSPECIFIED,Dead Tree,0
+UNSPECIFIED,OEM Disabled Vehicle,0
+UNSPECIFIED,DHS Income Savings Requirement,0
+UNSPECIFIED,SG-99,0
+UNSPECIFIED,DHS Advantage - Tenant,0
+UNSPECIFIED,DHS Advantage -Landlord/Broker,0
+UNSPECIFIED,HEAP Assistance,0
+UNSPECIFIED,Meals Home Delivery Required,0
+UNSPECIFIED,DHS Advantage - Third Party,0
+UNSPECIFIED,STRUCTURAL,0
+UNSPECIFIED,Summer Camp,0
+UNSPECIFIED,Portable Toilet,0
+UNSPECIFIED,Home Repair,0
+UNSPECIFIED,Weatherization,0
+UNSPECIFIED,Noise Survey,0
+UNSPECIFIED,DOF Parking - Address Update,0
+UNSPECIFIED,Utility Program,0
+UNSPECIFIED,Teaching/Learning/Instruction,0
+UNSPECIFIED,DOF Literature Request,0
+UNSPECIFIED,Standpipe - Mechanical,0
+UNSPECIFIED,Eviction,0
+UNSPECIFIED,Discipline and Suspension,0
+UNSPECIFIED,Registration and Transfers,0
+UNSPECIFIED,Parent Leadership,0
+UNSPECIFIED,Health,0
+UNSPECIFIED,No Child Left Behind,0
+UNSPECIFIED,Hazardous Material,0
+UNSPECIFIED,Traffic/Illegal Parking,0
+UNSPECIFIED,DOF Property - State Rebate,0
