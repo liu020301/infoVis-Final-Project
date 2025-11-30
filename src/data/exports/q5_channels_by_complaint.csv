@@ -27,10 +27,6 @@ Asbestos,Phone,17996
 Asbestos,Other,4667
 Asbestos,Web,4007
 Asbestos,Mobile,1
-Bench,Phone,23
-Bench,Web,17
-Bench,Mobile,0
-Bench,Other,0
 Bike Rack,Web,93
 Bike Rack,Phone,46
 Bike Rack,Mobile,0
@@ -51,7 +47,7 @@ Broken Parking Meter,Phone,59029
 Broken Parking Meter,Mobile,6521
 Broken Parking Meter,Web,3740
 Broken Parking Meter,Other,19
-Building/Use,Other,353963
+Building/Use,Other,353964
 Building/Use,Web,3801
 Building/Use,Mobile,0
 Building/Use,Phone,0
@@ -107,18 +103,10 @@ Dirty Condition,Mobile,66221
 Dirty Condition,Web,62169
 Dirty Condition,Phone,33299
 Dirty Condition,Other,474
-Disorderly Youth,Phone,4813
-Disorderly Youth,Web,1277
-Disorderly Youth,Other,7
-Disorderly Youth,Mobile,0
 Drinking,Web,16059
 Drinking,Phone,14721
 Drinking,Other,10
 Drinking,Mobile,0
-Drinking Water,Phone,2038
-Drinking Water,Web,516
-Drinking Water,Other,6
-Drinking Water,Mobile,0
 Drug Activity,Web,54563
 Drug Activity,Phone,11349
 Drug Activity,Other,10
@@ -143,7 +131,7 @@ Electrical,Other,45491
 Electrical,Web,205
 Electrical,Mobile,0
 Electrical,Phone,0
-Elevator,Other,188089
+Elevator,Other,188090
 Elevator,Web,145
 Elevator,Mobile,0
 Elevator,Phone,0
@@ -159,10 +147,6 @@ FLOORING/STAIRS,Phone,192796
 FLOORING/STAIRS,Web,57862
 FLOORING/STAIRS,Mobile,0
 FLOORING/STAIRS,Other,0
-Ferry Complaint,Phone,20
-Ferry Complaint,Mobile,0
-Ferry Complaint,Other,0
-Ferry Complaint,Web,0
 Ferry Inquiry,Phone,25
 Ferry Inquiry,Mobile,0
 Ferry Inquiry,Other,0
@@ -191,7 +175,7 @@ GENERAL,Phone,193442
 GENERAL,Web,90654
 GENERAL,Other,3
 GENERAL,Mobile,0
-General Construction/Plumbing,Other,514023
+General Construction/Plumbing,Other,514027
 General Construction/Plumbing,Web,2688
 General Construction/Plumbing,Mobile,0
 General Construction/Plumbing,Phone,0
@@ -199,22 +183,10 @@ Graffiti,Other,220351
 Graffiti,Web,9008
 Graffiti,Phone,4442
 Graffiti,Mobile,0
-Green Taxi Complaint,Web,907
-Green Taxi Complaint,Phone,395
-Green Taxi Complaint,Mobile,108
-Green Taxi Complaint,Other,23
-Green Taxi Report,Web,74
-Green Taxi Report,Phone,65
-Green Taxi Report,Other,1
-Green Taxi Report,Mobile,0
 HEAT/HOT WATER,Phone,1097072
 HEAT/HOT WATER,Web,906589
 HEAT/HOT WATER,Mobile,348762
 HEAT/HOT WATER,Other,0
-Harboring Bees/Wasps,Phone,2420
-Harboring Bees/Wasps,Web,1416
-Harboring Bees/Wasps,Other,4
-Harboring Bees/Wasps,Mobile,0
 Hazardous Materials,Phone,21190
 Hazardous Materials,Other,9309
 Hazardous Materials,Web,5558
@@ -223,18 +195,14 @@ Highway Condition,Phone,31398
 Highway Condition,Other,126
 Highway Condition,Web,1
 Highway Condition,Mobile,0
-Highway Sign - Damaged,Phone,286
-Highway Sign - Damaged,Other,2
-Highway Sign - Damaged,Mobile,0
-Highway Sign - Damaged,Web,0
+Highway Sign - Missing,Phone,159
+Highway Sign - Missing,Other,1
+Highway Sign - Missing,Mobile,0
+Highway Sign - Missing,Web,0
 Homeless Person Assistance,Mobile,199298
 Homeless Person Assistance,Phone,50763
 Homeless Person Assistance,Web,41340
 Homeless Person Assistance,Other,16
-Illegal Animal Kept as Pet,Web,2215
-Illegal Animal Kept as Pet,Phone,1960
-Illegal Animal Kept as Pet,Other,753
-Illegal Animal Kept as Pet,Mobile,0
 Illegal Dumping,Web,39509
 Illegal Dumping,Phone,37874
 Illegal Dumping,Mobile,28333
@@ -291,26 +259,14 @@ Lost Property,Phone,16109
 Lost Property,Other,11526
 Lost Property,Web,7506
 Lost Property,Mobile,436
-Lot Condition,Phone,3318
-Lot Condition,Web,2749
-Lot Condition,Other,126
-Lot Condition,Mobile,0
 Maintenance or Facility,Phone,71497
 Maintenance or Facility,Web,40387
 Maintenance or Facility,Mobile,19224
 Maintenance or Facility,Other,6207
-Missed Collection,Web,155588
-Missed Collection,Phone,21514
-Missed Collection,Other,81
-Missed Collection,Mobile,0
 Mobile Food Vendor,Mobile,8552
 Mobile Food Vendor,Web,8311
 Mobile Food Vendor,Phone,5107
 Mobile Food Vendor,Other,28
-Mold,Phone,3153
-Mold,Web,1665
-Mold,Other,40
-Mold,Mobile,0
 New Tree Request,Other,128997
 New Tree Request,Phone,58900
 New Tree Request,Mobile,47573
@@ -387,18 +343,22 @@ Pet Sale,Mobile,0
 Pet Sale,Other,0
 Pet Sale,Phone,0
 Pet Sale,Web,0
+Plant,Phone,1185
+Plant,Web,1085
+Plant,Other,696
+Plant,Mobile,0
 Plumbing,Other,63967
 Plumbing,Web,1100
 Plumbing,Phone,1097
 Plumbing,Mobile,0
-Posting Advertisement,Web,2131
-Posting Advertisement,Phone,1442
-Posting Advertisement,Mobile,0
-Posting Advertisement,Other,0
 Real Time Enforcement,Other,22846
 Real Time Enforcement,Mobile,0
 Real Time Enforcement,Phone,0
 Real Time Enforcement,Web,0
+Recycling Basket Complaint,Web,201
+Recycling Basket Complaint,Phone,52
+Recycling Basket Complaint,Mobile,0
+Recycling Basket Complaint,Other,0
 Residential Disposal Complaint,Web,23155
 Residential Disposal Complaint,Phone,11863
 Residential Disposal Complaint,Other,191
@@ -419,12 +379,12 @@ Sanitation Worker or Vehicle Complaint,Phone,6751
 Sanitation Worker or Vehicle Complaint,Web,2690
 Sanitation Worker or Vehicle Complaint,Other,84
 Sanitation Worker or Vehicle Complaint,Mobile,0
-Scaffold Safety,Other,3290
-Scaffold Safety,Web,19
-Scaffold Safety,Mobile,0
-Scaffold Safety,Phone,0
+School Maintenance,Phone,16557
+School Maintenance,Web,6509
+School Maintenance,Other,2
+School Maintenance,Mobile,0
 Sewer,Phone,270730
-Sewer,Other,144571
+Sewer,Other,144572
 Sewer,Web,79251
 Sewer,Mobile,24
 Sidewalk Condition,Phone,222589
@@ -435,7 +395,11 @@ Smoking or Vaping,Web,2161
 Smoking or Vaping,Phone,1596
 Smoking or Vaping,Mobile,0
 Smoking or Vaping,Other,0
-Special Projects Inspection Team (SPIT),Other,55978
+Snow or Ice,Web,4935
+Snow or Ice,Phone,3376
+Snow or Ice,Mobile,2669
+Snow or Ice,Other,12
+Special Projects Inspection Team (SPIT),Other,55979
 Special Projects Inspection Team (SPIT),Web,722
 Special Projects Inspection Team (SPIT),Mobile,0
 Special Projects Inspection Team (SPIT),Phone,0
@@ -463,22 +427,18 @@ Street Sweeping Complaint,Phone,12721
 Street Sweeping Complaint,Web,12089
 Street Sweeping Complaint,Other,140
 Street Sweeping Complaint,Mobile,0
+Tattooing,Web,930
+Tattooing,Phone,895
+Tattooing,Other,22
+Tattooing,Mobile,0
 Taxi Complaint,Web,110946
 Taxi Complaint,Phone,68764
 Taxi Complaint,Mobile,5949
 Taxi Complaint,Other,1409
-Taxi Compliment,Web,369
-Taxi Compliment,Phone,112
-Taxi Compliment,Mobile,0
-Taxi Compliment,Other,0
 Taxi Report,Web,11640
 Taxi Report,Phone,2890
 Taxi Report,Other,16
 Taxi Report,Mobile,0
-Tobacco or Non-Tobacco Sale,Phone,4
-Tobacco or Non-Tobacco Sale,Web,3
-Tobacco or Non-Tobacco Sale,Mobile,0
-Tobacco or Non-Tobacco Sale,Other,0
 Traffic,Phone,46290
 Traffic,Web,20494
 Traffic,Other,6
@@ -543,58 +503,98 @@ Beach/Pool/Sauna Complaint,Phone,1629
 Beach/Pool/Sauna Complaint,Web,1049
 Beach/Pool/Sauna Complaint,Other,20
 Beach/Pool/Sauna Complaint,Mobile,0
+Bench,Phone,23
+Bench,Web,17
+Bench,Mobile,0
+Bench,Other,0
 Bridge Condition,Phone,3646
 Bridge Condition,Other,7
 Bridge Condition,Mobile,0
 Bridge Condition,Web,0
-Bus Stop Shelter Placement,Phone,1694
-Bus Stop Shelter Placement,Web,1445
-Bus Stop Shelter Placement,Other,8
-Bus Stop Shelter Placement,Mobile,0
-Highway Sign - Dangling,Phone,79
-Highway Sign - Dangling,Mobile,0
-Highway Sign - Dangling,Other,0
-Highway Sign - Dangling,Web,0
-School Maintenance,Phone,16557
-School Maintenance,Web,6509
-School Maintenance,Other,2
-School Maintenance,Mobile,0
-Window Guard,Phone,2605
-Window Guard,Web,215
-Window Guard,Other,7
-Window Guard,Mobile,0
-Bike/Roller/Skate Chronic,Web,11828
-Bike/Roller/Skate Chronic,Phone,6431
-Bike/Roller/Skate Chronic,Other,6
-Bike/Roller/Skate Chronic,Mobile,0
-Uprooted Stump,Web,1179
-Uprooted Stump,Phone,911
-Uprooted Stump,Other,4
-Uprooted Stump,Mobile,0
 Building Drinking Water Tank,Phone,78
 Building Drinking Water Tank,Web,71
 Building Drinking Water Tank,Mobile,0
 Building Drinking Water Tank,Other,0
-Snow or Ice,Web,4935
-Snow or Ice,Phone,3376
-Snow or Ice,Mobile,2669
-Snow or Ice,Other,12
-Tattooing,Web,930
-Tattooing,Phone,895
-Tattooing,Other,22
-Tattooing,Mobile,0
-Calorie Labeling,Web,99
-Calorie Labeling,Phone,88
-Calorie Labeling,Other,3
-Calorie Labeling,Mobile,0
-Recycling Basket Complaint,Web,201
-Recycling Basket Complaint,Phone,52
-Recycling Basket Complaint,Mobile,0
-Recycling Basket Complaint,Other,0
-Cranes and Derricks,Other,3426
-Cranes and Derricks,Web,8
-Cranes and Derricks,Mobile,0
-Cranes and Derricks,Phone,0
+Bus Stop Shelter Placement,Phone,1694
+Bus Stop Shelter Placement,Web,1445
+Bus Stop Shelter Placement,Other,8
+Bus Stop Shelter Placement,Mobile,0
+DEP Street Condition,Other,863
+DEP Street Condition,Phone,54
+DEP Street Condition,Mobile,0
+DEP Street Condition,Web,0
+Ferry Complaint,Phone,20
+Ferry Complaint,Mobile,0
+Ferry Complaint,Other,0
+Ferry Complaint,Web,0
+Green Taxi Complaint,Web,907
+Green Taxi Complaint,Phone,395
+Green Taxi Complaint,Mobile,108
+Green Taxi Complaint,Other,23
+Harboring Bees/Wasps,Phone,2420
+Harboring Bees/Wasps,Web,1416
+Harboring Bees/Wasps,Other,4
+Harboring Bees/Wasps,Mobile,0
+Leaning Bar,Web,5
+Leaning Bar,Phone,1
+Leaning Bar,Mobile,0
+Leaning Bar,Other,0
+Lot Condition,Phone,3318
+Lot Condition,Web,2749
+Lot Condition,Other,126
+Lot Condition,Mobile,0
+Missed Collection,Web,155588
+Missed Collection,Phone,21514
+Missed Collection,Other,81
+Missed Collection,Mobile,0
+Mold,Phone,3153
+Mold,Web,1665
+Mold,Other,40
+Mold,Mobile,0
+Uprooted Stump,Web,1179
+Uprooted Stump,Phone,911
+Uprooted Stump,Other,4
+Uprooted Stump,Mobile,0
+AHV Inspection Unit,Other,720
+AHV Inspection Unit,Mobile,0
+AHV Inspection Unit,Phone,0
+AHV Inspection Unit,Web,0
+Dept of Investigations,Other,163
+Dept of Investigations,Mobile,0
+Dept of Investigations,Phone,0
+Dept of Investigations,Web,0
+Drinking Water,Phone,2038
+Drinking Water,Web,516
+Drinking Water,Other,6
+Drinking Water,Mobile,0
+Illegal Animal Kept as Pet,Web,2215
+Illegal Animal Kept as Pet,Phone,1960
+Illegal Animal Kept as Pet,Other,753
+Illegal Animal Kept as Pet,Mobile,0
+Oil or Gas Spill,Phone,18
+Oil or Gas Spill,Other,1
+Oil or Gas Spill,Mobile,0
+Oil or Gas Spill,Web,0
+Posting Advertisement,Web,2131
+Posting Advertisement,Phone,1442
+Posting Advertisement,Mobile,0
+Posting Advertisement,Other,0
+Scaffold Safety,Other,3290
+Scaffold Safety,Web,19
+Scaffold Safety,Mobile,0
+Scaffold Safety,Phone,0
+Tanning,Phone,42
+Tanning,Web,12
+Tanning,Mobile,0
+Tanning,Other,0
+Unsanitary Animal Facility,Phone,560
+Unsanitary Animal Facility,Web,522
+Unsanitary Animal Facility,Other,194
+Unsanitary Animal Facility,Mobile,0
+Highway Sign - Damaged,Phone,286
+Highway Sign - Damaged,Other,2
+Highway Sign - Damaged,Mobile,0
+Highway Sign - Damaged,Web,0
 Illegal Animal Sold,Web,405
 Illegal Animal Sold,Phone,302
 Illegal Animal Sold,Other,168
@@ -603,34 +603,90 @@ Institution Disposal Complaint,Web,122
 Institution Disposal Complaint,Phone,66
 Institution Disposal Complaint,Mobile,0
 Institution Disposal Complaint,Other,0
-Lifeguard,Web,145
-Lifeguard,Phone,140
-Lifeguard,Other,1
-Lifeguard,Mobile,0
-Plant,Phone,1185
-Plant,Web,1085
-Plant,Other,696
-Plant,Mobile,0
 Special Natural Area District (SNAD),Other,1008
 Special Natural Area District (SNAD),Web,4
 Special Natural Area District (SNAD),Mobile,0
 Special Natural Area District (SNAD),Phone,0
-Unsanitary Animal Facility,Phone,560
-Unsanitary Animal Facility,Web,522
-Unsanitary Animal Facility,Other,194
-Unsanitary Animal Facility,Mobile,0
-Animal Facility - No Permit,Web,539
-Animal Facility - No Permit,Phone,500
-Animal Facility - No Permit,Other,58
-Animal Facility - No Permit,Mobile,0
-Public Toilet,Phone,458
-Public Toilet,Web,141
-Public Toilet,Mobile,0
-Public Toilet,Other,0
+Tobacco or Non-Tobacco Sale,Phone,4
+Tobacco or Non-Tobacco Sale,Web,3
+Tobacco or Non-Tobacco Sale,Mobile,0
+Tobacco or Non-Tobacco Sale,Other,0
+Disorderly Youth,Phone,4813
+Disorderly Youth,Web,1277
+Disorderly Youth,Other,7
+Disorderly Youth,Mobile,0
+Green Taxi Report,Web,74
+Green Taxi Report,Phone,65
+Green Taxi Report,Other,1
+Green Taxi Report,Mobile,0
+Poison Ivy,Phone,1427
+Poison Ivy,Web,625
+Poison Ivy,Other,3
+Poison Ivy,Mobile,0
+Radioactive Material,Phone,81
+Radioactive Material,Web,65
+Radioactive Material,Other,15
+Radioactive Material,Mobile,0
 Wayfinding,Web,11
 Wayfinding,Phone,2
 Wayfinding,Mobile,0
 Wayfinding,Other,0
+Cranes and Derricks,Other,3426
+Cranes and Derricks,Web,8
+Cranes and Derricks,Mobile,0
+Cranes and Derricks,Phone,0
+Highway Sign - Dangling,Phone,79
+Highway Sign - Dangling,Mobile,0
+Highway Sign - Dangling,Other,0
+Highway Sign - Dangling,Web,0
+Incorrect Data,Phone,311
+Incorrect Data,Mobile,0
+Incorrect Data,Other,0
+Incorrect Data,Web,0
+Taxi Compliment,Web,369
+Taxi Compliment,Phone,112
+Taxi Compliment,Mobile,0
+Taxi Compliment,Other,0
+Animal Facility - No Permit,Web,539
+Animal Facility - No Permit,Phone,500
+Animal Facility - No Permit,Other,58
+Animal Facility - No Permit,Mobile,0
+FHV Licensee Complaint,Other,41
+FHV Licensee Complaint,Phone,10
+FHV Licensee Complaint,Mobile,0
+FHV Licensee Complaint,Web,0
+Special Operations,Other,315
+Special Operations,Mobile,0
+Special Operations,Phone,0
+Special Operations,Web,0
+Taxi Licensee Complaint,Phone,48
+Taxi Licensee Complaint,Other,3
+Taxi Licensee Complaint,Mobile,0
+Taxi Licensee Complaint,Web,0
+Window Guard,Phone,2605
+Window Guard,Web,215
+Window Guard,Other,7
+Window Guard,Mobile,0
+Bike/Roller/Skate Chronic,Web,11828
+Bike/Roller/Skate Chronic,Phone,6431
+Bike/Roller/Skate Chronic,Other,6
+Bike/Roller/Skate Chronic,Mobile,0
+Calorie Labeling,Web,99
+Calorie Labeling,Phone,88
+Calorie Labeling,Other,3
+Calorie Labeling,Mobile,0
+Lifeguard,Web,145
+Lifeguard,Phone,140
+Lifeguard,Other,1
+Lifeguard,Mobile,0
+Public Toilet,Phone,458
+Public Toilet,Web,141
+Public Toilet,Mobile,0
+Public Toilet,Other,0
+Construction Safety Enforcement,Other,29010
+Construction Safety Enforcement,Mobile,0
+Construction Safety Enforcement,Phone,0
+Construction Safety Enforcement,Web,0
 Standing Water,Phone,19239
 Standing Water,Web,8767
 Standing Water,Other,30
@@ -639,14 +695,6 @@ Cooling Tower,Web,107
 Cooling Tower,Phone,89
 Cooling Tower,Other,5
 Cooling Tower,Mobile,0
-Taxi Licensee Complaint,Phone,48
-Taxi Licensee Complaint,Other,3
-Taxi Licensee Complaint,Mobile,0
-Taxi Licensee Complaint,Web,0
-AHV Inspection Unit,Other,720
-AHV Inspection Unit,Mobile,0
-AHV Inspection Unit,Phone,0
-AHV Inspection Unit,Web,0
 Mosquitoes,Phone,3230
 Mosquitoes,Web,1445
 Mosquitoes,Other,9
@@ -663,26 +711,10 @@ Tunnel Condition,Phone,1
 Tunnel Condition,Mobile,0
 Tunnel Condition,Other,0
 Tunnel Condition,Web,0
-Poison Ivy,Phone,1427
-Poison Ivy,Web,625
-Poison Ivy,Other,3
-Poison Ivy,Mobile,0
 Borough Office,Other,8058
 Borough Office,Mobile,0
 Borough Office,Phone,0
 Borough Office,Web,0
-Highway Sign - Missing,Phone,159
-Highway Sign - Missing,Other,1
-Highway Sign - Missing,Mobile,0
-Highway Sign - Missing,Web,0
-Dept of Investigations,Other,163
-Dept of Investigations,Mobile,0
-Dept of Investigations,Phone,0
-Dept of Investigations,Web,0
-DEP Street Condition,Other,863
-DEP Street Condition,Phone,54
-DEP Street Condition,Mobile,0
-DEP Street Condition,Web,0
 Transfer Station Complaint,Phone,29
 Transfer Station Complaint,Other,3
 Transfer Station Complaint,Mobile,0
@@ -691,14 +723,6 @@ Unspecified,Mobile,0
 Unspecified,Other,0
 Unspecified,Phone,0
 Unspecified,Web,0
-Incorrect Data,Phone,311
-Incorrect Data,Mobile,0
-Incorrect Data,Other,0
-Incorrect Data,Web,0
-Radioactive Material,Phone,81
-Radioactive Material,Web,65
-Radioactive Material,Other,15
-Radioactive Material,Mobile,0
 Building Condition,Phone,47
 Building Condition,Web,34
 Building Condition,Other,2
@@ -707,34 +731,22 @@ DEP Sidewalk Condition,Phone,12
 DEP Sidewalk Condition,Other,7
 DEP Sidewalk Condition,Mobile,0
 DEP Sidewalk Condition,Web,0
-DEP Highway Condition,Phone,4
-DEP Highway Condition,Other,1
-DEP Highway Condition,Mobile,0
-DEP Highway Condition,Web,0
 Public Payphone Complaint,Phone,4779
 Public Payphone Complaint,Web,1479
 Public Payphone Complaint,Other,4
 Public Payphone Complaint,Mobile,0
+DEP Highway Condition,Phone,4
+DEP Highway Condition,Other,1
+DEP Highway Condition,Mobile,0
+DEP Highway Condition,Web,0
 DSNY Internal,Other,7
 DSNY Internal,Phone,5
 DSNY Internal,Mobile,0
 DSNY Internal,Web,0
-FHV Licensee Complaint,Other,41
-FHV Licensee Complaint,Phone,10
-FHV Licensee Complaint,Mobile,0
-FHV Licensee Complaint,Web,0
-Oil or Gas Spill,Phone,18
-Oil or Gas Spill,Other,1
-Oil or Gas Spill,Mobile,0
-Oil or Gas Spill,Web,0
 X-Ray Machine/Equipment,Web,154
 X-Ray Machine/Equipment,Phone,60
 X-Ray Machine/Equipment,Other,46
 X-Ray Machine/Equipment,Mobile,0
-Leaning Bar,Web,5
-Leaning Bar,Phone,1
-Leaning Bar,Mobile,0
-Leaning Bar,Other,0
 Peeling Paint,Phone,101
 Peeling Paint,Web,28
 Peeling Paint,Mobile,0
@@ -743,18 +755,10 @@ Pet Shop,Web,697
 Pet Shop,Phone,525
 Pet Shop,Other,7
 Pet Shop,Mobile,0
-Tanning,Phone,42
-Tanning,Web,12
-Tanning,Mobile,0
-Tanning,Other,0
 ASBESTOS,Mobile,0
 ASBESTOS,Other,0
 ASBESTOS,Phone,0
 ASBESTOS,Web,0
-Construction Safety Enforcement,Other,31099
-Construction Safety Enforcement,Mobile,0
-Construction Safety Enforcement,Phone,0
-Construction Safety Enforcement,Web,0
 SNW,Other,7
 SNW,Mobile,0
 SNW,Phone,0
@@ -763,10 +767,6 @@ Facade Insp Safety Pgm,Other,2
 Facade Insp Safety Pgm,Mobile,0
 Facade Insp Safety Pgm,Phone,0
 Facade Insp Safety Pgm,Web,0
-Special Operations,Other,315
-Special Operations,Mobile,0
-Special Operations,Phone,0
-Special Operations,Web,0
 Dispatched Taxi Complaint,Phone,67
 Dispatched Taxi Complaint,Other,21
 Dispatched Taxi Complaint,Mobile,0
@@ -779,7 +779,7 @@ Building Marshal's Office,Other,6
 Building Marshal's Office,Mobile,0
 Building Marshal's Office,Phone,0
 Building Marshal's Office,Web,0
-Adopt-A-Basket,Phone,2156
+Adopt-A-Basket,Phone,2160
 Adopt-A-Basket,Web,446
 Adopt-A-Basket,Mobile,0
 Adopt-A-Basket,Other,0
@@ -967,10 +967,6 @@ DEP Bridge Condition,Mobile,0
 DEP Bridge Condition,Other,0
 DEP Bridge Condition,Phone,0
 DEP Bridge Condition,Web,0
-Derelict Bicycle,Phone,8148
-Derelict Bicycle,Web,7459
-Derelict Bicycle,Mobile,187
-Derelict Bicycle,Other,8
 Dirty Conditions,Phone,228320
 Dirty Conditions,Web,130400
 Dirty Conditions,Other,29797
@@ -991,10 +987,6 @@ Overflowing Litter Baskets,Phone,11324
 Overflowing Litter Baskets,Web,4060
 Overflowing Litter Baskets,Mobile,84
 Overflowing Litter Baskets,Other,57
-Recycling Enforcement,Phone,5179
-Recycling Enforcement,Web,3991
-Recycling Enforcement,Mobile,34
-Recycling Enforcement,Other,1
 Sanitation Condition,Phone,299257
 Sanitation Condition,Web,31725
 Sanitation Condition,Mobile,30819
@@ -1003,18 +995,26 @@ Storm,Web,2505
 Storm,Phone,498
 Storm,Mobile,0
 Storm,Other,0
-Sweeping/Missed,Phone,8639
-Sweeping/Missed,Web,47
-Sweeping/Missed,Other,22
-Sweeping/Missed,Mobile,17
 Vacant Lot,Phone,17396
 Vacant Lot,Web,4031
 Vacant Lot,Mobile,403
 Vacant Lot,Other,111
+Derelict Bicycle,Phone,8148
+Derelict Bicycle,Web,7459
+Derelict Bicycle,Mobile,187
+Derelict Bicycle,Other,8
+Recycling Enforcement,Phone,5179
+Recycling Enforcement,Web,3991
+Recycling Enforcement,Mobile,34
+Recycling Enforcement,Other,1
 Sweeping/Inadequate,Phone,2363
 Sweeping/Inadequate,Web,37
 Sweeping/Inadequate,Other,9
 Sweeping/Inadequate,Mobile,7
+Sweeping/Missed,Phone,8639
+Sweeping/Missed,Web,47
+Sweeping/Missed,Other,22
+Sweeping/Missed,Mobile,17
 Overflowing Recycling Baskets,Phone,182
 Overflowing Recycling Baskets,Web,4
 Overflowing Recycling Baskets,Mobile,1
@@ -1135,18 +1135,6 @@ DOF Property - Owner Issue,Mobile,0
 DOF Property - Owner Issue,Other,0
 DOF Property - Owner Issue,Phone,0
 DOF Property - Owner Issue,Web,0
-DOF Property - Update Account,Mobile,0
-DOF Property - Update Account,Other,0
-DOF Property - Update Account,Phone,0
-DOF Property - Update Account,Web,0
-DPR Internal,Other,3027
-DPR Internal,Phone,1
-DPR Internal,Mobile,0
-DPR Internal,Web,0
-Derelict Vehicle,Phone,140492
-Derelict Vehicle,Web,38555
-Derelict Vehicle,Mobile,27149
-Derelict Vehicle,Other,5
 DOF Property - Property Value,Mobile,0
 DOF Property - Property Value,Other,0
 DOF Property - Property Value,Phone,0
@@ -1163,6 +1151,18 @@ DOF Property - Request Copy,Mobile,0
 DOF Property - Request Copy,Other,0
 DOF Property - Request Copy,Phone,0
 DOF Property - Request Copy,Web,0
+DOF Property - Update Account,Mobile,0
+DOF Property - Update Account,Other,0
+DOF Property - Update Account,Phone,0
+DOF Property - Update Account,Web,0
+DPR Internal,Other,3027
+DPR Internal,Phone,1
+DPR Internal,Mobile,0
+DPR Internal,Web,0
+Derelict Vehicle,Phone,140492
+Derelict Vehicle,Web,38555
+Derelict Vehicle,Mobile,27149
+Derelict Vehicle,Other,5
 Research Questions,Mobile,0
 Research Questions,Other,0
 Research Questions,Phone,0
@@ -1347,6 +1347,30 @@ ${3804*3137},Web,0
 @(9313*3464),Other,0
 @(9313*3464),Phone,0
 @(9313*3464),Web,0
+Advocate-Co-opCondo Abatement,Mobile,0
+Advocate-Co-opCondo Abatement,Other,0
+Advocate-Co-opCondo Abatement,Phone,0
+Advocate-Co-opCondo Abatement,Web,0
+Advocate-Prop Refunds/Credits,Mobile,0
+Advocate-Prop Refunds/Credits,Other,0
+Advocate-Prop Refunds/Credits,Phone,0
+Advocate-Prop Refunds/Credits,Web,0
+Advocate-Property Value,Mobile,0
+Advocate-Property Value,Other,0
+Advocate-Property Value,Phone,0
+Advocate-Property Value,Web,0
+DOF Parking - Request Copy,Mobile,0
+DOF Parking - Request Copy,Other,0
+DOF Parking - Request Copy,Phone,0
+DOF Parking - Request Copy,Web,0
+HPD Literature Request,Mobile,0
+HPD Literature Request,Other,0
+HPD Literature Request,Phone,0
+HPD Literature Request,Web,0
+Housing Options,Mobile,0
+Housing Options,Other,0
+Housing Options,Phone,0
+Housing Options,Web,0
 Misc. Comments  BCC:a5glxzf...,Mobile,0
 Misc. Comments  BCC:a5glxzf...,Other,0
 Misc. Comments  BCC:a5glxzf...,Phone,0
@@ -1615,38 +1639,6 @@ yw97y0gi2s,Web,0
 {!xmlparser v='&lt;!DOCTYPE...,Other,0
 {!xmlparser v='&lt;!DOCTYPE...,Phone,0
 {!xmlparser v='&lt;!DOCTYPE...,Web,0
-Advocate-Co-opCondo Abatement,Mobile,0
-Advocate-Co-opCondo Abatement,Other,0
-Advocate-Co-opCondo Abatement,Phone,0
-Advocate-Co-opCondo Abatement,Web,0
-Advocate-Prop Refunds/Credits,Mobile,0
-Advocate-Prop Refunds/Credits,Other,0
-Advocate-Prop Refunds/Credits,Phone,0
-Advocate-Prop Refunds/Credits,Web,0
-Advocate-Property Value,Mobile,0
-Advocate-Property Value,Other,0
-Advocate-Property Value,Phone,0
-Advocate-Property Value,Web,0
-DOF Parking - DMV Clearance,Mobile,0
-DOF Parking - DMV Clearance,Other,0
-DOF Parking - DMV Clearance,Phone,0
-DOF Parking - DMV Clearance,Web,0
-DOF Parking - Payment Issue,Phone,4
-DOF Parking - Payment Issue,Mobile,0
-DOF Parking - Payment Issue,Other,0
-DOF Parking - Payment Issue,Web,0
-DOF Parking - Request Copy,Mobile,0
-DOF Parking - Request Copy,Other,0
-DOF Parking - Request Copy,Phone,0
-DOF Parking - Request Copy,Web,0
-HPD Literature Request,Mobile,0
-HPD Literature Request,Other,0
-HPD Literature Request,Phone,0
-HPD Literature Request,Web,0
-Housing Options,Mobile,0
-Housing Options,Other,0
-Housing Options,Phone,0
-Housing Options,Web,0
 Advocate - Lien,Phone,13
 Advocate - Lien,Mobile,0
 Advocate - Lien,Other,0
@@ -1655,6 +1647,22 @@ Advocate-Personal Exemptions,Phone,1
 Advocate-Personal Exemptions,Mobile,0
 Advocate-Personal Exemptions,Other,0
 Advocate-Personal Exemptions,Web,0
+DOF Parking - DMV Clearance,Mobile,0
+DOF Parking - DMV Clearance,Other,0
+DOF Parking - DMV Clearance,Phone,0
+DOF Parking - DMV Clearance,Web,0
+DOF Parking - Payment Issue,Phone,4
+DOF Parking - Payment Issue,Mobile,0
+DOF Parking - Payment Issue,Other,0
+DOF Parking - Payment Issue,Web,0
+DOF Parking - Request Status,Mobile,0
+DOF Parking - Request Status,Other,0
+DOF Parking - Request Status,Phone,0
+DOF Parking - Request Status,Web,0
+SCRIE,Mobile,0
+SCRIE,Other,0
+SCRIE,Phone,0
+SCRIE,Web,0
 Alzheimer's Care,Mobile,0
 Alzheimer's Care,Other,0
 Alzheimer's Care,Phone,0
@@ -1663,38 +1671,30 @@ DCA / DOH New License Application Request,Mobile,0
 DCA / DOH New License Application Request,Other,0
 DCA / DOH New License Application Request,Phone,0
 DCA / DOH New License Application Request,Web,0
-DOF Parking - Request Status,Mobile,0
-DOF Parking - Request Status,Other,0
-DOF Parking - Request Status,Phone,0
-DOF Parking - Request Status,Web,0
-Home Care Provider Complaint,Mobile,0
-Home Care Provider Complaint,Other,0
-Home Care Provider Complaint,Phone,0
-Home Care Provider Complaint,Web,0
-SCRIE,Mobile,0
-SCRIE,Other,0
-SCRIE,Phone,0
-SCRIE,Web,0
-Taxpayer Advocate Inquiry,Phone,23
-Taxpayer Advocate Inquiry,Mobile,0
-Taxpayer Advocate Inquiry,Other,0
-Taxpayer Advocate Inquiry,Web,0
 DOF Parking - Tax Exemption,Mobile,0
 DOF Parking - Tax Exemption,Other,0
 DOF Parking - Tax Exemption,Phone,0
 DOF Parking - Tax Exemption,Web,0
+Home Care Provider Complaint,Mobile,0
+Home Care Provider Complaint,Other,0
+Home Care Provider Complaint,Phone,0
+Home Care Provider Complaint,Web,0
 OEM Literature Request,Mobile,0
 OEM Literature Request,Other,0
 OEM Literature Request,Phone,0
 OEM Literature Request,Web,0
-Elder Abuse,Mobile,0
-Elder Abuse,Other,0
-Elder Abuse,Phone,0
-Elder Abuse,Web,0
+Taxpayer Advocate Inquiry,Phone,23
+Taxpayer Advocate Inquiry,Mobile,0
+Taxpayer Advocate Inquiry,Other,0
+Taxpayer Advocate Inquiry,Web,0
 Housing - Low Income Senior,Mobile,0
 Housing - Low Income Senior,Other,0
 Housing - Low Income Senior,Phone,0
 Housing - Low Income Senior,Web,0
+Elder Abuse,Mobile,0
+Elder Abuse,Other,0
+Elder Abuse,Phone,0
+Elder Abuse,Web,0
 Senior Center Complaint,Phone,2532
 Senior Center Complaint,Web,93
 Senior Center Complaint,Mobile,0
@@ -1767,14 +1767,14 @@ Fire Alarm - New System,Web,9
 Fire Alarm - New System,Mobile,0
 Fire Alarm - New System,Other,0
 Fire Alarm - New System,Phone,0
-Fire Alarm - Reinspection,Web,16
-Fire Alarm - Reinspection,Mobile,0
-Fire Alarm - Reinspection,Other,0
-Fire Alarm - Reinspection,Phone,0
 Public Assembly,Web,11
 Public Assembly,Mobile,0
 Public Assembly,Other,0
 Public Assembly,Phone,0
+Fire Alarm - Reinspection,Web,16
+Fire Alarm - Reinspection,Mobile,0
+Fire Alarm - Reinspection,Other,0
+Fire Alarm - Reinspection,Phone,0
 Hazmat Storage/Use,Web,2
 Hazmat Storage/Use,Mobile,0
 Hazmat Storage/Use,Other,0
@@ -1915,6 +1915,10 @@ Meals Home Delivery Required,Mobile,0
 Meals Home Delivery Required,Other,0
 Meals Home Delivery Required,Phone,0
 Meals Home Delivery Required,Web,0
+NONCONST,Other,166242
+NONCONST,Phone,93715
+NONCONST,Web,45
+NONCONST,Mobile,0
 CONSTRUCTION,Other,3215
 CONSTRUCTION,Phone,1829
 CONSTRUCTION,Mobile,0
@@ -1923,10 +1927,6 @@ HEATING,Other,463965
 HEATING,Phone,232652
 HEATING,Web,179442
 HEATING,Mobile,0
-NONCONST,Other,166242
-NONCONST,Phone,93715
-NONCONST,Web,45
-NONCONST,Mobile,0
 GENERAL CONSTRUCTION,Other,318735
 GENERAL CONSTRUCTION,Phone,179894
 GENERAL CONSTRUCTION,Web,81

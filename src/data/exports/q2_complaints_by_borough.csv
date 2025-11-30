@@ -24,10 +24,10 @@ Bronx,Derelict Vehicles,76796
 Bronx,Request Large Bulky Item Collection,69313
 Bronx,APPLIANCE,68745
 Bronx,Noise - Commercial,68519
-Bronx,Elevator,63411
+Bronx,Elevator,63412
 Bronx,Dirty Conditions,58990
 Bronx,Sewer,53220
-Bronx,General Construction/Plumbing,53116
+Bronx,General Construction/Plumbing,53117
 Bronx,NONCONST,50416
 Bronx,Noise,47772
 Bronx,Sanitation Condition,45276
@@ -103,9 +103,9 @@ Bronx,Litter Basket / Request,3107
 Bronx,Special Projects Inspection Team (SPIT),2869
 Bronx,OUTSIDE BUILDING,2756
 Bronx,Non-Residential Heat,2633
-Bronx,Construction Safety Enforcement,2618
 Bronx,Indoor Sewage,2455
 Bronx,Animal in a Park,2412
+Bronx,Construction Safety Enforcement,2386
 Bronx,Bus Stop Shelter Complaint,2344
 Bronx,Homeless Encampment,2191
 Bronx,Vendor Enforcement,2171
@@ -251,8 +251,8 @@ Bronx,Cooling Tower,14
 Bronx,Bike Rack,12
 Bronx,Taxi Compliment,12
 Bronx,Legal Services Provider Complaint,11
-Bronx,Green Taxi Report,10
 Bronx,Tanning,10
+Bronx,Green Taxi Report,10
 Bronx,Unlicensed Dog,10
 Bronx,Squeegee,9
 Bronx,Building Condition,9
@@ -298,9 +298,9 @@ Bronx,Trapping Pigeon,1
 Bronx,SG-99,1
 Bronx,Bike/Roller/Skate,0
 Bronx,Cannabis Retailer,0
-Bronx,Ferry Complaint,0
 Bronx,Ferry Inquiry,0
 Bronx,Pet Sale,0
+Bronx,Ferry Complaint,0
 Bronx,Tunnel Condition,0
 Bronx,Unspecified,0
 Bronx,DEP Highway Condition,0
@@ -326,10 +326,10 @@ Bronx,Question,0
 Bronx,Advocate - Other,0
 Bronx,Benefit Card Replacement,0
 Bronx,DOF Property - Owner Issue,0
-Bronx,DOF Property - Update Account,0
 Bronx,DOF Property - Property Value,0
 Bronx,DOF Property - RPIE Issue,0
 Bronx,DOF Property - Request Copy,0
+Bronx,DOF Property - Update Account,0
 Bronx,Research Questions,0
 Bronx,MSOTHER,0
 Bronx,$(sleep 11),0
@@ -376,6 +376,12 @@ Bronx,/etc/passwd,0
 Bronx,1430*4963,0
 Bronx,266dyrgvhg1egsyp2oq57axbm2s...,0
 Bronx,@(9313*3464),0
+Bronx,Advocate-Co-opCondo Abatement,0
+Bronx,Advocate-Prop Refunds/Credits,0
+Bronx,Advocate-Property Value,0
+Bronx,DOF Parking - Request Copy,0
+Bronx,HPD Literature Request,0
+Bronx,Housing Options,0
 Bronx,Misc. Comments  BCC:a5glxzf...,0
 Bronx,Misc. Comments%}dt2pq'/&quo...,0
 Bronx,Misc. Comments&amp;echo xjd...,0
@@ -443,23 +449,17 @@ Bronx,nslookup -q=cname nneyfcxgy...,0
 Bronx,qfix4${695*589}lixaf,0
 Bronx,yw97y0gi2s,0
 Bronx,{!xmlparser v='&lt;!DOCTYPE...,0
-Bronx,Advocate-Co-opCondo Abatement,0
-Bronx,Advocate-Prop Refunds/Credits,0
-Bronx,Advocate-Property Value,0
-Bronx,DOF Parking - DMV Clearance,0
-Bronx,DOF Parking - Request Copy,0
-Bronx,HPD Literature Request,0
-Bronx,Housing Options,0
 Bronx,Advocate-Personal Exemptions,0
+Bronx,DOF Parking - DMV Clearance,0
+Bronx,DOF Parking - Request Status,0
+Bronx,SCRIE,0
 Bronx,Alzheimer's Care,0
 Bronx,DCA / DOH New License Application Request,0
-Bronx,DOF Parking - Request Status,0
-Bronx,Home Care Provider Complaint,0
-Bronx,SCRIE,0
 Bronx,DOF Parking - Tax Exemption,0
+Bronx,Home Care Provider Complaint,0
 Bronx,OEM Literature Request,0
-Bronx,Elder Abuse,0
 Bronx,Housing - Low Income Senior,0
+Bronx,Elder Abuse,0
 Bronx,Case Management Agency Complaint,0
 Bronx,Advocate-SCRIE/DRIE,0
 Bronx,Bereavement Support Group,0
@@ -579,7 +579,7 @@ Brooklyn,Emergency Response Team (ERT),19205
 Brooklyn,Broken Parking Meter,18678
 Brooklyn,Traffic,17800
 Brooklyn,Electrical,16324
-Brooklyn,Special Projects Inspection Team (SPIT),15912
+Brooklyn,Special Projects Inspection Team (SPIT),15913
 Brooklyn,Illegal Tree Damage,15267
 Brooklyn,Animal Abuse,15232
 Brooklyn,Water Conservation,15112
@@ -591,11 +591,11 @@ Brooklyn,Street Sign - Dangling,11808
 Brooklyn,Litter Basket / Request,11671
 Brooklyn,Dead Animal,11618
 Brooklyn,Residential Disposal Complaint,11567
-Brooklyn,Construction Safety Enforcement,11009
 Brooklyn,Hazardous Materials,10709
 Brooklyn,Food Poisoning,10419
 Brooklyn,Smoking,10363
 Brooklyn,Real Time Enforcement,10115
+Brooklyn,Construction Safety Enforcement,10087
 Brooklyn,Unsanitary Animal Pvt Property,9745
 Brooklyn,Boilers,9646
 Brooklyn,Animal in a Park,9595
@@ -650,7 +650,7 @@ Brooklyn,Urinating in Public,2551
 Brooklyn,Sustainability Enforcement,2398
 Brooklyn,Unsanitary Condition,2265
 Brooklyn,Commercial Disposal Complaint,2221
-Brooklyn,Lot Condition,2156
+Brooklyn,Lot Condition,2157
 Brooklyn,Dumpster Complaint,2064
 Brooklyn,Vaccine Mandate Non-Compliance,1707
 Brooklyn,Plant,1671
@@ -745,13 +745,13 @@ Brooklyn,Water Drainage,40
 Brooklyn,Health,39
 Brooklyn,Transportation Provider Complaint,37
 Brooklyn,ATF,37
-Brooklyn,Taxi Compliment,34
 Brooklyn,Radioactive Material,34
+Brooklyn,Taxi Compliment,34
 Brooklyn,Unstable Building,34
 Brooklyn,Cooling Tower,33
 Brooklyn,Overflowing Recycling Baskets,33
-Brooklyn,Green Taxi Report,32
 Brooklyn,Dept of Investigations,32
+Brooklyn,Green Taxi Report,32
 Brooklyn,Building Drinking Water Tank,30
 Brooklyn,X-Ray Machine/Equipment,29
 Brooklyn,Calorie Labeling,25
@@ -788,8 +788,8 @@ Brooklyn,Advocate-Commercial Exemptions,4
 Brooklyn,STRUCTURAL,4
 Brooklyn,No Child Left Behind,4
 Brooklyn,Ferry Inquiry,3
-Brooklyn,DSNY Internal,3
 Brooklyn,Oil or Gas Spill,3
+Brooklyn,DSNY Internal,3
 Brooklyn,Building Marshal's Office,3
 Brooklyn,Outside Building,3
 Brooklyn,SRDE,3
@@ -798,8 +798,8 @@ Brooklyn,Tobacco or Non-Tobacco Sale,2
 Brooklyn,Wayfinding,2
 Brooklyn,Fire Alarm - Reinspection,2
 Brooklyn,Hazmat Storage/Use,2
-Brooklyn,DEP Highway Condition,1
 Brooklyn,Leaning Bar,1
+Brooklyn,DEP Highway Condition,1
 Brooklyn,Facade Insp Safety Pgm,1
 Brooklyn,DOB Posted Notice or Order,1
 Brooklyn,MOLD,1
@@ -819,8 +819,8 @@ Brooklyn,Standpipe - Mechanical,1
 Brooklyn,Hazardous Material,1
 Brooklyn,Bike/Roller/Skate,0
 Brooklyn,Cannabis Retailer,0
-Brooklyn,Ferry Complaint,0
 Brooklyn,Pet Sale,0
+Brooklyn,Ferry Complaint,0
 Brooklyn,Tunnel Condition,0
 Brooklyn,Unspecified,0
 Brooklyn,ASBESTOS,0
@@ -837,10 +837,10 @@ Brooklyn,Question,0
 Brooklyn,Advocate - Other,0
 Brooklyn,Benefit Card Replacement,0
 Brooklyn,DOF Property - Owner Issue,0
-Brooklyn,DOF Property - Update Account,0
 Brooklyn,DOF Property - Property Value,0
 Brooklyn,DOF Property - RPIE Issue,0
 Brooklyn,DOF Property - Request Copy,0
+Brooklyn,DOF Property - Update Account,0
 Brooklyn,Research Questions,0
 Brooklyn,MSOTHER,0
 Brooklyn,$(sleep 11),0
@@ -887,6 +887,12 @@ Brooklyn,/etc/passwd,0
 Brooklyn,1430*4963,0
 Brooklyn,266dyrgvhg1egsyp2oq57axbm2s...,0
 Brooklyn,@(9313*3464),0
+Brooklyn,Advocate-Co-opCondo Abatement,0
+Brooklyn,Advocate-Prop Refunds/Credits,0
+Brooklyn,Advocate-Property Value,0
+Brooklyn,DOF Parking - Request Copy,0
+Brooklyn,HPD Literature Request,0
+Brooklyn,Housing Options,0
 Brooklyn,Misc. Comments  BCC:a5glxzf...,0
 Brooklyn,Misc. Comments%}dt2pq'/&quo...,0
 Brooklyn,Misc. Comments&amp;echo xjd...,0
@@ -954,24 +960,18 @@ Brooklyn,nslookup -q=cname nneyfcxgy...,0
 Brooklyn,qfix4${695*589}lixaf,0
 Brooklyn,yw97y0gi2s,0
 Brooklyn,{!xmlparser v='&lt;!DOCTYPE...,0
-Brooklyn,Advocate-Co-opCondo Abatement,0
-Brooklyn,Advocate-Prop Refunds/Credits,0
-Brooklyn,Advocate-Property Value,0
+Brooklyn,Advocate-Personal Exemptions,0
 Brooklyn,DOF Parking - DMV Clearance,0
 Brooklyn,DOF Parking - Payment Issue,0
-Brooklyn,DOF Parking - Request Copy,0
-Brooklyn,HPD Literature Request,0
-Brooklyn,Housing Options,0
-Brooklyn,Advocate-Personal Exemptions,0
+Brooklyn,DOF Parking - Request Status,0
+Brooklyn,SCRIE,0
 Brooklyn,Alzheimer's Care,0
 Brooklyn,DCA / DOH New License Application Request,0
-Brooklyn,DOF Parking - Request Status,0
-Brooklyn,Home Care Provider Complaint,0
-Brooklyn,SCRIE,0
 Brooklyn,DOF Parking - Tax Exemption,0
+Brooklyn,Home Care Provider Complaint,0
 Brooklyn,OEM Literature Request,0
-Brooklyn,Elder Abuse,0
 Brooklyn,Housing - Low Income Senior,0
+Brooklyn,Elder Abuse,0
 Brooklyn,Case Management Agency Complaint,0
 Brooklyn,Advocate-SCRIE/DRIE,0
 Brooklyn,Bereavement Support Group,0
@@ -1089,8 +1089,8 @@ Manhattan,Smoking,11553
 Manhattan,Curb Condition,11324
 Manhattan,Mobile Food Vendor,11053
 Manhattan,Obstruction,10741
-Manhattan,Construction Safety Enforcement,10355
 Manhattan,Homeless Street Condition,9914
+Manhattan,Construction Safety Enforcement,9856
 Manhattan,Taxi Report,9779
 Manhattan,Violation of Park Rules,9744
 Manhattan,Electrical,9445
@@ -1177,7 +1177,7 @@ Manhattan,Illegal Posting,754
 Manhattan,Bus Stop Shelter Placement,744
 Manhattan,Lot Condition,730
 Manhattan,LinkNYC,709
-Manhattan,Adopt-A-Basket,679
+Manhattan,Adopt-A-Basket,681
 Manhattan,City Vehicle Placard Complaint,637
 Manhattan,CONSTRUCTION,618
 Manhattan,Sweeping/Missed-Inadequate,603
@@ -1219,8 +1219,8 @@ Manhattan,Snow Removal,118
 Manhattan,Calorie Labeling,117
 Manhattan,Request Xmas Tree Collection,116
 Manhattan,Appliance,104
-Manhattan,Lifeguard,97
 Manhattan,Special Operations,97
+Manhattan,Lifeguard,97
 Manhattan,Wood Pile Remaining,82
 Manhattan,Overflowing Recycling Baskets,78
 Manhattan,Uprooted Stump,77
@@ -1245,8 +1245,8 @@ Manhattan,Highway Sign - Damaged,41
 Manhattan,Summer Camp,40
 Manhattan,Transportation Provider Complaint,34
 Manhattan,Legal Services Provider Complaint,32
-Manhattan,Green Taxi Report,31
 Manhattan,Highway Sign - Missing,31
+Manhattan,Green Taxi Report,31
 Manhattan,Electric,31
 Manhattan,Water Maintenance,31
 Manhattan,ZTESTINT,31
@@ -1277,8 +1277,8 @@ Manhattan,Ferry Complaint,8
 Manhattan,Special Natural Area District (SNAD),8
 Manhattan,Parent Leadership,8
 Manhattan,Ferry Inquiry,6
-Manhattan,Wayfinding,6
 Manhattan,Oil or Gas Spill,6
+Manhattan,Wayfinding,6
 Manhattan,Private School Vaccine Mandate Non-Compliance,6
 Manhattan,Single Occupancy Bathroom,6
 Manhattan,VACANT APARTMENT,6
@@ -1302,15 +1302,15 @@ Manhattan,Advocate-Commercial Exemptions,2
 Manhattan,AGENCY,2
 Manhattan,Homebound Evacuation 4,2
 Manhattan,No Child Left Behind,2
+Manhattan,Leaning Bar,1
 Manhattan,Tobacco or Non-Tobacco Sale,1
 Manhattan,Tunnel Condition,1
 Manhattan,Transfer Station Complaint,1
 Manhattan,DEP Highway Condition,1
-Manhattan,Leaning Bar,1
 Manhattan,Employee Behavior,1
 Manhattan,Benefit Card Replacement,1
-Manhattan,DOF Parking - Payment Issue,1
 Manhattan,Advocate - Lien,1
+Manhattan,DOF Parking - Payment Issue,1
 Manhattan,Gas Station Discharge Lines,1
 Manhattan,Public Assembly - Temporary,1
 Manhattan,Open Flame Permit,1
@@ -1347,10 +1347,10 @@ Manhattan,Forms,0
 Manhattan,Question,0
 Manhattan,Advocate - Other,0
 Manhattan,DOF Property - Owner Issue,0
-Manhattan,DOF Property - Update Account,0
 Manhattan,DOF Property - Property Value,0
 Manhattan,DOF Property - RPIE Issue,0
 Manhattan,DOF Property - Request Copy,0
+Manhattan,DOF Property - Update Account,0
 Manhattan,Research Questions,0
 Manhattan,MSOTHER,0
 Manhattan,$(sleep 11),0
@@ -1397,6 +1397,12 @@ Manhattan,/etc/passwd,0
 Manhattan,1430*4963,0
 Manhattan,266dyrgvhg1egsyp2oq57axbm2s...,0
 Manhattan,@(9313*3464),0
+Manhattan,Advocate-Co-opCondo Abatement,0
+Manhattan,Advocate-Prop Refunds/Credits,0
+Manhattan,Advocate-Property Value,0
+Manhattan,DOF Parking - Request Copy,0
+Manhattan,HPD Literature Request,0
+Manhattan,Housing Options,0
 Manhattan,Misc. Comments  BCC:a5glxzf...,0
 Manhattan,Misc. Comments%}dt2pq'/&quo...,0
 Manhattan,Misc. Comments&amp;echo xjd...,0
@@ -1464,23 +1470,17 @@ Manhattan,nslookup -q=cname nneyfcxgy...,0
 Manhattan,qfix4${695*589}lixaf,0
 Manhattan,yw97y0gi2s,0
 Manhattan,{!xmlparser v='&lt;!DOCTYPE...,0
-Manhattan,Advocate-Co-opCondo Abatement,0
-Manhattan,Advocate-Prop Refunds/Credits,0
-Manhattan,Advocate-Property Value,0
-Manhattan,DOF Parking - DMV Clearance,0
-Manhattan,DOF Parking - Request Copy,0
-Manhattan,HPD Literature Request,0
-Manhattan,Housing Options,0
 Manhattan,Advocate-Personal Exemptions,0
+Manhattan,DOF Parking - DMV Clearance,0
+Manhattan,DOF Parking - Request Status,0
+Manhattan,SCRIE,0
 Manhattan,Alzheimer's Care,0
 Manhattan,DCA / DOH New License Application Request,0
-Manhattan,DOF Parking - Request Status,0
-Manhattan,Home Care Provider Complaint,0
-Manhattan,SCRIE,0
 Manhattan,DOF Parking - Tax Exemption,0
+Manhattan,Home Care Provider Complaint,0
 Manhattan,OEM Literature Request,0
-Manhattan,Elder Abuse,0
 Manhattan,Housing - Low Income Senior,0
+Manhattan,Elder Abuse,0
 Manhattan,Case Management Agency Complaint,0
 Manhattan,Advocate-SCRIE/DRIE,0
 Manhattan,Bereavement Support Group,0
@@ -1523,14 +1523,14 @@ Queens,HEAT/HOT WATER,315703
 Queens,Street Light Condition,256043
 Queens,Water System,249833
 Queens,Damaged Tree,205074
-Queens,Sewer,199066
-Queens,Building/Use,165356
+Queens,Sewer,199067
+Queens,Building/Use,165357
 Queens,Noise - Street/Sidewalk,155984
 Queens,Traffic Signal Condition,136742
 Queens,Derelict Vehicles,135321
 Queens,Noise,130444
 Queens,UNSANITARY CONDITION,130242
-Queens,General Construction/Plumbing,128726
+Queens,General Construction/Plumbing,128727
 Queens,Noise - Vehicle,126989
 Queens,Abandoned Vehicle,126720
 Queens,Dirty Conditions,123616
@@ -1614,10 +1614,10 @@ Queens,Violation of Park Rules,6671
 Queens,Smoking,6265
 Queens,Noise - House of Worship,6233
 Queens,BEST/Site Safety,6220
-Queens,Construction Safety Enforcement,6189
 Queens,Litter Basket / Request,6158
 Queens,Boilers,6012
 Queens,Vacant Lot,5865
+Queens,Construction Safety Enforcement,5828
 Queens,Industrial Waste,5420
 Queens,Asbestos,5411
 Queens,Miscellaneous Categories,5301
@@ -1790,8 +1790,8 @@ Queens,Advocate - Lien,6
 Queens,DEP Sidewalk Condition,4
 Queens,DSNY Internal,4
 Queens,STRUCTURAL,4
-Queens,Wayfinding,3
 Queens,Oil or Gas Spill,3
+Queens,Wayfinding,3
 Queens,Outside Building,3
 Queens,SRDE,3
 Queens,SRGOVG,3
@@ -1825,9 +1825,9 @@ Queens,Bike/Roller/Skate,0
 Queens,Cannabis Retailer,0
 Queens,Ferry Inquiry,0
 Queens,Pet Sale,0
+Queens,Leaning Bar,0
 Queens,Tunnel Condition,0
 Queens,Unspecified,0
-Queens,Leaning Bar,0
 Queens,ASBESTOS,0
 Queens,SNW,0
 Queens,Facade Insp Safety Pgm,0
@@ -1848,10 +1848,10 @@ Queens,Question,0
 Queens,Advocate - Other,0
 Queens,Benefit Card Replacement,0
 Queens,DOF Property - Owner Issue,0
-Queens,DOF Property - Update Account,0
 Queens,DOF Property - Property Value,0
 Queens,DOF Property - RPIE Issue,0
 Queens,DOF Property - Request Copy,0
+Queens,DOF Property - Update Account,0
 Queens,Research Questions,0
 Queens,$(sleep 11),0
 Queens,${3804*3137},0
@@ -1897,6 +1897,12 @@ Queens,/etc/passwd,0
 Queens,1430*4963,0
 Queens,266dyrgvhg1egsyp2oq57axbm2s...,0
 Queens,@(9313*3464),0
+Queens,Advocate-Co-opCondo Abatement,0
+Queens,Advocate-Prop Refunds/Credits,0
+Queens,Advocate-Property Value,0
+Queens,DOF Parking - Request Copy,0
+Queens,HPD Literature Request,0
+Queens,Housing Options,0
 Queens,Misc. Comments  BCC:a5glxzf...,0
 Queens,Misc. Comments%}dt2pq'/&quo...,0
 Queens,Misc. Comments&amp;echo xjd...,0
@@ -1964,22 +1970,16 @@ Queens,nslookup -q=cname nneyfcxgy...,0
 Queens,qfix4${695*589}lixaf,0
 Queens,yw97y0gi2s,0
 Queens,{!xmlparser v='&lt;!DOCTYPE...,0
-Queens,Advocate-Co-opCondo Abatement,0
-Queens,Advocate-Prop Refunds/Credits,0
-Queens,Advocate-Property Value,0
 Queens,DOF Parking - DMV Clearance,0
-Queens,DOF Parking - Request Copy,0
-Queens,HPD Literature Request,0
-Queens,Housing Options,0
+Queens,DOF Parking - Request Status,0
+Queens,SCRIE,0
 Queens,Alzheimer's Care,0
 Queens,DCA / DOH New License Application Request,0
-Queens,DOF Parking - Request Status,0
-Queens,Home Care Provider Complaint,0
-Queens,SCRIE,0
 Queens,DOF Parking - Tax Exemption,0
+Queens,Home Care Provider Complaint,0
 Queens,OEM Literature Request,0
-Queens,Elder Abuse,0
 Queens,Housing - Low Income Senior,0
+Queens,Elder Abuse,0
 Queens,Case Management Agency Complaint,0
 Queens,Advocate-SCRIE/DRIE,0
 Queens,Bereavement Support Group,0
@@ -2034,7 +2034,7 @@ Staten Island,Dirty Conditions,33314
 Staten Island,Sanitation Condition,33296
 Staten Island,Sidewalk Condition,31531
 Staten Island,Overgrown Tree/Branches,31467
-Staten Island,General Construction/Plumbing,28856
+Staten Island,General Construction/Plumbing,28858
 Staten Island,Missed Collection,28310
 Staten Island,Traffic Signal Condition,27549
 Staten Island,HEAT/HOT WATER,24854
@@ -2128,9 +2128,9 @@ Staten Island,Asbestos,991
 Staten Island,Noise - Helicopter,980
 Staten Island,Drug Activity,945
 Staten Island,Noise - Park,935
-Staten Island,Construction Safety Enforcement,928
 Staten Island,Snow Removal,923
 Staten Island,Violation of Park Rules,916
+Staten Island,Construction Safety Enforcement,853
 Staten Island,Panhandling,852
 Staten Island,Investigations and Discipline (IAD),845
 Staten Island,Indoor Sewage,801
@@ -2150,8 +2150,8 @@ Staten Island,Dumpster Complaint,559
 Staten Island,Harboring Bees/Wasps,542
 Staten Island,Miscellaneous Categories,529
 Staten Island,Homeless Encampment,500
-Staten Island,Disorderly Youth,498
 Staten Island,Mold,498
+Staten Island,Disorderly Youth,498
 Staten Island,Beach/Pool/Sauna Complaint,478
 Staten Island,Mosquitoes,477
 Staten Island,Storm,476
@@ -2176,7 +2176,7 @@ Staten Island,Mobile Food Vendor,232
 Staten Island,Homeless Street Condition,219
 Staten Island,Real Time Enforcement,206
 Staten Island,Noise - House of Worship,199
-Staten Island,Adopt-A-Basket,196
+Staten Island,Adopt-A-Basket,198
 Staten Island,Building Marshals office,196
 Staten Island,Outdoor Dining,178
 Staten Island,Plant,175
@@ -2237,11 +2237,11 @@ Staten Island,Construction,17
 Staten Island,Lost Property,16
 Staten Island,Water Maintenance,16
 Staten Island,Health,16
-Staten Island,Calorie Labeling,15
-Staten Island,Recycling Basket Complaint,15
-Staten Island,Public Toilet,15
 Staten Island,Highway Sign - Missing,15
+Staten Island,Recycling Basket Complaint,15
 Staten Island,Radioactive Material,15
+Staten Island,Calorie Labeling,15
+Staten Island,Public Toilet,15
 Staten Island,Executive Inspections,15
 Staten Island,SRDE,15
 Staten Island,Summer Camp,15
@@ -2250,9 +2250,9 @@ Staten Island,DEP Street Condition,14
 Staten Island,Appliance,14
 Staten Island,LinkNYC,13
 Staten Island,Ferry Inquiry,12
+Staten Island,Special Operations,12
 Staten Island,Lifeguard,12
 Staten Island,Peeling Paint,12
-Staten Island,Special Operations,12
 Staten Island,Tanning,11
 Staten Island,Flooring/Stairs,11
 Staten Island,Literature Request,11
@@ -2272,9 +2272,9 @@ Staten Island,Bottled Water,5
 Staten Island,Oil or Gas Spill,4
 Staten Island,No Child Left Behind,4
 Staten Island,Building Drinking Water Tank,3
-Staten Island,Cooling Tower,3
 Staten Island,AHV Inspection Unit,3
 Staten Island,FHV Licensee Complaint,3
+Staten Island,Cooling Tower,3
 Staten Island,Trans Fat,3
 Staten Island,Internal Code,3
 Staten Island,Private School Vaccine Mandate Non-Compliance,3
@@ -2287,8 +2287,8 @@ Staten Island,DSNY Spillage,2
 Staten Island,Advocate-Commercial Exemptions,2
 Staten Island,Transportation Provider Complaint,2
 Staten Island,Advocate-Business Tax,2
-Staten Island,Green Taxi Report,1
 Staten Island,Tobacco or Non-Tobacco Sale,1
+Staten Island,Green Taxi Report,1
 Staten Island,Squeegee,1
 Staten Island,Transfer Station Complaint,1
 Staten Island,DEP Highway Condition,1
@@ -2302,19 +2302,19 @@ Staten Island,Advocate - Levy,1
 Staten Island,STRUCTURAL,1
 Staten Island,Standpipe - Mechanical,1
 Staten Island,Parent Leadership,1
-Staten Island,Bench,0
 Staten Island,Bike Rack,0
 Staten Island,Bike/Roller/Skate,0
 Staten Island,Cannabis Retailer,0
 Staten Island,E-Scooter,0
 Staten Island,Pet Sale,0
+Staten Island,Bench,0
+Staten Island,Leaning Bar,0
 Staten Island,Wayfinding,0
 Staten Island,Taxi Licensee Complaint,0
 Staten Island,Tunnel Condition,0
 Staten Island,Unspecified,0
 Staten Island,Building Condition,0
 Staten Island,DEP Sidewalk Condition,0
-Staten Island,Leaning Bar,0
 Staten Island,ASBESTOS,0
 Staten Island,SNW,0
 Staten Island,Facade Insp Safety Pgm,0
@@ -2337,11 +2337,11 @@ Staten Island,Forms,0
 Staten Island,Question,0
 Staten Island,Benefit Card Replacement,0
 Staten Island,DOF Property - Owner Issue,0
-Staten Island,DOF Property - Update Account,0
 Staten Island,DOF Property - Property Value,0
 Staten Island,DOF Property - RPIE Issue,0
 Staten Island,DOF Property - Reduction Issue,0
 Staten Island,DOF Property - Request Copy,0
+Staten Island,DOF Property - Update Account,0
 Staten Island,Research Questions,0
 Staten Island,MSOTHER,0
 Staten Island,$(sleep 11),0
@@ -2388,6 +2388,12 @@ Staten Island,/etc/passwd,0
 Staten Island,1430*4963,0
 Staten Island,266dyrgvhg1egsyp2oq57axbm2s...,0
 Staten Island,@(9313*3464),0
+Staten Island,Advocate-Co-opCondo Abatement,0
+Staten Island,Advocate-Prop Refunds/Credits,0
+Staten Island,Advocate-Property Value,0
+Staten Island,DOF Parking - Request Copy,0
+Staten Island,HPD Literature Request,0
+Staten Island,Housing Options,0
 Staten Island,Misc. Comments  BCC:a5glxzf...,0
 Staten Island,Misc. Comments%}dt2pq'/&quo...,0
 Staten Island,Misc. Comments&amp;echo xjd...,0
@@ -2455,26 +2461,20 @@ Staten Island,nslookup -q=cname nneyfcxgy...,0
 Staten Island,qfix4${695*589}lixaf,0
 Staten Island,yw97y0gi2s,0
 Staten Island,{!xmlparser v='&lt;!DOCTYPE...,0
-Staten Island,Advocate-Co-opCondo Abatement,0
-Staten Island,Advocate-Prop Refunds/Credits,0
-Staten Island,Advocate-Property Value,0
-Staten Island,DOF Parking - DMV Clearance,0
-Staten Island,DOF Parking - Payment Issue,0
-Staten Island,DOF Parking - Request Copy,0
-Staten Island,HPD Literature Request,0
-Staten Island,Housing Options,0
 Staten Island,Advocate - Lien,0
 Staten Island,Advocate-Personal Exemptions,0
+Staten Island,DOF Parking - DMV Clearance,0
+Staten Island,DOF Parking - Payment Issue,0
+Staten Island,DOF Parking - Request Status,0
+Staten Island,SCRIE,0
 Staten Island,Alzheimer's Care,0
 Staten Island,DCA / DOH New License Application Request,0
-Staten Island,DOF Parking - Request Status,0
-Staten Island,Home Care Provider Complaint,0
-Staten Island,SCRIE,0
-Staten Island,Taxpayer Advocate Inquiry,0
 Staten Island,DOF Parking - Tax Exemption,0
+Staten Island,Home Care Provider Complaint,0
 Staten Island,OEM Literature Request,0
-Staten Island,Elder Abuse,0
+Staten Island,Taxpayer Advocate Inquiry,0
 Staten Island,Housing - Low Income Senior,0
+Staten Island,Elder Abuse,0
 Staten Island,Case Management Agency Complaint,0
 Staten Island,Advocate-SCRIE/DRIE,0
 Staten Island,Bereavement Support Group,0
@@ -2485,8 +2485,8 @@ Staten Island,Select Message Type...,0
 Staten Island,Parking Card,0
 Staten Island,AGENCY,0
 Staten Island,Fire Alarm - New System,0
-Staten Island,Fire Alarm - Reinspection,0
 Staten Island,Public Assembly,0
+Staten Island,Fire Alarm - Reinspection,0
 Staten Island,Hazmat Storage/Use,0
 Staten Island,Sprinkler - Mechanical,0
 Staten Island,Fire Alarm - Modification,0
@@ -2609,11 +2609,10 @@ UNSPECIFIED,Noise - Park,5
 UNSPECIFIED,Unsanitary Condition,5
 UNSPECIFIED,NonCompliance with Phased Reopening,5
 UNSPECIFIED,Bus Stop Shelter Complaint,4
-UNSPECIFIED,Ferry Complaint,4
 UNSPECIFIED,Ferry Inquiry,4
-UNSPECIFIED,Lot Condition,4
 UNSPECIFIED,Mobile Food Vendor,4
 UNSPECIFIED,Outdoor Dining,4
+UNSPECIFIED,Ferry Complaint,4
 UNSPECIFIED,Standing Water,4
 UNSPECIFIED,Paint/Plaster,4
 UNSPECIFIED,Water Maintenance,4
@@ -2624,17 +2623,18 @@ UNSPECIFIED,Noise - House of Worship,3
 UNSPECIFIED,Plumbing,3
 UNSPECIFIED,Root/Sewer/Sidewalk Condition,3
 UNSPECIFIED,Taxi Report,3
+UNSPECIFIED,Lot Condition,3
 UNSPECIFIED,Animal Abuse,3
 UNSPECIFIED,Abandoned Bike,2
 UNSPECIFIED,Dumpster Complaint,2
 UNSPECIFIED,Food Poisoning,2
 UNSPECIFIED,General Construction/Plumbing,2
+UNSPECIFIED,Highway Sign - Missing,2
 UNSPECIFIED,Litter Basket Complaint,2
 UNSPECIFIED,Sanitation Worker or Vehicle Complaint,2
-UNSPECIFIED,Urinating in Public,2
 UNSPECIFIED,School Maintenance,2
+UNSPECIFIED,Urinating in Public,2
 UNSPECIFIED,Uprooted Stump,2
-UNSPECIFIED,Highway Sign - Missing,2
 UNSPECIFIED,Heat/Hot Water,2
 UNSPECIFIED,Derelict Bicycle,2
 UNSPECIFIED,Sweeping/Missed,2
@@ -2643,21 +2643,20 @@ UNSPECIFIED,Transportation Provider Complaint,2
 UNSPECIFIED,Asbestos,1
 UNSPECIFIED,Bike Rack,1
 UNSPECIFIED,Derelict Vehicles,1
-UNSPECIFIED,Disorderly Youth,1
 UNSPECIFIED,Electrical,1
 UNSPECIFIED,HEAT/HOT WATER,1
-UNSPECIFIED,Highway Sign - Damaged,1
 UNSPECIFIED,Industrial Waste,1
 UNSPECIFIED,LinkNYC,1
 UNSPECIFIED,Water Conservation,1
 UNSPECIFIED,Beach/Pool/Sauna Complaint,1
+UNSPECIFIED,Highway Sign - Damaged,1
+UNSPECIFIED,Disorderly Youth,1
 UNSPECIFIED,Incorrect Data,1
 UNSPECIFIED,Smoking,1
 UNSPECIFIED,Bike Rack Condition,1
 UNSPECIFIED,Flooring/Stairs,1
 UNSPECIFIED,Missed Collection (All Materials),1
 UNSPECIFIED,Air Quality,0
-UNSPECIFIED,Bench,0
 UNSPECIFIED,Bike/Roller/Skate,0
 UNSPECIFIED,Boilers,0
 UNSPECIFIED,Building/Use,0
@@ -2665,7 +2664,6 @@ UNSPECIFIED,Cannabis Retailer,0
 UNSPECIFIED,Construction Lead Dust,0
 UNSPECIFIED,DOOR/WINDOW,0
 UNSPECIFIED,Day Care,0
-UNSPECIFIED,Drinking Water,0
 UNSPECIFIED,E-Scooter,0
 UNSPECIFIED,ELEVATOR,0
 UNSPECIFIED,Elevator,0
@@ -2673,27 +2671,22 @@ UNSPECIFIED,Emergency Response Team (ERT),0
 UNSPECIFIED,FLOORING/STAIRS,0
 UNSPECIFIED,Found Property,0
 UNSPECIFIED,GENERAL,0
-UNSPECIFIED,Green Taxi Complaint,0
-UNSPECIFIED,Green Taxi Report,0
-UNSPECIFIED,Harboring Bees/Wasps,0
-UNSPECIFIED,Illegal Animal Kept as Pet,0
 UNSPECIFIED,Indoor Air Quality,0
 UNSPECIFIED,Indoor Sewage,0
 UNSPECIFIED,Investigations and Discipline (IAD),0
 UNSPECIFIED,Lead,0
-UNSPECIFIED,Mold,0
 UNSPECIFIED,Non-Residential Heat,0
 UNSPECIFIED,OUTSIDE BUILDING,0
 UNSPECIFIED,PAINT/PLASTER,0
 UNSPECIFIED,Pet Sale,0
-UNSPECIFIED,Posting Advertisement,0
+UNSPECIFIED,Plant,0
 UNSPECIFIED,Real Time Enforcement,0
+UNSPECIFIED,Recycling Basket Complaint,0
 UNSPECIFIED,SAFETY,0
-UNSPECIFIED,Scaffold Safety,0
 UNSPECIFIED,Smoking or Vaping,0
+UNSPECIFIED,Snow or Ice,0
 UNSPECIFIED,Special Projects Inspection Team (SPIT),0
-UNSPECIFIED,Taxi Compliment,0
-UNSPECIFIED,Tobacco or Non-Tobacco Sale,0
+UNSPECIFIED,Tattooing,0
 UNSPECIFIED,UNSANITARY CONDITION,0
 UNSPECIFIED,Unleashed Dog,0
 UNSPECIFIED,Unsanitary Animal Pvt Property,0
@@ -2702,54 +2695,61 @@ UNSPECIFIED,WATER LEAK,0
 UNSPECIFIED,Water Quality,0
 UNSPECIFIED,Wood Pile Remaining,0
 UNSPECIFIED,BEST/Site Safety,0
-UNSPECIFIED,Bus Stop Shelter Placement,0
-UNSPECIFIED,Highway Sign - Dangling,0
-UNSPECIFIED,Window Guard,0
+UNSPECIFIED,Bench,0
 UNSPECIFIED,Building Drinking Water Tank,0
-UNSPECIFIED,Snow or Ice,0
-UNSPECIFIED,Tattooing,0
-UNSPECIFIED,Calorie Labeling,0
-UNSPECIFIED,Recycling Basket Complaint,0
-UNSPECIFIED,Cranes and Derricks,0
+UNSPECIFIED,Bus Stop Shelter Placement,0
+UNSPECIFIED,DEP Street Condition,0
+UNSPECIFIED,Green Taxi Complaint,0
+UNSPECIFIED,Harboring Bees/Wasps,0
+UNSPECIFIED,Leaning Bar,0
+UNSPECIFIED,Mold,0
+UNSPECIFIED,AHV Inspection Unit,0
+UNSPECIFIED,Dept of Investigations,0
+UNSPECIFIED,Drinking Water,0
+UNSPECIFIED,Illegal Animal Kept as Pet,0
+UNSPECIFIED,Oil or Gas Spill,0
+UNSPECIFIED,Posting Advertisement,0
+UNSPECIFIED,Scaffold Safety,0
+UNSPECIFIED,Tanning,0
+UNSPECIFIED,Unsanitary Animal Facility,0
 UNSPECIFIED,Illegal Animal Sold,0
 UNSPECIFIED,Institution Disposal Complaint,0
-UNSPECIFIED,Lifeguard,0
-UNSPECIFIED,Plant,0
 UNSPECIFIED,Special Natural Area District (SNAD),0
-UNSPECIFIED,Unsanitary Animal Facility,0
-UNSPECIFIED,Animal Facility - No Permit,0
-UNSPECIFIED,Public Toilet,0
+UNSPECIFIED,Tobacco or Non-Tobacco Sale,0
+UNSPECIFIED,Green Taxi Report,0
+UNSPECIFIED,Poison Ivy,0
+UNSPECIFIED,Radioactive Material,0
 UNSPECIFIED,Wayfinding,0
-UNSPECIFIED,Cooling Tower,0
+UNSPECIFIED,Cranes and Derricks,0
+UNSPECIFIED,Highway Sign - Dangling,0
+UNSPECIFIED,Taxi Compliment,0
+UNSPECIFIED,Animal Facility - No Permit,0
+UNSPECIFIED,FHV Licensee Complaint,0
+UNSPECIFIED,Special Operations,0
 UNSPECIFIED,Taxi Licensee Complaint,0
-UNSPECIFIED,AHV Inspection Unit,0
+UNSPECIFIED,Window Guard,0
+UNSPECIFIED,Calorie Labeling,0
+UNSPECIFIED,Lifeguard,0
+UNSPECIFIED,Public Toilet,0
+UNSPECIFIED,Construction Safety Enforcement,0
+UNSPECIFIED,Cooling Tower,0
 UNSPECIFIED,Mosquitoes,0
 UNSPECIFIED,Squeegee,0
 UNSPECIFIED,Tunnel Condition,0
-UNSPECIFIED,Poison Ivy,0
 UNSPECIFIED,Borough Office,0
-UNSPECIFIED,Dept of Investigations,0
-UNSPECIFIED,DEP Street Condition,0
 UNSPECIFIED,Transfer Station Complaint,0
 UNSPECIFIED,Unspecified,0
-UNSPECIFIED,Radioactive Material,0
 UNSPECIFIED,Building Condition,0
 UNSPECIFIED,DEP Sidewalk Condition,0
-UNSPECIFIED,DEP Highway Condition,0
 UNSPECIFIED,Public Payphone Complaint,0
+UNSPECIFIED,DEP Highway Condition,0
 UNSPECIFIED,DSNY Internal,0
-UNSPECIFIED,FHV Licensee Complaint,0
-UNSPECIFIED,Oil or Gas Spill,0
 UNSPECIFIED,X-Ray Machine/Equipment,0
-UNSPECIFIED,Leaning Bar,0
 UNSPECIFIED,Peeling Paint,0
 UNSPECIFIED,Pet Shop,0
-UNSPECIFIED,Tanning,0
 UNSPECIFIED,ASBESTOS,0
-UNSPECIFIED,Construction Safety Enforcement,0
 UNSPECIFIED,SNW,0
 UNSPECIFIED,Facade Insp Safety Pgm,0
-UNSPECIFIED,Special Operations,0
 UNSPECIFIED,Dispatched Taxi Complaint,0
 UNSPECIFIED,Building Marshal's Office,0
 UNSPECIFIED,Adopt-A-Basket,0
@@ -2789,8 +2789,8 @@ UNSPECIFIED,Home Delivered Meal - Missed Delivery,0
 UNSPECIFIED,Forensic Engineering,0
 UNSPECIFIED,Miscellaneous Categories,0
 UNSPECIFIED,DEP Bridge Condition,0
-UNSPECIFIED,Recycling Enforcement,0
 UNSPECIFIED,Storm,0
+UNSPECIFIED,Recycling Enforcement,0
 UNSPECIFIED,Sweeping/Inadequate,0
 UNSPECIFIED,Overflowing Recycling Baskets,0
 UNSPECIFIED,Collection Truck Noise,0
@@ -2816,12 +2816,12 @@ UNSPECIFIED,Question,0
 UNSPECIFIED,Advocate - Other,0
 UNSPECIFIED,Benefit Card Replacement,0
 UNSPECIFIED,DOF Property - Owner Issue,0
-UNSPECIFIED,DOF Property - Update Account,0
-UNSPECIFIED,DPR Internal,0
 UNSPECIFIED,DOF Property - Property Value,0
 UNSPECIFIED,DOF Property - RPIE Issue,0
 UNSPECIFIED,DOF Property - Reduction Issue,0
 UNSPECIFIED,DOF Property - Request Copy,0
+UNSPECIFIED,DOF Property - Update Account,0
+UNSPECIFIED,DPR Internal,0
 UNSPECIFIED,Research Questions,0
 UNSPECIFIED,MSOTHER,0
 UNSPECIFIED,$(sleep 11),0
@@ -2868,6 +2868,12 @@ UNSPECIFIED,/etc/passwd,0
 UNSPECIFIED,1430*4963,0
 UNSPECIFIED,266dyrgvhg1egsyp2oq57axbm2s...,0
 UNSPECIFIED,@(9313*3464),0
+UNSPECIFIED,Advocate-Co-opCondo Abatement,0
+UNSPECIFIED,Advocate-Prop Refunds/Credits,0
+UNSPECIFIED,Advocate-Property Value,0
+UNSPECIFIED,DOF Parking - Request Copy,0
+UNSPECIFIED,HPD Literature Request,0
+UNSPECIFIED,Housing Options,0
 UNSPECIFIED,Misc. Comments  BCC:a5glxzf...,0
 UNSPECIFIED,Misc. Comments%}dt2pq'/&quo...,0
 UNSPECIFIED,Misc. Comments&amp;echo xjd...,0
@@ -2935,26 +2941,20 @@ UNSPECIFIED,nslookup -q=cname nneyfcxgy...,0
 UNSPECIFIED,qfix4${695*589}lixaf,0
 UNSPECIFIED,yw97y0gi2s,0
 UNSPECIFIED,{!xmlparser v='&lt;!DOCTYPE...,0
-UNSPECIFIED,Advocate-Co-opCondo Abatement,0
-UNSPECIFIED,Advocate-Prop Refunds/Credits,0
-UNSPECIFIED,Advocate-Property Value,0
-UNSPECIFIED,DOF Parking - DMV Clearance,0
-UNSPECIFIED,DOF Parking - Payment Issue,0
-UNSPECIFIED,DOF Parking - Request Copy,0
-UNSPECIFIED,HPD Literature Request,0
-UNSPECIFIED,Housing Options,0
 UNSPECIFIED,Advocate - Lien,0
 UNSPECIFIED,Advocate-Personal Exemptions,0
+UNSPECIFIED,DOF Parking - DMV Clearance,0
+UNSPECIFIED,DOF Parking - Payment Issue,0
+UNSPECIFIED,DOF Parking - Request Status,0
+UNSPECIFIED,SCRIE,0
 UNSPECIFIED,Alzheimer's Care,0
 UNSPECIFIED,DCA / DOH New License Application Request,0
-UNSPECIFIED,DOF Parking - Request Status,0
-UNSPECIFIED,Home Care Provider Complaint,0
-UNSPECIFIED,SCRIE,0
-UNSPECIFIED,Taxpayer Advocate Inquiry,0
 UNSPECIFIED,DOF Parking - Tax Exemption,0
+UNSPECIFIED,Home Care Provider Complaint,0
 UNSPECIFIED,OEM Literature Request,0
-UNSPECIFIED,Elder Abuse,0
+UNSPECIFIED,Taxpayer Advocate Inquiry,0
 UNSPECIFIED,Housing - Low Income Senior,0
+UNSPECIFIED,Elder Abuse,0
 UNSPECIFIED,DOF Property - Payment Issue,0
 UNSPECIFIED,Case Management Agency Complaint,0
 UNSPECIFIED,DRIE,0
@@ -2971,8 +2971,8 @@ UNSPECIFIED,Parking Card,0
 UNSPECIFIED,AGENCY,0
 UNSPECIFIED,Rangehood,0
 UNSPECIFIED,Fire Alarm - New System,0
-UNSPECIFIED,Fire Alarm - Reinspection,0
 UNSPECIFIED,Public Assembly,0
+UNSPECIFIED,Fire Alarm - Reinspection,0
 UNSPECIFIED,Hazmat Storage/Use,0
 UNSPECIFIED,Sprinkler - Mechanical,0
 UNSPECIFIED,Fire Alarm - Modification,0

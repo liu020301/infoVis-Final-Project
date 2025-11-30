@@ -2,5 +2,6 @@
 /dist/
 node_modules/
 yarn-error.log
-src/data/311_Service.csv
-src/data/311_clean.csv
+src/data/311_Service_Requests_from_2010_to_Present_20251117.csv
+src/data/311_curated_ 2010_2024_summary.json
+src/data/311_curated_ 2010_2024.parquet
