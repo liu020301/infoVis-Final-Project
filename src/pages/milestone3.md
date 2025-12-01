@@ -614,7 +614,9 @@ q5Groups.each(function(d) {
       .attr("y", q5Y(d.type))
       .attr("width", ch => q5X(ch.percentage) - q5MarginLeft)
       .attr("height", q5Y.bandwidth())
-      .attr("fill", ch => q5Color(ch.channel));
+      .attr("fill", ch => q5Color(ch.channel))
+      .append("title")
+        .text(ch => `${d.type}\n${ch.channel}: ${ch.count.toLocaleString()} requests (${ch.percentage.toFixed(1)}%)\nTotal: ${d.total.toLocaleString()}`);
 });
 
 // Legend
