@@ -53,7 +53,7 @@ def clean_311_data():
     if not RAW_PATH.exists():
         raise FileNotFoundError(f"Raw CSV not found at {RAW_PATH}")
     
-    print(f"📂 Loading raw data from {RAW_PATH}...")
+    print(f"Loading raw data from {RAW_PATH}...")
     start_time = datetime.now()
     
     # Load with optimized dtypes
@@ -78,13 +78,13 @@ def clean_311_data():
     )
     
     rows_read = len(df)
-    print(f"✓ Loaded {rows_read:,} rows in {datetime.now() - start_time}")
-    print(f"💾 Memory usage: {df.memory_usage(deep=True).sum() / 1e9:.2f} GB")
+    print(f"Loaded {rows_read:,} rows in {datetime.now() - start_time}")
+    print(f"Memory usage: {df.memory_usage(deep=True).sum() / 1e9:.2f} GB")
     
     # Rename columns
     df.columns = df.columns.str.lower().str.replace(" ", "_")
     
-    print("\n🧹 Cleaning data...")
+    print("\nCleaning data...")
     
     # Parse dates with error handling
     df["created_date"] = pd.to_datetime(df["created_date"], errors='coerce')
@@ -96,17 +96,17 @@ def clean_311_data():
         (df["created_date"] >= START_DATE) &
         (df["created_date"] <= END_DATE)
     ]
-    print(f"✓ Filtered to {len(df):,} rows ( 2010-2024 inclusive)")
+    print(f"Filtered to {len(df):,} rows ( 2010-2024 inclusive)")
     
     # Drop missing key fields
     before = len(df)
     df = df.dropna(subset=["complaint_type", "borough", "latitude", "longitude"])
-    print(f"✓ Dropped {before - len(df):,} rows missing key fields")
+    print(f"Dropped {before - len(df):,} rows missing key fields")
     
     # Drop duplicates
     before = len(df)
     df = df.drop_duplicates(subset=["unique_key"])
-    print(f"✓ Dropped {before - len(df):,} duplicates")
+    print(f"Dropped {before - len(df):,} duplicates")
     
     # Clean borough names
     df["borough"] = df["borough"].str.strip().str.upper()
@@ -147,7 +147,7 @@ def clean_311_data():
     
     df["channel_group"] = df["open_data_channel_type"].apply(map_channel).astype("category")
     
-    print("\n📅 Deriving temporal features...")
+    print("\nDeriving temporal features...")
     
     # Time features
     df["year"] = df["created_date"].dt.year.astype("int16")
@@ -176,8 +176,8 @@ def clean_311_data():
     ]
     df = df[[c for c in ordered_cols if c in df.columns]]
     
-    print(f"\n💾 Final memory: {df.memory_usage(deep=True).sum() / 1e9:.2f} GB")
-    print(f"📦 Writing Parquet file to {OUTPUT_PATH}...")
+    print(f"\nFinal memory: {df.memory_usage(deep=True).sum() / 1e9:.2f} GB")
+    print(f"Writing Parquet file to {OUTPUT_PATH}...")
     
     # Write Parquet with excellent compression
     df.to_parquet(
@@ -188,7 +188,7 @@ def clean_311_data():
     )
     
     file_size_mb = OUTPUT_PATH.stat().st_size / 1e6
-    print(f"✓ Parquet file: {file_size_mb:.1f} MB")
+    print(f"Parquet file: {file_size_mb:.1f} MB")
     
     # Create summary
     summary = {
@@ -206,14 +206,14 @@ def clean_311_data():
         json.dump(summary, f, indent=2)
     
     # Create pre-aggregated data for D3
-    print("\n📊 Creating D3 CSV exports...")
+    print("\nCreating D3 CSV exports...")
     create_d3_exports(df)
     
     elapsed = datetime.now() - start_time
-    print(f"\n✅ Complete in {elapsed}!")
-    print(f"📄 Main file: {OUTPUT_PATH} ({file_size_mb:.1f} MB)")
-    print(f"📊 D3 exports: {EXPORTS_DIR}")
-    print(f"📊 Summary: {SUMMARY_PATH}")
+    print(f"\nComplete in {elapsed}!")
+    print(f"Main file: {OUTPUT_PATH} ({file_size_mb:.1f} MB)")
+    print(f"D3 exports: {EXPORTS_DIR}")
+    print(f"Summary: {SUMMARY_PATH}")
 
 
 def create_d3_exports(df: pd.DataFrame):
@@ -228,13 +228,13 @@ def create_d3_exports(df: pd.DataFrame):
     ]).size().reset_index(name="count")
     monthly.columns = ["date", "borough", "count"]
     monthly.to_csv(EXPORTS_DIR / "q1_monthly_trends.csv", index=False)
-    print(f"  ✓ q1_monthly_trends.csv ({len(monthly):,} rows, {(EXPORTS_DIR / 'q1_monthly_trends.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" q1_monthly_trends.csv ({len(monthly):,} rows, {(EXPORTS_DIR / 'q1_monthly_trends.csv').stat().st_size / 1e3:.0f} KB)")
     
     # Q2: Top complaints by borough
     complaints_by_borough = df.groupby(["borough", "complaint_type"]).size().reset_index(name="count")
     complaints_by_borough = complaints_by_borough.sort_values(["borough", "count"], ascending=[True, False])
     complaints_by_borough.to_csv(EXPORTS_DIR / "q2_complaints_by_borough.csv", index=False)
-    print(f"  ✓ q2_complaints_by_borough.csv ({len(complaints_by_borough):,} rows, {(EXPORTS_DIR / 'q2_complaints_by_borough.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" q2_complaints_by_borough.csv ({len(complaints_by_borough):,} rows, {(EXPORTS_DIR / 'q2_complaints_by_borough.csv').stat().st_size / 1e3:.0f} KB)")
     
     # Q3: Heatmap data (hour x day of week) - aggregate by complaint type
     top_complaints = df["complaint_type"].value_counts().head(20).index
@@ -242,7 +242,7 @@ def create_d3_exports(df: pd.DataFrame):
         "complaint_type", "day_of_week", "hour"
     ]).size().reset_index(name="count")
     heatmap_data.to_csv(EXPORTS_DIR / "q3_hourly_patterns.csv", index=False)
-    print(f"  ✓ q3_hourly_patterns.csv ({len(heatmap_data):,} rows, {(EXPORTS_DIR / 'q3_hourly_patterns.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" q3_hourly_patterns.csv ({len(heatmap_data):,} rows, {(EXPORTS_DIR / 'q3_hourly_patterns.csv').stat().st_size / 1e3:.0f} KB)")
     
     # Q4: Geographic data - aggregate by zip for efficiency
     geo_agg = df.groupby(["incident_zip", "borough"]).agg({
@@ -254,13 +254,13 @@ def create_d3_exports(df: pd.DataFrame):
     geo_agg.columns = ["zip", "borough", "lat", "lng", "median_response_hours", "count"]
     geo_agg = geo_agg.dropna(subset=["median_response_hours"])
     geo_agg.to_csv(EXPORTS_DIR / "q4_response_by_location.csv", index=False)
-    print(f"  ✓ q4_response_by_location.csv ({len(geo_agg):,} rows, {(EXPORTS_DIR / 'q4_response_by_location.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" q4_response_by_location.csv ({len(geo_agg):,} rows, {(EXPORTS_DIR / 'q4_response_by_location.csv').stat().st_size / 1e3:.0f} KB)")
     
     # Q5: Channel usage by complaint type
     channels = df.groupby(["complaint_type", "channel_group"]).size().reset_index(name="count")
     channels = channels.sort_values(["complaint_type", "count"], ascending=[True, False])
     channels.to_csv(EXPORTS_DIR / "q5_channels_by_complaint.csv", index=False)
-    print(f"  ✓ q5_channels_by_complaint.csv ({len(channels):,} rows, {(EXPORTS_DIR / 'q5_channels_by_complaint.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" q5_channels_by_complaint.csv ({len(channels):,} rows, {(EXPORTS_DIR / 'q5_channels_by_complaint.csv').stat().st_size / 1e3:.0f} KB)")
     
     # Bonus: Yearly summary
     yearly = df.groupby("year").agg({
@@ -269,7 +269,7 @@ def create_d3_exports(df: pd.DataFrame):
     }).reset_index()
     yearly.columns = ["year", "total_requests", "median_response_hours"]
     yearly.to_csv(EXPORTS_DIR / "yearly_summary.csv", index=False)
-    print(f"  ✓ yearly_summary.csv ({len(yearly):,} rows, {(EXPORTS_DIR / 'yearly_summary.csv').stat().st_size / 1e3:.0f} KB)")
+    print(f" yearly_summary.csv ({len(yearly):,} rows, {(EXPORTS_DIR / 'yearly_summary.csv').stat().st_size / 1e3:.0f} KB)")
 
 
 if __name__ == "__main__":

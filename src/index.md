@@ -13,7 +13,7 @@ toc: false
 
 ## Introduction
 
-New York City’s 311 system processes millions of requests every year, serving as a real-time barometer of urban conditions—ranging from noise and heat complaints to street maintenance and public service failures. Understanding these patterns is valuable not only for operational planning but also for uncovering disparities in how different communities experience city services.
+NYC’s 311 system receives millions of service requests every year. These requests say a lot about what residents experience in daily life—noise, broken infrastructure, heating issues, parking conflicts, and more. Understanding these patterns is valuable not only for operational planning but also for uncovering disparities in how different communities experience city services.
 In this analysis, we look at several common patterns:
 - how the number of requests changed after 2020
 
