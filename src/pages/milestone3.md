@@ -1,5 +1,5 @@
 ---
-title: Milestone 3 — NYC 311 Service Dynamics
+title: NYC 311 Service Dynamics
 files:
   - ../data/exports/q1_monthly_trends.csv
   - ../data/exports/q2_complaints_by_borough.csv
