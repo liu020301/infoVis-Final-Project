@@ -11,10 +11,13 @@ toc: true
 
 # NYC 311 Service Dynamics
 
-NYC's 311 service handles nearly 3 million requests annually, revealing how residents experience daily city life—noise disturbances, infrastructure hazards, and service outages. This analysis explores post-2010 patterns to surface operational insights and potential equity concerns across NYC's five boroughs.
+NYC's 311 service handles nearly 3 million requests annually, revealing how residents experience daily city life—noise disturbances, infrastructure hazards, and service outages. This analysis explores post-2014 patterns to surface operational insights and potential equity concerns across NYC's five boroughs.
 
 ```js
 import * as d3 from "npm:d3";
+const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+const textColor = isDarkMode ? "#ffffff" : "#000000";
+const gridColor = isDarkMode ? "#666666" : "#cccccc";
 ```
 
 ```js
@@ -40,11 +43,11 @@ const q5Data = await FileAttachment("../data/exports/q5_channels_by_complaint.cs
 
 ---
 
-## Q1. How has the volume of 311 requests evolved since 2020 across boroughs?
+## Q1. How has the volume of 311 requests evolved since 2010 across boroughs?
 
 
 ```js
-const q1Filtered = q1Data.filter(d => new Date(d.date) >= new Date("2014-01-01"));
+const q1Filtered = q1Data.filter(d => new Date(d.date) >= new Date("2010-01-01"));
 ```
 
 ```js
@@ -115,6 +118,7 @@ svg.append("text")
   .attr("x", marginLeft)
   .attr("y", marginTop - 10)
   .attr("font-weight", "bold")
+  .attr("fill", textColor)
   .text(`Monthly 311 Requests${selectedBorough !== "All" ? ` — ${selectedBorough}` : " — All Boroughs"}`);
 
 nested.forEach((values, borough) => {
@@ -145,6 +149,22 @@ display(svg.node());
 
 
 ```js
+// Add controls for year selection (Q2)
+const showAllYearsQ2 = view(Inputs.checkbox(["Show All Years"], {value: ["Show All Years"]}));
+
+// Extract min and max years from the data, converting to numbers
+const minYearQ2 = d3.min(q2Data, d => +d.year);
+const maxYearQ2 = d3.max(q2Data, d => +d.year);
+
+const selectedYearQ2 = view(Inputs.range([minYearQ2, maxYearQ2], {
+  label: "Select Year",
+  step: 1,
+  value: maxYearQ2, // Default to most recent year
+  disabled: showAllYearsQ2.length > 0 // Disable when "Show All Years" is checked
+}));
+```
+
+```js
 const selectedBoroughQ2 = view(Inputs.select(boroughs, {label: "Borough", value: "Brooklyn"}));
 ```
 
@@ -156,7 +176,30 @@ const q2MarginRight = 40;
 const q2MarginBottom = 40;
 const q2MarginLeft = 280;
 
-const q2BoroughData = q2Data.filter(d => d.borough === selectedBoroughQ2);
+// Filter data based on year selection
+const yearFilteredDataQ2 = showAllYearsQ2.length > 0 
+  ? q2Data 
+  : q2Data.filter(d => +d.year === selectedYearQ2);
+
+// Aggregate data when showing all years
+const aggregatedDataQ2 = showAllYearsQ2.length > 0
+  ? Array.from(
+      d3.rollup(
+        yearFilteredDataQ2,
+        v => d3.sum(v, d => d.count),
+        d => d.borough,
+        d => d.complaint_type
+      ),
+      ([borough, complaints]) => 
+        Array.from(complaints, ([complaint_type, count]) => ({
+          borough,
+          complaint_type,
+          count
+        }))
+    ).flat()
+  : yearFilteredDataQ2;
+
+const q2BoroughData = aggregatedDataQ2.filter(d => d.borough === selectedBoroughQ2);
 const q2BoroughTotal = d3.sum(q2BoroughData, d => d.count);
 
 const q2ChartData = q2BoroughData
@@ -195,11 +238,14 @@ q2Svg.append("g")
   .call(d3.axisLeft(q2Y))
   .call(g => g.select(".domain").remove());
 
+// Title with year information
+const yearTextQ2 = showAllYearsQ2.length > 0 ? "All Years" : selectedYearQ2;
 q2Svg.append("text")
   .attr("x", q2MarginLeft)
   .attr("y", q2MarginTop - 10)
   .attr("font-weight", "bold")
-  .text(`Top Complaint Types — ${selectedBoroughQ2}`);
+  .attr("fill", textColor)
+  .text(`Top Complaint Types — ${selectedBoroughQ2} — ${yearTextQ2}`);
 
 q2Svg.append("g")
   .selectAll("rect")
@@ -219,7 +265,7 @@ q2Svg.append("g")
     .attr("y", d => q2Y(d.complaint_type) + q2Y.bandwidth() / 2)
     .attr("dy", "0.35em")
     .attr("font-size", 11)
-    .attr("fill", "black")
+    .attr("fill", textColor)
     .text(d => `${d.count.toLocaleString()}`);
 
 display(q2Svg.node());
@@ -297,6 +343,7 @@ q3Svg.append("text")
   .attr("y", 20)
   .attr("font-weight", "bold")
   .attr("font-size", 14)
+  .attr("fill", textColor)
   .text(`${selectedComplaint} — Weekday vs Hour`);
 
 q3Svg.append("g")
@@ -324,17 +371,17 @@ q3Svg.append("g")
   .append("title")
     .text(d => `${d.day}, ${d.hour}:00\n${d.count.toLocaleString()} requests`);
 
-// Legend
-const q3LegendWidth = 200;
-const q3LegendHeight = 10;
+// Vertical Legend
+const q3LegendWidth = 15;
+const q3LegendHeight = 150;
 const q3LegendX = q3Width - q3MarginRight + 20;
 const q3LegendY = q3MarginTop;
 
 const q3LegendScale = d3.scaleLinear()
   .domain([0, d3.max(q3HeatmapData, d => d.count)])
-  .range([0, q3LegendWidth]);
+  .range([q3LegendHeight, 0]);
 
-const q3LegendAxis = d3.axisBottom(q3LegendScale)
+const q3LegendAxis = d3.axisRight(q3LegendScale)
   .ticks(5)
   .tickFormat(d => d.toLocaleString());
 
@@ -342,7 +389,9 @@ const q3Defs = q3Svg.append("defs");
 const q3Gradient = q3Defs.append("linearGradient")
   .attr("id", "q3-legend-gradient")
   .attr("x1", "0%")
-  .attr("x2", "100%");
+  .attr("x2", "0%")
+  .attr("y1", "100%")
+  .attr("y2", "0%");
 
 q3Gradient.selectAll("stop")
   .data(d3.range(0, 1.01, 0.1))
@@ -358,7 +407,7 @@ q3Svg.append("rect")
   .style("fill", "url(#q3-legend-gradient)");
 
 q3Svg.append("g")
-  .attr("transform", `translate(${q3LegendX},${q3LegendY + q3LegendHeight})`)
+  .attr("transform", `translate(${q3LegendX + q3LegendWidth},${q3LegendY})`)
   .call(q3LegendAxis);
 
 display(q3Svg.node());
@@ -369,6 +418,22 @@ display(q3Svg.node());
 ## Q4. Where do residents wait the longest for resolution?
 
 
+
+```js
+// Add controls for year selection
+const showAllYears = view(Inputs.checkbox(["Show All Years"], {value: ["Show All Years"]}));
+
+// Extract min and max years from the data, converting to numbers
+const minYear = d3.min(q4Data, d => +d.year);
+const maxYear = d3.max(q4Data, d => +d.year);
+
+const selectedYear = view(Inputs.range([minYear, maxYear], {
+  label: "Select Year",
+  step: 1,
+  value: maxYear, // Default to most recent year
+  disabled: showAllYears.length > 0 // Disable when "Show All Years" is checked
+}));
+```
 ```js
 const responseMetric = view(Inputs.radio(["median_response_hours", "count"], {
   label: "Show",
@@ -378,40 +443,74 @@ const responseMetric = view(Inputs.radio(["median_response_hours", "count"], {
 ```
 
 ```js
-const nycGeoJson = await d3.json("https://raw.githubusercontent.com/dwillis/nyc-maps/master/boroughs.geojson");
+// Load NYC zip code boundaries GeoJSON
+const nycZipGeoJson = await d3.json("https://raw.githubusercontent.com/fedhere/PUI2015_EC/master/mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson");
 
 const q4Width = 928;
 const q4Height = 600;
 
-// 2. Filter q4Data (renamed from q4ChartData)
-// We use a local variable 'plotData' for the filtered set to keep q4Data intact
-const plotData = q4Data.filter(d =>
+// Filter data based on year selection
+const yearFilteredData = showAllYears.length > 0 
+  ? q4Data 
+  : q4Data.filter(d => d.year === selectedYear);
+
+// Further filter for valid locations
+const plotData = yearFilteredData.filter(d =>
   d.count >= 100 &&
   d.lat > 40.4 && d.lat < 41.0 &&
   d.lng > -74.3 && d.lng < -73.7 &&
   d.borough !== "UNSPECIFIED"
 );
 
-// 3. Setup Projection
+// If showing all years, aggregate by zip code
+const aggregatedData = showAllYears.length > 0
+  ? Array.from(
+      d3.rollup(
+        plotData,
+        v => ({
+          median_response_hours: d3.median(v, d => d.median_response_hours),
+          count: d3.sum(v, d => d.count),
+          borough: v[0].borough
+        }),
+        d => d.zip
+      ),
+      ([zip, metrics]) => ({ zip: zip.toString(), ...metrics })
+    )
+  : plotData.map(d => ({ 
+      zip: d.zip.toString(), 
+      median_response_hours: d.median_response_hours,
+      count: d.count,
+      borough: d.borough
+    }));
+
+// Create a map of zip codes to metrics for easy lookup
+const zipMetrics = new Map(aggregatedData.map(d => [
+  d.zip,
+  {
+    median_response_hours: d.median_response_hours,
+    count: d.count,
+    borough: d.borough
+  }
+]));
+
+// Setup Projection
 const projection = d3.geoConicConformal()
   .parallels([40 + 40 / 60, 41 + 2 / 60])
   .rotate([74, 0])
-  .fitSize([q4Width, q4Height], nycGeoJson);
+  .fitSize([q4Width, q4Height], nycZipGeoJson);
 
 const path = d3.geoPath().projection(projection);
 
-// 4. Scales
+// Scales - only use data that we have metrics for
+const dataWithMetrics = aggregatedData.filter(d => zipMetrics.has(d.zip));
+
 const q4ColorScale = responseMetric === "median_response_hours"
   ? d3.scaleSequential(d3.interpolateViridis)
-      .domain([0, d3.quantile(plotData.map(d => d.median_response_hours).sort(d3.ascending), 0.9)])
+      .domain([0, d3.quantile(dataWithMetrics.map(d => d.median_response_hours).sort(d3.ascending), 0.9)])
   : d3.scaleSequential(d3.interpolatePlasma)
-      .domain([0, d3.quantile(plotData.map(d => d.count).sort(d3.ascending), 0.95)]);
+      .domain([0, d3.quantile(dataWithMetrics.map(d => d.count).sort(d3.ascending), 0.95)]);
 
-const q4SizeScale = d3.scaleSqrt()
-  .domain([0, d3.max(plotData, d => d.count)])
-  .range([2, 12]);
-
-// 5. Create SVG
+// Create SVG
 const q4Svg = d3.create("svg")
   .attr("width", q4Width)
   .attr("height", q4Height)
@@ -423,17 +522,14 @@ const legendWidth = 200;
 const legendHeight = 12;
 const legendPosition = { x: q4Width - legendWidth - 30, y: 30 };
 
-// Create a unique ID for the gradient
-const gradientId = "legend-gradient";
+const gradientId = "legend-gradient-q4";
 
-// Append defs and gradient
 const defs = q4Svg.append("defs");
 const gradient = defs.append("linearGradient")
   .attr("id", gradientId)
   .attr("x1", "0%")
   .attr("x2", "100%");
 
-// Generate stops for the gradient based on the current color scale
 const stopCount = 10;
 for (let i = 0; i <= stopCount; i++) {
   const t = i / stopCount;
@@ -442,19 +538,17 @@ for (let i = 0; i <= stopCount; i++) {
     .attr("stop-color", q4ColorScale.interpolator()(t));
 }
 
-// Legend Group
 const legendG = q4Svg.append("g")
   .attr("transform", `translate(${legendPosition.x}, ${legendPosition.y})`);
 
-// Legend Title
 legendG.append("text")
   .attr("x", 0)
   .attr("y", -8)
   .attr("font-size", "12px")
   .attr("font-weight", "bold")
+  .attr("fill", textColor)
   .text(responseMetric === "median_response_hours" ? "Avg Response (Hours)" : "Request Count");
 
-// Legend Color Bar
 legendG.append("rect")
   .attr("width", legendWidth)
   .attr("height", legendHeight)
@@ -462,7 +556,6 @@ legendG.append("rect")
   .attr("stroke", "#ccc")
   .attr("stroke-width", 0.5);
 
-// Legend Axis
 const legendScale = d3.scaleLinear()
   .domain(q4ColorScale.domain())
   .range([0, legendWidth]);
@@ -475,41 +568,46 @@ const legendAxis = d3.axisBottom(legendScale)
 legendG.append("g")
   .attr("transform", `translate(0, ${legendHeight})`)
   .call(legendAxis)
-  .select(".domain").remove(); // Hide the main axis line for a cleaner look
+  .select(".domain").remove();
 // -----------------------------
 
-// Title
+// Title with year information
+const yearText = showAllYears.length > 0 ? "All Years" : selectedYear;
 q4Svg.append("text")
   .attr("x", 40)
   .attr("y", 30)
   .attr("font-weight", "bold")
   .attr("font-size", 16)
-  .text(`NYC 311 Response by Location`);
+  .attr("fill", textColor)
+  .text(`NYC 311 Response by Location — ${yearText}`);
 
-// Draw Background Map
+// Draw Zip Code Choropleth Map
 q4Svg.append("g")
   .selectAll("path")
-  .data(nycGeoJson.features)
+  .data(nycZipGeoJson.features)
   .join("path")
     .attr("d", path)
-    .attr("fill", "#e6e6e6")
+    .attr("fill", d => {
+      const zipCode = d.properties.postalCode || d.properties.ZIPCODE || d.properties.ZCTA5CE10;
+      const metrics = zipMetrics.get(zipCode);
+      if (metrics) {
+        return q4ColorScale(metrics[responseMetric]);
+      }
+      return "#e6e6e6"; // Gray for areas without data
+    })
     .attr("stroke", "#ffffff")
-    .attr("stroke-width", 1);
-
-// Draw Data Points
-q4Svg.append("g")
-  .selectAll("circle")
-  .data(plotData)
-  .join("circle")
-    .attr("cx", d => projection([d.lng, d.lat])[0])
-    .attr("cy", d => projection([d.lng, d.lat])[1])
-    .attr("r", responseMetric === "median_response_hours" ? 4 : d => q4SizeScale(d.count))
-    .attr("fill", d => q4ColorScale(d[responseMetric]))
-    .attr("opacity", 0.7)
-    .attr("stroke", "#333")
     .attr("stroke-width", 0.5)
+    .attr("opacity", 0.9)
   .append("title")
-    .text(d => `${d.borough} (${d.zip})\nMedian Response: ${d.median_response_hours.toFixed(1)} hrs\nRequests: ${d.count.toLocaleString()}`);
+    .text(d => {
+      const zipCode = d.properties.postalCode || d.properties.ZIPCODE || d.properties.ZCTA5CE10;
+      const metrics = zipMetrics.get(zipCode);
+      if (metrics) {
+        const yearInfo = showAllYears.length > 0 ? "All Years" : selectedYear;
+        return `Zip: ${zipCode} (${yearInfo})\nBorough: ${metrics.borough}\nMedian Response: ${metrics.median_response_hours.toFixed(1)} hrs\nRequests: ${metrics.count.toLocaleString()}`;
+      }
+      return `Zip: ${zipCode}\nNo data available`;
+    });
 
 display(q4Svg.node());
 ```
@@ -520,27 +618,64 @@ display(q4Svg.node());
 
 ## Q5. Which reporting channels are most used per complaint type?
 
-
 ```js
-const topComplaintTypesQ5 = [...new Set(q5Data.map(d => d.complaint_type))]
-  .map(type => ({
-    type,
-    total: d3.sum(q5Data.filter(d => d.complaint_type === type), d => d.count)
-  }))
-  .sort((a, b) => b.total - a.total)
-  .slice(0, 15)
-  .map(d => d.type);
+// Add controls for year selection (Q5)
+const showAllYearsQ5 = view(Inputs.checkbox(["Show All Years"], {value: ["Show All Years"]}));
+
+// Extract min and max years from the data, converting to numbers
+const minYearQ5 = d3.min(q5Data, d => +d.year);
+const maxYearQ5 = d3.max(q5Data, d => +d.year);
+
+const selectedYearQ5 = view(Inputs.range([minYearQ5, maxYearQ5], {
+  label: "Select Year",
+  step: 1,
+  value: maxYearQ5, // Default to most recent year
+  disabled: showAllYearsQ5.length > 0 // Disable when "Show All Years" is checked
+}));
 ```
 
 ```js
 const q5Width = 928;
-const q5Height = 600;
+const q5Height = 800;
 const q5MarginTop = 40;
 const q5MarginRight = 150;
 const q5MarginBottom = 40;
 const q5MarginLeft = 280;
 
-const q5ChartData = q5Data.filter(d => topComplaintTypesQ5.includes(d.complaint_type));
+// Filter data based on year selection
+const yearFilteredDataQ5 = showAllYearsQ5.length > 0 
+  ? q5Data 
+  : q5Data.filter(d => +d.year === selectedYearQ5);
+
+// Aggregate data when showing all years
+const aggregatedDataQ5 = showAllYearsQ5.length > 0
+  ? Array.from(
+      d3.rollup(
+        yearFilteredDataQ5,
+        v => d3.sum(v, d => d.count),
+        d => d.complaint_type,
+        d => d.channel_group
+      ),
+      ([complaint_type, channels]) => 
+        Array.from(channels, ([channel_group, count]) => ({
+          complaint_type,
+          channel_group,
+          count
+        }))
+    ).flat()
+  : yearFilteredDataQ5;
+
+// Get top complaint types from aggregated data
+const topComplaintTypesQ5 = [...new Set(aggregatedDataQ5.map(d => d.complaint_type))]
+  .map(type => ({
+    type,
+    total: d3.sum(aggregatedDataQ5.filter(d => d.complaint_type === type), d => d.count)
+  }))
+  .sort((a, b) => b.total - a.total)
+  .slice(0, 20)
+  .map(d => d.type);
+
+const q5ChartData = aggregatedDataQ5.filter(d => topComplaintTypesQ5.includes(d.complaint_type));
 
 const q5ComplaintTotals = d3.rollup(q5ChartData, v => d3.sum(v, d => d.count), d => d.complaint_type);
 
@@ -578,12 +713,15 @@ const q5Svg = d3.create("svg")
   .attr("viewBox", [0, 0, q5Width, q5Height])
   .attr("style", "max-width: 100%; height: auto;");
 
+// Title with year information
+const yearTextQ5 = showAllYearsQ5.length > 0 ? "All Years" : selectedYearQ5;
 q5Svg.append("text")
   .attr("x", q5MarginLeft)
   .attr("y", 20)
   .attr("font-weight", "bold")
   .attr("font-size", 14)
-  .text("Reporting Channel Mix by Complaint Type");
+  .attr("fill", textColor)
+  .text(`Reporting Channel Mix by Complaint Type — ${yearTextQ5}`);
 
 q5Svg.append("g")
   .attr("transform", `translate(0,${q5Height - q5MarginBottom})`)
@@ -616,7 +754,7 @@ q5Groups.each(function(d) {
       .attr("height", q5Y.bandwidth())
       .attr("fill", ch => q5Color(ch.channel))
       .append("title")
-        .text(ch => `${d.type}\n${ch.channel}: ${ch.count.toLocaleString()} requests (${ch.percentage.toFixed(1)}%)\nTotal: ${d.total.toLocaleString()}`);
+        .text(ch => `${d.type} (${yearTextQ5})\n${ch.channel}: ${ch.count.toLocaleString()} requests (${ch.percentage.toFixed(1)}%)\nTotal: ${d.total.toLocaleString()}`);
 });
 
 // Legend
@@ -636,6 +774,7 @@ const q5Legend = q5Svg.append("g")
     .attr("x", 20)
     .attr("y", 12)
     .attr("font-size", 12)
+    .attr("fill", textColor)
     .text(channel);
 });
 

@@ -221,7 +221,7 @@ def create_d3_exports(df: pd.DataFrame):
     
     EXPORTS_DIR.mkdir(exist_ok=True)
     
-    # Q1: Monthly trends by borough (time series)
+    # Q1: Monthly trends by borough (time series) - ORIGINAL, no changes
     monthly = df.groupby([
         df["created_date"].dt.to_period("M").dt.to_timestamp(),
         "borough"
@@ -230,13 +230,14 @@ def create_d3_exports(df: pd.DataFrame):
     monthly.to_csv(EXPORTS_DIR / "q1_monthly_trends.csv", index=False)
     print(f" q1_monthly_trends.csv ({len(monthly):,} rows, {(EXPORTS_DIR / 'q1_monthly_trends.csv').stat().st_size / 1e3:.0f} KB)")
     
-    # Q2: Top complaints by borough
-    complaints_by_borough = df.groupby(["borough", "complaint_type"]).size().reset_index(name="count")
-    complaints_by_borough = complaints_by_borough.sort_values(["borough", "count"], ascending=[True, False])
+    # Q2: Top complaints by borough - ADD YEAR, filter zeros
+    complaints_by_borough = df.groupby(["year", "borough", "complaint_type"]).size().reset_index(name="count")
+    complaints_by_borough = complaints_by_borough[complaints_by_borough["count"] > 0]  # Remove zero counts
+    complaints_by_borough = complaints_by_borough.sort_values(["year", "borough", "count"], ascending=[True, True, False])
     complaints_by_borough.to_csv(EXPORTS_DIR / "q2_complaints_by_borough.csv", index=False)
     print(f" q2_complaints_by_borough.csv ({len(complaints_by_borough):,} rows, {(EXPORTS_DIR / 'q2_complaints_by_borough.csv').stat().st_size / 1e3:.0f} KB)")
     
-    # Q3: Heatmap data (hour x day of week) - aggregate by complaint type
+    # Q3: Heatmap data (hour x day of week) - ORIGINAL, no changes
     top_complaints = df["complaint_type"].value_counts().head(20).index
     heatmap_data = df[df["complaint_type"].isin(top_complaints)].groupby([
         "complaint_type", "day_of_week", "hour"
@@ -244,21 +245,23 @@ def create_d3_exports(df: pd.DataFrame):
     heatmap_data.to_csv(EXPORTS_DIR / "q3_hourly_patterns.csv", index=False)
     print(f" q3_hourly_patterns.csv ({len(heatmap_data):,} rows, {(EXPORTS_DIR / 'q3_hourly_patterns.csv').stat().st_size / 1e3:.0f} KB)")
     
-    # Q4: Geographic data - aggregate by zip for efficiency
-    geo_agg = df.groupby(["incident_zip", "borough"]).agg({
+    # Q4: Geographic data - ADD YEAR, filter zeros
+    geo_agg = df.groupby(["year", "incident_zip", "borough"]).agg({
         "latitude": "mean",
         "longitude": "mean",
         "response_hours": "median",
         "unique_key": "count"
     }).reset_index()
-    geo_agg.columns = ["zip", "borough", "lat", "lng", "median_response_hours", "count"]
+    geo_agg.columns = ["year", "zip", "borough", "lat", "lng", "median_response_hours", "count"]
+    geo_agg = geo_agg[geo_agg["count"] > 0]  # Remove zero counts
     geo_agg = geo_agg.dropna(subset=["median_response_hours"])
     geo_agg.to_csv(EXPORTS_DIR / "q4_response_by_location.csv", index=False)
     print(f" q4_response_by_location.csv ({len(geo_agg):,} rows, {(EXPORTS_DIR / 'q4_response_by_location.csv').stat().st_size / 1e3:.0f} KB)")
     
-    # Q5: Channel usage by complaint type
-    channels = df.groupby(["complaint_type", "channel_group"]).size().reset_index(name="count")
-    channels = channels.sort_values(["complaint_type", "count"], ascending=[True, False])
+    # Q5: Channel usage by complaint type - ADD YEAR, filter zeros
+    channels = df.groupby(["year", "complaint_type", "channel_group"]).size().reset_index(name="count")
+    channels = channels[channels["count"] > 0]  # Remove zero counts
+    channels = channels.sort_values(["year", "complaint_type", "count"], ascending=[True, True, False])
     channels.to_csv(EXPORTS_DIR / "q5_channels_by_complaint.csv", index=False)
     print(f" q5_channels_by_complaint.csv ({len(channels):,} rows, {(EXPORTS_DIR / 'q5_channels_by_complaint.csv').stat().st_size / 1e3:.0f} KB)")
     
