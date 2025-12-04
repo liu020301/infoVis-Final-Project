@@ -1,38 +1,45 @@
-# FinalProject
+# NYC 311 Service Dynamics — Final Project
 
-[Milestone 3](proposal_milestone3.md)
+Summary
+- Exploratory InfoVis analysis of NYC 311 service requests (2010–present) using D3 and prepared CSV exports.  
 
-This is an [Observable Framework](https://observablehq.com/framework/) app. To install the required dependencies, run:
+Group
+- Zehao Liu (zl6194)  
+- Junyuan Wang (jw9178)  
+- Jiangnan Li (jl18011)
 
-```
-npm install
-```
+Key files
+- Source pages: `src/index.md`, `src/pages/milestone3.md`  
+- Data exports: `src/data/exports/`
+  - q1_monthly_trends.csv
+  - q2_complaints_by_borough.csv
+  - q3_hourly_patterns.csv
+  - q4_response_by_location.csv
+  - q5_channels_by_complaint.csv
 
-Then, to start the local preview server, run:
+Main questions (Q1–Q5)
+- Q1: How has the volume of 311 requests evolved since 2010 across boroughs??  
+- Q2: What complaint types dominate each borough and how concentrated are they??  
+- Q3: When during the week and day do high-impact complaints occur? 
+- Q4: Where do residents wait the longest for resolution?
+- Q5: Which reporting channels are most used per complaint type?
 
-```
-npm run dev
-```
+Findings (brief)
+- 2020 caused a clear drop then rebound; Brooklyn, Queens, and the Bronx drive most volume post-2020.  
+- Noise and illegal parking are consistently high-volume issues; heating/utility complaints concentrate in some boroughs (e.g., Bronx).  
+- Temporal patterns vary by complaint type (noise late-night/weekends; parking during commute hours; infrastructure during business hours).  
+- Longer response times appear in several outer-borough pockets (parts of Bronx, eastern Queens, Staten Island), not strictly correlated with request density.  
+- Phone dominates for urgent household issues; web/mobile are common for noise and parking reports.
 
-Then visit <http://localhost:3000> to preview your app.
+How to run (Mac)
+- Requirements: Node.js, pnpm or npm.  
+- Install:
+  - pnpm: `pnpm install`
+  - npm: `npm install`
+- Dev/preview:
+  - `pnpm dev` or `npm run dev`
 
-**`src`** - This is the “source root” — where your source files live. Pages go here. Each page is a Markdown file. Observable Framework uses [file-based routing](https://observablehq.com/framework/project-structure#routing), which means that the name of the file controls where the page is served. You can create as many pages as you like. Use folders to organize your pages.
-
-**`src/index.md`** - This is the home page for your app. You can have as many additional pages as you’d like, but you should always have a home page, too.
-
-**`src/data`** - You can put [data loaders](https://observablehq.com/framework/data-loaders) or static data files anywhere in your source root, but we recommend putting them here.
-
-**`src/components`** - You can put shared [JavaScript modules](https://observablehq.com/framework/imports) anywhere in your source root, but we recommend putting them here. This helps you pull code out of Markdown files and into JavaScript modules, making it easier to reuse code across pages, write tests and run linters, and even share code with vanilla web applications.
-
-**`observablehq.config.js`** - This is the [app configuration](https://observablehq.com/framework/config) file, such as the pages and sections in the sidebar navigation, and the app’s title.
-
-## Command reference
-
-| Command           | Description                                              |
-| ----------------- | -------------------------------------------------------- |
-| `npm install`            | Install or reinstall dependencies                        |
-| `npm run dev`        | Start local preview server                               |
-| `npm run build`      | Build your static site, generating `./dist`              |
-| `npm run deploy`     | Deploy your app to Observable                            |
-| `npm run clean`      | Clear the local data loader cache                        |
-| `npm run observable` | Run commands like `observable help`                      |
+Data source and license
+- Data: "311 Service Requests from 2010 to Present" — NYC Open Data.  
+    https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data 
+- Visualizations implemented with D3.js.
