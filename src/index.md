@@ -16,7 +16,8 @@ Group Members:
 - Junyuan Wang	jw9178
 - Jiangnan Li		jl18011
 
-## Introduction
+## Problem Space
+---
 
 NYC’s 311 system receives millions of service requests every year. These requests say a lot about what residents experience in daily life—noise, broken infrastructure, heating issues, parking conflicts, and more. Understanding these patterns is valuable not only for operational planning but also for uncovering disparities in how different communities experience city services.
 In this analysis, we look at several common patterns:
@@ -33,6 +34,7 @@ In this analysis, we look at several common patterns:
 The goal is to understand both behavior patterns and possible service gaps across NYC.
 
 ## Data Description
+---
 The dataset we used is “311 Service Requests from 2010 to Present” from NYC Open Data. It is one of the city’s largest public datasets and is updated every day. It contains every 311 service request reported by New Yorkers since 2010, including issues like noise, heating complaints, illegal parking, broken street lights, and many others. 
 For this project, we focused mainly on:
 - the complaint type
@@ -48,6 +50,7 @@ For this project, we focused mainly on:
 - reporting channel
 
 ## Questions and Findings
+---
 ### Q1. How has the volume of 311 requests evolved since 2010 across boroughs?
 From 2010 to 2024, the volume of 311 requests shows a clear upward trend across the city, although each borough grows at a different pace. Brooklyn sees the strongest and most consistent increase, reaching some of the highest monthly counts in the dataset. Queens and the Bronx also rise steadily over time, with the Bronx having more up and down changes from month to month. Manhattan grows more slowly, and Staten Island stays much lower throughout the entire period. Around 2020, there is a noticeable drop followed by a quick rebound, which likely reflects the early months of the pandemic when city activity temporarily slowed and reporting behavior shifted. After that period, request levels return quickly and remain high, continuing the overall growth pattern that has been developing since the early 2010s.
 
@@ -68,6 +71,7 @@ The All-Years view reflects these long-term tendencies. Phone is still the domin
 
 
 ## Conclusion
+---
 Overall, the 311 data shows that request patterns differ across boroughs but follow a few clear themes. Across the full period from 2010 to 2024, activity has remained high, with Brooklyn, Queens, and the Bronx driving most of the volume. Noise and parking complaints consistently dominate, while heating, water, and street-related issues vary more by area. Timing patterns also differ by complaint type: noise peaks late at night, parking issues rise during commute hours, and most infrastructure complaints happen during the day. Spatially, some outer-borough neighborhoods experience noticeably longer response times, even though they don’t always have the highest request counts. Reporting channels reflect the nature of the issue — urgent household problems are usually reported by phone, while noise and illegal parking are more often submitted by mobile or web.<br><br>
 These findings suggest a few possible improvements. Late-night noise issues and early-morning heating problems may benefit from better targeted staffing or automated screening. Areas with long response times, especially in parts of the Bronx and Queens, could gain from additional field resources or more efficient routing. Strengthening mobile and web tools may also help reduce phone-dependent bottlenecks.<br><br>
 It’s also important to note the dataset’s limitations. 311 requests reflect what residents choose to report, not all actual incidents, and reporting behavior varies by neighborhood and demographic factors. Some categories are broad or inconsistently used, and response-time data can be influenced by agency processes not captured in the dataset. Despite these limits, the data still offers a useful view of service needs across the city and highlights where attention and resources could make the biggest difference.<br><br>
