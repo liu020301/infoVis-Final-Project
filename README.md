@@ -24,13 +24,6 @@ Main questions (Q1–Q5)
 - Q4: Where do residents wait the longest for resolution?
 - Q5: Which reporting channels are most used per complaint type?
 
-Findings (brief)
-- 2020 caused a clear drop then rebound; Brooklyn, Queens, and the Bronx drive most volume post-2020.  
-- Noise and illegal parking are consistently high-volume issues; heating/utility complaints concentrate in some boroughs (e.g., Bronx).  
-- Temporal patterns vary by complaint type (noise late-night/weekends; parking during commute hours; infrastructure during business hours).  
-- Longer response times appear in several outer-borough pockets (parts of Bronx, eastern Queens, Staten Island), not strictly correlated with request density.  
-- Phone dominates for urgent household issues; web/mobile are common for noise and parking reports.
-
 How to run (Mac)
 - Requirements: Node.js, pnpm or npm.  
 - Install:
