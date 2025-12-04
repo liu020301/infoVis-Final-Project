@@ -265,7 +265,7 @@ def create_d3_exports(df: pd.DataFrame):
     channels.to_csv(EXPORTS_DIR / "q5_channels_by_complaint.csv", index=False)
     print(f" q5_channels_by_complaint.csv ({len(channels):,} rows, {(EXPORTS_DIR / 'q5_channels_by_complaint.csv').stat().st_size / 1e3:.0f} KB)")
     
-    # Bonus: Yearly summary
+    # Yearly summary
     yearly = df.groupby("year").agg({
         "unique_key": "count",
         "response_hours": "median"
