@@ -11,7 +11,7 @@ toc: true
 
 # NYC 311 Service Dynamics
 
-NYC's 311 service handles nearly 3 million requests annually, revealing how residents experience daily city life—noise disturbances, infrastructure hazards, and service outages. This analysis explores post-2014 patterns to surface operational insights and potential equity concerns across NYC's five boroughs.
+NYC's 311 service handles nearly 3 million requests annually, revealing how residents experience daily city life—noise disturbances, infrastructure hazards, and service outages. Using data from 2010 to 2024, this analysis looks at long-term trends across the five boroughs to highlight how service demand has changed over time and what those patterns might say about operations and equity across the city.
 
 ```js
 import * as d3 from "npm:d3";
